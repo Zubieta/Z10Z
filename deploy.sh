@@ -3,7 +3,7 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Clean the last files
-git rm -r public
+rm -rf public
 
 # Build the project.
 hugo -t 'twentyfourteen'
