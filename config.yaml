@@ -4,6 +4,7 @@ layoutdir: "layouts"
 publishdir: "public"
 baseurl: "https://zubieta.github.io/z10z"
 title: "Z10Z"
+disqusShortname: "Z10Z721"
 permalinks:
   post: "/:year/:month/:slug/"
 theme: "twentyfourteen"
