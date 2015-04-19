@@ -2,11 +2,13 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
+# Clean the last files
+git rm -r public
+
 # Build the project.
 hugo -t 'twentyfourteen'
 
 # Add changes to git.
-git rm -r public
 git add .
 
 # Commit changes.
