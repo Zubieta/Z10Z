@@ -23,4 +23,4 @@ For using the updated functionality, you enter an initial **Room** called **Lobb
 
 Also, someone told me that hosting at **Heroku** made things run a bit sluggish, but in my opinion its a good free hosting that provides backend functionality *(that is not PHP)*, and very easy to deploy to, all of which fulfills my basic needs!
 
-You can find the code at [**GitHub**](https://github.com/Zubieta/CraZe_Web), and make sure you [**have a nice time drawing with it!**](https://craze.herokuapp.com).
+You can find the code at [**GitHub**](https://github.com/Zubieta/CraZe_Web), and make sure you [**have a nice time drawing with it!**](https://craze.herokuapp.com)
