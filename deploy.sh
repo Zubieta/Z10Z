@@ -9,7 +9,7 @@ rm -rf public
 hugo -t 'twentyfourteen'
 
 # Add changes to git.
-git add .
+git add --all .
 
 # Commit changes.
 msg="rebuilding site `date`"
