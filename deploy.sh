@@ -6,6 +6,7 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 hugo -t 'twentyfourteen'
 
 # Add changes to git.
+git rm -r public
 git add .
 
 # Commit changes.
