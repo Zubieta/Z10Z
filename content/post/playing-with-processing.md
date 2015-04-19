@@ -31,4 +31,4 @@ It also makes a lot easier to manage **input events** *(mouse, keyboard, externa
 
 But you can also develop in **Eclipse** *(which is painful at first, having to extract the core .jar libraries from Processing and add them to your new projects manually every time)*, but once you get the grasp of it, its awesome, because how easy it becomes to use external **Java** packages, debuggers, and other tools, or manually include the **Processing.js** files in a web page project and develop directly in HTML/JS with some of its bindings *(at the cost of missing cross-compatibility).*
 
-But in **Eclipse** you can sacrifice that for nice code completion, debugging, tons of existing libraries, and faster time to run *(its a ton faster to deploy an Android app from PC to device in Eclipse than from Processing’s IDE)*.
+But in **Eclipse** you can sacrifice such cross-compatibility for nice code completion, debugging, tons of existing libraries, and faster time to run *(its a ton faster to deploy an Android app from PC to device in Eclipse than from Processing’s IDE)*.

@@ -28,7 +28,9 @@
 
 &lt;p&gt;In this case, its a song that has both the kinda &lt;strong&gt;calm&lt;/strong&gt; classical music part, but also an &lt;strong&gt;explosive&lt;/strong&gt; beginning, it feels as an rush that lights every temper, kickstarts the brain, and then it calms down a &lt;em&gt;bit&lt;/em&gt; to make place for a bit lengthy session of focus, only to start picking up again. The same structure and feeling could be said to be delivered by &lt;a href=&#34;https://www.youtube.com/watch?v=rHBG_FeITBY&#34;&gt;&lt;strong&gt;Carl Orff&amp;rsquo;s Carmina Burana&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Listening to music during a prolonged task, can be incentivating, it helps setting a rhythm, it alleviates monotomy, but I try to avoid music with much lyrics though &lt;em&gt;(at least that I can understand)&lt;/em&gt;, since listening to them draws from your attention. T`hats why listening to your favorite modern band while programming can do not much good to your focus.&lt;/p&gt;
+&lt;p&gt;Listening to music during a prolonged task, can be incentivating, it helps setting a rhythm, it alleviates monotomy, but I try to avoid music with much lyrics though &lt;em&gt;(at least that I can understand)&lt;/em&gt;, since listening to them draws from your attention. Thats why listening to your favorite modern band while programming can do not much good to your focus.&lt;/p&gt;
+
+&lt;p&gt;Also one of my &lt;strong&gt;goals in life&lt;/strong&gt; is to live in a place where I can attend and witness such magnificent orchestras.&lt;/p&gt;
 </description>
     </item>
     
@@ -48,6 +50,9 @@
 &lt;p&gt;For me, &lt;strong&gt;Christmas&lt;/strong&gt; vacations is usually a period where I tend to stay idle for long times, even weeks, reminiscing about the year that has just passed, what did I achieve &lt;em&gt;(or not)&lt;/em&gt;, how much of my goals went through, or if I adquired new goals. Then feeling &lt;strong&gt;sad&lt;/strong&gt;, feeling &lt;strong&gt;happy&lt;/strong&gt;, feeling &lt;strong&gt;nostalgic&lt;/strong&gt; of when I was a kid and past Christmasses, and mostly, &lt;strong&gt;having no idea of what to do with my free time&lt;/strong&gt; &lt;em&gt;(perhaps having way too much ideas on what to do or what to learn but being too indecisive to follow through any of them because of the feeling of missing out on the others)&lt;/em&gt; but then I start resolving to do some things, and dedicate myself for days non-stop on them and &lt;strong&gt;feel really good&lt;/strong&gt; because of it, because its having full time to do what I want, completely free from university obligations.&lt;/p&gt;
 
 &lt;p&gt;Now, its &lt;strong&gt;Christmas 2014&lt;/strong&gt;, and I spent most of it laying idle being too indecisive on what to do, but then I resolved to learn some further &lt;strong&gt;NodeJS&lt;/strong&gt; stuff yesterday, and while reading about &lt;a href=&#34;http://socket.io&#34;&gt;&lt;strong&gt;SocketIO&lt;/strong&gt;&lt;/a&gt;, which enables easy realtime communication between app frontend instances and a backend, I remembered that old promise about making my app multi-user ~ concurrent, and then kept reading all that morning and afternoon about it, which sufficed for spending the whole night and next morning bringing the project back from the land of the long-dead-code &lt;em&gt;(god my code styling and structuring was nefarious back then, two years ago)&lt;/em&gt;, and successfully adapted it for such simultaneous drawing purposes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/2MmBHRN.png&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
 
 &lt;p&gt;For using the updated functionality, you enter an initial &lt;strong&gt;Room&lt;/strong&gt; called &lt;strong&gt;Lobby&lt;/strong&gt;, with a predefined &lt;strong&gt;Guest&lt;/strong&gt; username, the settings are at the right as usual, but now you have a row of buttons at the bottom, to &lt;strong&gt;check the users&lt;/strong&gt; in your same room, to &lt;strong&gt;join another room&lt;/strong&gt;, or to &lt;strong&gt;change your nickname&lt;/strong&gt;. It draws every line, every point, that other users in the same room draw, in real time!&lt;/p&gt;
 
@@ -123,7 +128,7 @@
 
 &lt;p&gt;But you can also develop in &lt;strong&gt;Eclipse&lt;/strong&gt; &lt;em&gt;(which is painful at first, having to extract the core .jar libraries from Processing and add them to your new projects manually every time)&lt;/em&gt;, but once you get the grasp of it, its awesome, because how easy it becomes to use external &lt;strong&gt;Java&lt;/strong&gt; packages, debuggers, and other tools, or manually include the &lt;strong&gt;Processing.js&lt;/strong&gt; files in a web page project and develop directly in HTML/JS with some of its bindings &lt;em&gt;(at the cost of missing cross-compatibility).&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;But in &lt;strong&gt;Eclipse&lt;/strong&gt; you can sacrifice that for nice code completion, debugging, tons of existing libraries, and faster time to run &lt;em&gt;(its a ton faster to deploy an Android app from PC to device in Eclipse than from Processing’s IDE)&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;But in &lt;strong&gt;Eclipse&lt;/strong&gt; you can sacrifice such cross-compatibility for nice code completion, debugging, tons of existing libraries, and faster time to run &lt;em&gt;(its a ton faster to deploy an Android app from PC to device in Eclipse than from Processing’s IDE)&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     

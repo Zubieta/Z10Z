@@ -29,6 +29,9 @@
 
 &lt;p&gt;Now, its &lt;strong&gt;Christmas 2014&lt;/strong&gt;, and I spent most of it laying idle being too indecisive on what to do, but then I resolved to learn some further &lt;strong&gt;NodeJS&lt;/strong&gt; stuff yesterday, and while reading about &lt;a href=&#34;http://socket.io&#34;&gt;&lt;strong&gt;SocketIO&lt;/strong&gt;&lt;/a&gt;, which enables easy realtime communication between app frontend instances and a backend, I remembered that old promise about making my app multi-user ~ concurrent, and then kept reading all that morning and afternoon about it, which sufficed for spending the whole night and next morning bringing the project back from the land of the long-dead-code &lt;em&gt;(god my code styling and structuring was nefarious back then, two years ago)&lt;/em&gt;, and successfully adapted it for such simultaneous drawing purposes.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/2MmBHRN.png&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
 &lt;p&gt;For using the updated functionality, you enter an initial &lt;strong&gt;Room&lt;/strong&gt; called &lt;strong&gt;Lobby&lt;/strong&gt;, with a predefined &lt;strong&gt;Guest&lt;/strong&gt; username, the settings are at the right as usual, but now you have a row of buttons at the bottom, to &lt;strong&gt;check the users&lt;/strong&gt; in your same room, to &lt;strong&gt;join another room&lt;/strong&gt;, or to &lt;strong&gt;change your nickname&lt;/strong&gt;. It draws every line, every point, that other users in the same room draw, in real time!&lt;/p&gt;
 
 &lt;p&gt;Also, someone told me that hosting at &lt;strong&gt;Heroku&lt;/strong&gt; made things run a bit sluggish, but in my opinion its a good free hosting that provides backend functionality &lt;em&gt;(that is not PHP)&lt;/em&gt;, and very easy to deploy to, all of which fulfills my basic needs!&lt;/p&gt;
@@ -103,7 +106,7 @@
 
 &lt;p&gt;But you can also develop in &lt;strong&gt;Eclipse&lt;/strong&gt; &lt;em&gt;(which is painful at first, having to extract the core .jar libraries from Processing and add them to your new projects manually every time)&lt;/em&gt;, but once you get the grasp of it, its awesome, because how easy it becomes to use external &lt;strong&gt;Java&lt;/strong&gt; packages, debuggers, and other tools, or manually include the &lt;strong&gt;Processing.js&lt;/strong&gt; files in a web page project and develop directly in HTML/JS with some of its bindings &lt;em&gt;(at the cost of missing cross-compatibility).&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;But in &lt;strong&gt;Eclipse&lt;/strong&gt; you can sacrifice that for nice code completion, debugging, tons of existing libraries, and faster time to run &lt;em&gt;(its a ton faster to deploy an Android app from PC to device in Eclipse than from Processing’s IDE)&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;But in &lt;strong&gt;Eclipse&lt;/strong&gt; you can sacrifice such cross-compatibility for nice code completion, debugging, tons of existing libraries, and faster time to run &lt;em&gt;(its a ton faster to deploy an Android app from PC to device in Eclipse than from Processing’s IDE)&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     

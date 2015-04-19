@@ -28,7 +28,9 @@
 
 &lt;p&gt;In this case, its a song that has both the kinda &lt;strong&gt;calm&lt;/strong&gt; classical music part, but also an &lt;strong&gt;explosive&lt;/strong&gt; beginning, it feels as an rush that lights every temper, kickstarts the brain, and then it calms down a &lt;em&gt;bit&lt;/em&gt; to make place for a bit lengthy session of focus, only to start picking up again. The same structure and feeling could be said to be delivered by &lt;a href=&#34;https://www.youtube.com/watch?v=rHBG_FeITBY&#34;&gt;&lt;strong&gt;Carl Orff&amp;rsquo;s Carmina Burana&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Listening to music during a prolonged task, can be incentivating, it helps setting a rhythm, it alleviates monotomy, but I try to avoid music with much lyrics though &lt;em&gt;(at least that I can understand)&lt;/em&gt;, since listening to them draws from your attention. T`hats why listening to your favorite modern band while programming can do not much good to your focus.&lt;/p&gt;
+&lt;p&gt;Listening to music during a prolonged task, can be incentivating, it helps setting a rhythm, it alleviates monotomy, but I try to avoid music with much lyrics though &lt;em&gt;(at least that I can understand)&lt;/em&gt;, since listening to them draws from your attention. Thats why listening to your favorite modern band while programming can do not much good to your focus.&lt;/p&gt;
+
+&lt;p&gt;Also one of my &lt;strong&gt;goals in life&lt;/strong&gt; is to live in a place where I can attend and witness such magnificent orchestras.&lt;/p&gt;
 </description>
     </item>
     
@@ -48,6 +50,9 @@
 &lt;p&gt;For me, &lt;strong&gt;Christmas&lt;/strong&gt; vacations is usually a period where I tend to stay idle for long times, even weeks, reminiscing about the year that has just passed, what did I achieve &lt;em&gt;(or not)&lt;/em&gt;, how much of my goals went through, or if I adquired new goals. Then feeling &lt;strong&gt;sad&lt;/strong&gt;, feeling &lt;strong&gt;happy&lt;/strong&gt;, feeling &lt;strong&gt;nostalgic&lt;/strong&gt; of when I was a kid and past Christmasses, and mostly, &lt;strong&gt;having no idea of what to do with my free time&lt;/strong&gt; &lt;em&gt;(perhaps having way too much ideas on what to do or what to learn but being too indecisive to follow through any of them because of the feeling of missing out on the others)&lt;/em&gt; but then I start resolving to do some things, and dedicate myself for days non-stop on them and &lt;strong&gt;feel really good&lt;/strong&gt; because of it, because its having full time to do what I want, completely free from university obligations.&lt;/p&gt;
 
 &lt;p&gt;Now, its &lt;strong&gt;Christmas 2014&lt;/strong&gt;, and I spent most of it laying idle being too indecisive on what to do, but then I resolved to learn some further &lt;strong&gt;NodeJS&lt;/strong&gt; stuff yesterday, and while reading about &lt;a href=&#34;http://socket.io&#34;&gt;&lt;strong&gt;SocketIO&lt;/strong&gt;&lt;/a&gt;, which enables easy realtime communication between app frontend instances and a backend, I remembered that old promise about making my app multi-user ~ concurrent, and then kept reading all that morning and afternoon about it, which sufficed for spending the whole night and next morning bringing the project back from the land of the long-dead-code &lt;em&gt;(god my code styling and structuring was nefarious back then, two years ago)&lt;/em&gt;, and successfully adapted it for such simultaneous drawing purposes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/2MmBHRN.png&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
 
 &lt;p&gt;For using the updated functionality, you enter an initial &lt;strong&gt;Room&lt;/strong&gt; called &lt;strong&gt;Lobby&lt;/strong&gt;, with a predefined &lt;strong&gt;Guest&lt;/strong&gt; username, the settings are at the right as usual, but now you have a row of buttons at the bottom, to &lt;strong&gt;check the users&lt;/strong&gt; in your same room, to &lt;strong&gt;join another room&lt;/strong&gt;, or to &lt;strong&gt;change your nickname&lt;/strong&gt;. It draws every line, every point, that other users in the same room draw, in real time!&lt;/p&gt;
 
@@ -81,15 +86,44 @@
       <pubDate>Wed, 18 Jun 2014 01:32:32 COT</pubDate>
       
       <guid>https://zubieta.github.io/z10z/2014/06/exploring-mobile-device-functionality/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been playing around with some pieces of technology &lt;em&gt;(an Android Tablet, an Android Phone, Apple’s Magic Keyboard/Trackpad, a MHL-Compliant TV)&lt;/em&gt; which I own, and found out some functionality which I didn’t know they could perform together:&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;ve been playing around with some pieces of technology &lt;em&gt;(an Android Tablet, an Android Phone, Apple’s Magic Keyboard/Trackpad, a MHL-Compliant TV)&lt;/em&gt; which I own, and found out some simple but neat functionality which I didn’t know they could perform together:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;If you have an &lt;strong&gt;Android Tablet/Phone&lt;/strong&gt;, and if you pair a &lt;strong&gt;Bluetooth Keyboard&lt;/strong&gt; like &lt;strong&gt;Apple&lt;/strong&gt;&amp;rsquo;s own &lt;strong&gt;Magic Keyboard&lt;/strong&gt;, several Apple-Specific hot keys retain their functions, like &lt;strong&gt;Media Buttons&lt;/strong&gt; &lt;em&gt;(Play/Pause/Volume, which seems more reasonable)&lt;/em&gt; and &lt;strong&gt;Exposé&lt;/strong&gt; &lt;em&gt;(opens up the Task Manager, this one quite impressed me)&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;If you have an &lt;strong&gt;Android Tablet/Phone&lt;/strong&gt;, and if you pair a &lt;strong&gt;BT Keyboard&lt;/strong&gt; like &lt;strong&gt;Apple&lt;/strong&gt;&amp;rsquo;s own &lt;strong&gt;Magic Keyboard&lt;/strong&gt;, you can perform a lot of functionality from the keyboard. Many sites mention some basic shortcuts for external keyboards, and some seem reasonable &lt;em&gt;(like the media buttons, or shortcuts to replace the regular buttons)&lt;/em&gt;, but some are surprising because are &lt;strong&gt;Apple&lt;/strong&gt;-specific buttons that perform similar functionality on an &lt;strong&gt;Android&lt;/strong&gt; device, these are:&lt;/p&gt;
 
-&lt;li&gt;&lt;p&gt;If you have an &lt;strong&gt;Android Tablet/Phone&lt;/strong&gt;, and if you pair a &lt;strong&gt;Bluetooth Trackpad&lt;/strong&gt; like &lt;strong&gt;Apple&lt;/strong&gt;’s own &lt;strong&gt;Magic Trackpad&lt;/strong&gt;, not only it makes a cursor appear on screen like a traditional mouse, but also &lt;strong&gt;Multitouch Gestures&lt;/strong&gt; done on the trackpad are identified by the device &lt;em&gt;(like, multi-finger gestures, and showing one circular cursor for each finger on the trackpad as if they were on the screen)&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Media&lt;/strong&gt; key &lt;em&gt;(Play/Pause/Volume, which seems more reasonable).&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Brightness&lt;/strong&gt; key &lt;em&gt;(which usually control a Mac screen brightness, but the tablet responds to them).&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exposé&lt;/strong&gt; key &lt;em&gt;(which opens up the task manager on the Android device).&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Escape&lt;/strong&gt; key &lt;em&gt;(which serves as the &amp;lsquo;back&amp;rsquo; button on Android).&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Control + Escape&lt;/strong&gt; combo &lt;em&gt;(which serves as the &amp;lsquo;menu&amp;rsquo; button on Android).&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CMD + Escape&lt;/strong&gt; combo &lt;em&gt;(which serves as the &amp;lsquo;home&amp;rsquo; button on Android).&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CMD + Tab&lt;/strong&gt; combo &lt;em&gt;(works like in computers, switch between open apps).&lt;/em&gt;&lt;br /&gt;
+ &lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;If you have an &lt;strong&gt;Android Tablet/Phone&lt;/strong&gt;, and if you pair a &lt;strong&gt;BT Trackpad&lt;/strong&gt; like &lt;strong&gt;Apple&lt;/strong&gt;’s own &lt;strong&gt;Magic Trackpad&lt;/strong&gt;, a circular translucid cursor &lt;em&gt;(not an arrow)&lt;/em&gt; appears on screen moving along your finger on the trackpad, but also &lt;strong&gt;Multitouch Gestures&lt;/strong&gt; done on the trackpad are identified by the device &lt;em&gt;(like, every finger on the trackpad is detected, I&amp;rsquo;ve tested up to 10 fingers, all detected, and it shows one circular cursor for each finger on the trackpad as if they were on the screen)&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;(I think that with iOS Devices you can pair the Magic Keyboard, or any Bluetooth Keyboard for the matter, but not the Trackpad, Apple seems to be a bit allergic about having a Cursor on Touch Devices, even if its neat for TV-out and not having to be stuck in front of the TV, and their very own Magic Trackpad would allow people to perform Multi-Touch gestures from afar. Its very strange that Android devices support the full Magic Trackpad functionality, and Apple&amp;rsquo;s own iOS devices support none).&lt;/em&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Single Finger &amp;lsquo;Cursor&amp;rsquo;&lt;/th&gt;
+&lt;th&gt;Multiple Fingers &amp;lsquo;Cursors&amp;rsquo;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://i.imgur.com/IOv8fGX.png&#34;&gt;&lt;img src=&#34;http://i.imgur.com/IOv8fGX.png&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://i.imgur.com/20o2YSe.png&#34;&gt;&lt;img src=&#34;http://i.imgur.com/20o2YSe.png&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;em&gt;(I think that with iOS Devices you can pair the Magic Keyboard, or any other BT Keyboard for the matter, but not the Magic Trackpad. Apple seems to be a bit allergic about having a cursor, be it arrowy or circular, on touch devices, even if its neat for TV-out and not having to be stuck in front of the TV, and their very own Magic Trackpad would allow people to perform Multi-Touch gestures from afar. Its very strange that Android devices support the full Magic Trackpad functionality, and Apple&amp;rsquo;s own iOS devices support none).&lt;/em&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;If you have a &lt;strong&gt;MHL-Enabled TV&lt;/strong&gt;, chances are that when you connect a device like an &lt;strong&gt;Android Tablet/Phone&lt;/strong&gt; via HDMI &lt;em&gt;(I guess it counts for any device that’s MHL Compliant)&lt;/em&gt;, you can control that device using the TV’s own remove control. So, with my TV remote I can use the arrows to navigate around and also the Media Buttons &lt;em&gt;(Play/Pause/Stop)&lt;/em&gt; to control music/movies that are playing on the device, making any tablet/phone into a potential media center for the &lt;em&gt;(MHL-Enabled)&lt;/em&gt; TV without needing to buy any kind of external device to control the device from afar.&lt;/li&gt;
@@ -165,14 +199,14 @@
 
 &lt;p&gt;But you can also develop in &lt;strong&gt;Eclipse&lt;/strong&gt; &lt;em&gt;(which is painful at first, having to extract the core .jar libraries from Processing and add them to your new projects manually every time)&lt;/em&gt;, but once you get the grasp of it, its awesome, because how easy it becomes to use external &lt;strong&gt;Java&lt;/strong&gt; packages, debuggers, and other tools, or manually include the &lt;strong&gt;Processing.js&lt;/strong&gt; files in a web page project and develop directly in HTML/JS with some of its bindings &lt;em&gt;(at the cost of missing cross-compatibility).&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;But in &lt;strong&gt;Eclipse&lt;/strong&gt; you can sacrifice that for nice code completion, debugging, tons of existing libraries, and faster time to run &lt;em&gt;(its a ton faster to deploy an Android app from PC to device in Eclipse than from Processing’s IDE)&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;But in &lt;strong&gt;Eclipse&lt;/strong&gt; you can sacrifice such cross-compatibility for nice code completion, debugging, tons of existing libraries, and faster time to run &lt;em&gt;(its a ton faster to deploy an Android app from PC to device in Eclipse than from Processing’s IDE)&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>I Would (Not)</title>
       <link>https://zubieta.github.io/z10z/2013/12/i-would-not/</link>
-      <pubDate>Sat, 28 Dec 2013 02:19:23 COT</pubDate>
+      <pubDate>Sat, 07 Dec 2013 02:19:23 COT</pubDate>
       
       <guid>https://zubieta.github.io/z10z/2013/12/i-would-not/</guid>
       <description>&lt;p&gt;There&amp;rsquo;s things I’ve said &lt;strong&gt;I’d not want&lt;/strong&gt;, or &lt;strong&gt;never do&lt;/strong&gt;, or &lt;strong&gt;never be&lt;/strong&gt;, and saw such things as negative, and nonetheless I&amp;rsquo;ve ended up &lt;strong&gt;wanting&lt;/strong&gt;, &lt;strong&gt;doing&lt;/strong&gt;, or &lt;strong&gt;becoming&lt;/strong&gt; many of them.&lt;/p&gt;
