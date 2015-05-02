@@ -1,7 +1,7 @@
 +++
 categories = ["Life", "Programming"]
 date = "2015-02-12T15:49:11-05:00"
-description = ""
+description = "This is just the beginning."
 slug = "internship-at-google"
 tags = ["Google", "Internship", "Summer"]
 title = "Internship at Google"
