@@ -18,7 +18,7 @@ I also love arts, from time to time drawing by hand and playing around with code
 
 As hobbies, I like riding a bicycle, taking a lot of [pictures](http://instagram.com/zubie7a), eating pizza, and binge-watching lots of series and [movies](http://thefuckingmovies.tumblr.com)!
 
-Most of my programming work is regarding Backends, Distributed Systems, Information Security, and Data Structures and Algorithms, but in the past I made for fun a drawing app for making designs with effects, rotations, symmetry, and brushes which is available at the [Android Play Store](https://play.google.com/store/apps/details?id=com.zubieta.craze), there's also a multiplayer [Chrome version](http://craze.herokuapp.com) and sometimes I [post](http://instagram.com/crazeapp) images made with it.
+Most of my programming work is regarding **Web Backends**, **Distributed Systems**, **Information Security**, and **Data Structures and Algorithms**, but in my free time I explore things related to **Computational Art**, regarding this I made for fun a drawing app for making designs with effects, rotations, symmetry, and brushes which is available at the [Android Play Store](https://play.google.com/store/apps/details?id=com.zubieta.craze), there's also a multiuser [Chrome version](http://craze.herokuapp.com) and sometimes I [post images](http://instagram.com/crazeapp) made with it.
 
 **Whats in a name?**
 

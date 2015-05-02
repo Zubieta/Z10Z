@@ -2199,7 +2199,7 @@ a.post-thumbnail:hover {
     -moz-box-sizing:    border-box;
     box-sizing:         border-box;
     color: #767676;
-    padding: 48px 10px 0;
+    padding: 8px 10px 0;
 }
 
 
@@ -3926,7 +3926,7 @@ a.post-thumbnail:hover {
         font-size: 11px;
         font-weight: 900;
         line-height: 1.6363636363;
-        margin-bottom: 18px;
+        margin-bottom: 5px;
     }
 
     .footer-sidebar .widget_twentyfourteen_ephemera .entry-title,
@@ -4076,7 +4076,7 @@ a.post-thumbnail:hover {
     }
 
     #secondary {
-        width: 162px;
+        width: 182px;
     }
 
     .secondary-navigation,
@@ -4086,7 +4086,8 @@ a.post-thumbnail:hover {
 
     .secondary-navigation ul li:hover > ul,
     .secondary-navigation ul li.focus > ul {
-        left: 202px;
+        left: 20
+        2px;
     }
 
     .slider .featured-content .entry-title {

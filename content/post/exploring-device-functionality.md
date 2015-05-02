@@ -2,9 +2,9 @@
 categories = ["Technology"]
 date = "2014-06-18T01:32:32-05:00"
 description = "Discovering certain things about some pieces of technology which I own."
-slug = "exploring-mobile-device-functionality"
+slug = "exploring-device-functionality"
 tags = ["Android", "Apple", "Devices"]
-title = "Exploring Mobile Device Functionality"
+title = "Exploring Device Functionality"
 +++
 
 I've been playing around with some pieces of technology *(an Android Tablet, an Android Phone, Apple’s Magic Keyboard/Trackpad, a MHL-Compliant TV)* which I own, and found out some simple but neat functionality which I didn’t know they could perform together:
