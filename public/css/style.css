@@ -1300,7 +1300,7 @@ a.post-thumbnail:hover {
 .entry-summary a,
 .page-content a,
 .comment-content a {
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .entry-content a:hover,
