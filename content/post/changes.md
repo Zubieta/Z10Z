@@ -1,15 +1,14 @@
 +++
 categories = ["Life"]
 date = "0042-01-01T18:31:27-05:00"
-description = "Trying do's"
+description = "Trying styles."
 slug = "changes"
-tags = []
+tags = ["Beard", "Changes", "Hair", "Haircut", "Styles"]
 title = "Changes"
-draft = true
 
 +++
 
-Some pictures I've taken in the last 4 years *(mostly while I have been at university)*, years full of **changes**, going from thinking and doing **stupid stuff**, to either **kinda rational stuff** or **stupider stuff** heh, but also, just out of pure curiosity, trying several combinations of **hair styles**.
+Some pictures I've taken in the last 4 years *(mostly while I have been at university)*, years full of **changes**, going from thinking and doing **stupid stuff**, to thinking and doing either **kinda rational stuff** or **stupider stuff** heh, but also, just out of pure curiosity, trying several combinations of **hair styles**, sometimes even cutting my own hair to **try things**.
 
 *Long hair, short hair, really short hair, messy hair, ironed hair, no beard, long beard, trimmed beard, [just-one-day strange beard](https://i.imgur.com/08QYPLZ.jpg), unkempt hair, kempt hair*, **in any combination**, you name it.
 
@@ -41,19 +40,19 @@ Some pictures I've taken in the last 4 years *(mostly while I have been at unive
 |---|---|---|
 | [![][19]][19] | [![][20]][20]  | [![][21]][21] |
 
-|   |   |   |
+| January 20, 2014 | March 12, 2014 | June 3, 2014 |
 |---|---|---|
 | [![][22]][22] | [![][23]][23]  | [![][24]][24] |
 
-|   |   |   |
+| October 7, 2014 | November 12, 2014 | January 1, 2015 |
 |---|---|---|
 | [![][25]][25] | [![][26]][26] | [![][27]][27] |
 
-|   |   |   |
+| January 26, 2015 | January 27, 2015 | February 16, 2015 |
 |---|---|---|
 | [![][28]][28] | [![][29]][29] | [![][30]][30] |
 
-|   |   |   |
+| February 22, 2015 | April 26, 2015 | May 12, 2015 |
 |---|---|---|
 | [![][31]][31] | [![][32]][32] | [![][33]][33] |
 
@@ -76,7 +75,7 @@ Some pictures I've taken in the last 4 years *(mostly while I have been at unive
 
 [13]: https://i.imgur.com/lc6sdPN.jpg "Imgur"
 [14]: https://i.imgur.com/9J8gJy2.jpg "Imgur"
-[15]: https://i.imgur.com/rKF1ftO.jpg "Imgur"
+[15]: https://i.imgur.com/062rAM7.jpg "Imgur"
 
 [16]: https://i.imgur.com/0B0xFNp.jpg "Imgur"
 [17]: https://i.imgur.com/uIpdQT0.jpg "Imgur"
@@ -100,4 +99,4 @@ Some pictures I've taken in the last 4 years *(mostly while I have been at unive
 
 [31]: https://i.imgur.com/gTHmNpD.jpg "Imgur"
 [32]: https://i.imgur.com/Jl6exa6.jpg "Imgur"
-[33]: https://www.com "Imgur"
+[33]: https://i.imgur.com/9MVBtTO.png "Imgur"

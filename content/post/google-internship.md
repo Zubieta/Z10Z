@@ -5,7 +5,6 @@ description = "This is just the beginning. I'll work there this summer!"
 slug = "internship-at-google"
 tags = ["Google", "Internship", "Summer"]
 title = "Internship at Google"
-draft = true
 +++
 
 Today I got accepted for an **Internship** at **Google** this summer! **This is so crazy**.
@@ -23,7 +22,7 @@ Also there are details I can't talk about *(like specific interview questions or
   3. [**The Technical Interviews, September 29th**](#III)
   4. [**The Host Matching Process, November to January**](#IV)
   5. [**The Background Check**](#V)
-  6. [**The VISA Process**](#VI)
+  6. [**The Visa Process**](#VI)
   7. [**The End... Or The Start!**](#VII)
 
 <a name="I"></a>  
@@ -93,25 +92,53 @@ They give you a problem, in a **Google Docs** file, and you'll write code in the
 
 ![](https://i.imgur.com/SSUBgUU.png)
 
-Also, I have a hint of my own: **don't rush to start writing code right away in the document**, if there's something not quite clear from the problem statement, or there are things you think could be implied from it but are not sure whether to consider that implication true or not, ask first, **don't make assumptions**.
+Also, I have a hint of my own: **don't rush to start writing code right away in the document**, if there's something not quite clear from the problem statement, or there are things you think could be implied from it but are not sure whether to consider that implication true or not, ask first, **don't make assumptions**. Also try to make it chatty, its not like on the other end there's a teacher just evaluating you, its a person that may give you hints *(though try to not rely much on that)* and also engage in thoughtful conversations about the approach taken for a given problem.
 
 I then waited for the result to come, as the recruiter said, it would take **1 to 2 weeks**, but it came **the next day!** I guess that I applied very early, when there weren't that much people taking interviews. This is then another advice, **apply as early as you can**, so you get results faster, and if it doesn't goes through, you get to evaluate other options elsewhere while there is still time.
 
 ![](http://i.imgur.com/6Kq6ilT.png)
 
-You can actually get called for a **third** technical interview, a friend had to do it, but I'm not sure what are the reasons for this to happen. Is it that you did really good on an interview, but not on the other, but still they want to give you the chance to redeem yourself? Who knows.
+You can actually get called for a **third** technical interview, a friend had to do it, but I'm not sure what are the reasons for this to happen. Is it that you did really good on an interview, but not on the other, but still they want to give you the chance to redeem yourself? **Who knows.**
 
 But still, I consider this part of the process **has much to improve**. At least they've come a long way from past times when they were very strict with [GPAs](http://www.businessinsider.com/how-google-hires-people-2013-6) and [brain teasers](http://www.theatlantic.com/business/archive/2013/06/google-finally-admits-that-its-infamous-brainteasers-were-completely-useless-for-hiring/277053/), but there's still parts of it where I believe they can do **better**. Surely technical interviews with data structures and algorithms questions are important, but this is just an aspect of what constitutes a *good* **Computer Scientist** or **Software Engineer**.
 
 This strict filtering depending on solving two problems and not talking through more thorough topics allows them to easily remove a lot of potential candidates, seeking to weed out **false-positives** *(not very skilled ~ capable ~ experienced people getting through the process)*, but in the process it also causes several **false-negatives** *(very skilled ~ capable ~ experienced people that for one reason or another didn't do good here)*.
 
-There could be more thorough challenges for the candidates to assess knowledge and experience, like thinking about system design, but such thorough things are more time consuming to evaluate *(it must be harder to evaluate a system designed by someone makes sense than evaluating whether someone came to an optimal solution to a data structures and algorithms problem).*
+There could be more thorough challenges for the candidates to assess knowledge and experience, like thinking about system design, but such thorough things are more time consuming to evaluate *(it must be harder to evaluate whether a system designed by someone makes sense than evaluating if someone came to an optimal solution to a data structures and algorithms problem).*
 
 <a name="IV"/></a>
+<br />
+<hr />
+<br />
 **4. Host Matching and Interview, From November to January**
 
+*Post still in writing*
 
+<a name="V"/></a>
+<br />
+<hr />
+<br />
+**5. The Background Check**
 
-**Many feel down after being not making it past at any part of the process, be it the technical interviews, the host matching phase, the host interview phase, many even question their self worth, and let me tell them, Google may be a great company, but its just that, a company, not a subject of devotion or something for thinking you are worthless if you don't get to work for them.**
+*Post still in writing*
 
-The process is far from over, there's still the **Visa** thing, but as far as **Google** is concerned, I got past their interviews and their project matching, which makes me really happy and optimistic for whats about to come! Once the Visa process has finalized, I'll update this blog entry to detail very thoroughly what my experience of this whole process *(from the moment of applying to the moment of getting the visa)* has been!
+<a name="VI"/></a>
+<br />
+<hr />
+<br />
+**6. The Visa Process**
+
+*Post still in writing*
+
+<a name="VII"/></a>
+<br />
+<hr />
+<br />
+**7. The End... Or The Start!**
+
+*Post still in writing*
+
+<!--
+**Many feel down after being not making it past at any part of the process, be it the technical interviews, the host matching phase, the host interview phase, many even question their self worth, and let me tell them, Google may be a great company, but its just that, a company, not a subject of devotion or something for thinking you are worthless if you don't get to work for them.** -->
+
+*The process is far from over, there's still the **Visa** thing, but as far as **Google** is concerned, I got past their interviews and their project matching, which makes me really happy and optimistic for whats about to come! Once the Visa process has finalized, I'll update this blog entry to detail very thoroughly what my experience of this whole process (from the moment of applying to the moment of getting the visa) has been!*
