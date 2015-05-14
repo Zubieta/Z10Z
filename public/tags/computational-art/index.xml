@@ -29,7 +29,7 @@
 
 &lt;p&gt;Now, its &lt;strong&gt;Christmas 2014&lt;/strong&gt;, and I spent most of it laying idle being too indecisive on what to do, but then I resolved to learn some further &lt;strong&gt;NodeJS&lt;/strong&gt; stuff yesterday, and while reading about &lt;a href=&#34;http://socket.io&#34;&gt;&lt;strong&gt;SocketIO&lt;/strong&gt;&lt;/a&gt;, which enables easy realtime communication between app frontend instances and a backend, I remembered that old promise about making my app multi-user ~ concurrent, and then kept reading all that morning and afternoon about it, which sufficed for spending the whole night and next morning bringing the project back from the land of the long-dead-code &lt;em&gt;(god my code styling and structuring was nefarious back then, two years ago)&lt;/em&gt;, and successfully adapted it for such simultaneous drawing purposes.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/2MmBHRN.png&#34; alt=&#34;&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/2MmBHRN.png&#34; alt=&#34;&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;For using the updated functionality, you enter an initial &lt;strong&gt;Room&lt;/strong&gt; called &lt;strong&gt;Lobby&lt;/strong&gt;, with a predefined &lt;strong&gt;Guest&lt;/strong&gt; username, the settings are at the right as usual, but now you have a row of buttons at the bottom, to &lt;strong&gt;check the users&lt;/strong&gt; in your same room, to &lt;strong&gt;join another room&lt;/strong&gt;, or to &lt;strong&gt;change your nickname&lt;/strong&gt;. It draws every line, every point, that other users in the same room draw, in real time!&lt;/p&gt;
@@ -70,9 +70,9 @@
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;http://i.imgur.com/SBoNneC.png&#34;&gt;&lt;img src=&#34;http://i.imgur.com/SBoNneC.png&#34; alt=&#34;&#34; /&gt;
+&lt;td&gt;&lt;a href=&#34;https://i.imgur.com/SBoNneC.png&#34;&gt;&lt;img src=&#34;https://i.imgur.com/SBoNneC.png&#34; alt=&#34;&#34; /&gt;
 &lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://i.imgur.com/1x9EkUl.png&#34;&gt;&lt;img src=&#34;http://i.imgur.com/1x9EkUl.png&#34; alt=&#34;&#34; /&gt;
+&lt;td&gt;&lt;a href=&#34;https://i.imgur.com/1x9EkUl.png&#34;&gt;&lt;img src=&#34;https://i.imgur.com/1x9EkUl.png&#34; alt=&#34;&#34; /&gt;
 &lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://i.imgur.com/WaqbgcQ.png&#34;&gt;&lt;img src=&#34;https://i.imgur.com/WaqbgcQ.png&#34; alt=&#34;&#34; /&gt;
 &lt;/a&gt;&lt;/td&gt;
@@ -81,18 +81,18 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://i.imgur.com/NPCJnXH.png&#34;&gt;&lt;img src=&#34;https://i.imgur.com/NPCJnXH.png&#34; alt=&#34;&#34; /&gt;
 &lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://i.imgur.com/rAP7ERq.png&#34;&gt;&lt;img src=&#34;http://i.imgur.com/rAP7ERq.png&#34; alt=&#34;&#34; /&gt;
+&lt;td&gt;&lt;a href=&#34;https://i.imgur.com/rAP7ERq.png&#34;&gt;&lt;img src=&#34;https://i.imgur.com/rAP7ERq.png&#34; alt=&#34;&#34; /&gt;
 &lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://i.imgur.com/w2R0RBx.png&#34;&gt;&lt;img src=&#34;https://i.imgur.com/w2R0RBx.png&#34; alt=&#34;&#34; /&gt;
 &lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;http://i.imgur.com/jsJh4jm.png&#34;&gt;&lt;img src=&#34;http://i.imgur.com/jsJh4jm.png&#34; alt=&#34;&#34; /&gt;
+&lt;td&gt;&lt;a href=&#34;https://i.imgur.com/jsJh4jm.png&#34;&gt;&lt;img src=&#34;https://i.imgur.com/jsJh4jm.png&#34; alt=&#34;&#34; /&gt;
 &lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://i.imgur.com/J5NWF9I.png&#34;&gt;&lt;img src=&#34;http://i.imgur.com/J5NWF9I.png&#34; alt=&#34;&#34; /&gt;
+&lt;td&gt;&lt;a href=&#34;https://i.imgur.com/J5NWF9I.png&#34;&gt;&lt;img src=&#34;https://i.imgur.com/J5NWF9I.png&#34; alt=&#34;&#34; /&gt;
 &lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://i.imgur.com/WyQEtNq.png&#34;&gt;&lt;img src=&#34;http://i.imgur.com/WyQEtNq.png&#34; alt=&#34;&#34; /&gt;
+&lt;td&gt;&lt;a href=&#34;https://i.imgur.com/WyQEtNq.png&#34;&gt;&lt;img src=&#34;https://i.imgur.com/WyQEtNq.png&#34; alt=&#34;&#34; /&gt;
 &lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

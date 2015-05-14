@@ -67,7 +67,7 @@ I was myself amongst the people afraid of applying, doubting of my own skills an
 
 I followed their [resumé building guidelines](https://www.youtube.com/watch?v=5wa9J7iXOh0), and submitted it on the **11th**. By the next day, I got contacted by a recruiter asking me to arrange dates for the **technical interviews**.
 
-![](http://i.imgur.com/kwgn7eL.png)
+![](https://i.imgur.com/kwgn7eL.png)
 
 I've heard many people don't even make it past this first screening and are not even called for interviews, so your resumé has to make a **good first impression**. Also, I don't know if a human does the first check anymore, as I've heard some places pre-screen resumés with automated software looking for certain keywords as a *pre-filter step*. My advice at this point is to make a resumé no longer than 2 pages, and list the most [substantial stuff](https://google.com), because even if a human checks it, I bet they don't take longer than 30 seconds rapidly skimming through it due to the high volume of candidate submissions they are getting. 
 
@@ -96,7 +96,7 @@ Also, I have a hint of my own: **don't rush to start writing code right away in 
 
 I then waited for the result to come, as the recruiter said, it would take **1 to 2 weeks**, but it came **the next day!** I guess that I applied very early, when there weren't that much people taking interviews. This is then another advice, **apply as early as you can**, so you get results faster, and if it doesn't goes through, you get to evaluate other options elsewhere while there is still time.
 
-![](http://i.imgur.com/6Kq6ilT.png)
+![](https://i.imgur.com/6Kq6ilT.png)
 
 You can actually get called for a **third** technical interview, a friend had to do it, but I'm not sure what are the reasons for this to happen. Is it that you did really good on an interview, but not on the other, but still they want to give you the chance to redeem yourself? **Who knows.**
 

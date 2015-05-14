@@ -22,14 +22,14 @@ Now, moving into *more important matters*, The **Colombian National Soccer Team*
 
 | The 'old' golden team (1980~1998) | The 'new' golden team (2012~2014) |
 |---|---|
-| ![](http://i.imgur.com/2dAdqfG.png) | ![](http://i.imgur.com/GK0ks0V.png) |
+| ![](https://i.imgur.com/2dAdqfG.png) | ![](https://i.imgur.com/GK0ks0V.png) |
 
 But there were several special reasons for us to be hyped beyond reason for our national team. First, it had been like **16 years** since the last World Cup we attended *(France 1998, I think).* The early 90's were kind of a **Golden Era** of soccer in Colombia, with many world-class luminaries, most notably the [Pibe Valderrama](https://en.wikipedia.org/wiki/Carlos_Valderrama) and [Rene Higuita](https://en.wikipedia.org/wiki/Ren%C3%A9_Higuita), but such golden times gradually faded away, and many fans and players alike, got stuck inside the memories of past glories. The **2000's** came, and even though some really good players came around, these were more like *hits and misses*, without enough cohesion and proper coaching for assembling a solid country team. It was as if *'every man for himself'* was a norm with everyone wanting to be the star, and instead of building cohesive teams, the national team served almost just for showcasing players abroad and getting foreign clubs into buying them. It was a fine decade for individual player performances and some club performances *(like Once Caldas winning the Libertadores Cup)*, but the national team did very poor on a constant basis. Also during the whole decade many people still lived under the shadow of past glories, instead of looking up to live again up to that. For example, every year people keeps remembering the **5-0 victory against Argentina**, just a match in a qualifier round, which happened in **1993** and people celebrate it as if it was a World Cup victory, and keep talking a lot about it, as if it was yesterday, *almost 20 years later*. 
 
 
 | Colombia's National Team Constantly Changing Coaches |
 |---|
-| ![](http://i.imgur.com/1gWZzcq.png) |
+| ![](https://i.imgur.com/1gWZzcq.png) |
 
 The worst thing in that disorderly behavior, were the **coaches**. They were constantly being swapped around because of their poor performances, without enough time to develop a long term vision. Like, some of the coaches just lasted one ~ two years, some even a few months, if not less, and **nobody can expect to have a solid team when your coach leaves as soon as it arrived**. Changing a coach is changing a vision, a structure, a way of management, a set of disciplines, a way of work. But it doesn't stop there, not only were they *changing coaches like clothing*, but they reached a point were they *'didn't know who else to call'* so they tried again with some of these coaches, resulting in not only having poor coaches, lasting for relatively brief periods of time, but also trying some again, and again, and again, thinking the results would be different. **Its like someone getting back with their exes after a bad relationship end, hoping now things would be better, just because they once were**. 
 

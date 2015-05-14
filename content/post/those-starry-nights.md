@@ -7,7 +7,7 @@ tags = ["Astronomy", "Fun", "Travel"]
 title = "Those Starry Nights"
 +++
 
-| ![](http://i.imgur.com/qGrN3pb.png) | ![](http://i.imgur.com/qLxMe9G.png) |
+| ![](https://i.imgur.com/qGrN3pb.png) | ![](https://i.imgur.com/qLxMe9G.png) |
 |----|----|
 
 Some members of the **Veil Nebula Group** at [Santa Fé de Antioquia](https://en.wikipedia.org/wiki/Santa_Fe_de_Antioquia), or at least close to there. Its a very colonial town with mountains close to it, where several people have vacation houses. One particular thing about the place is that since its a small town and far from the main cities, there are no city lights in several dozens of kilometers, so the sky is kinda nice for amateur astronomy.

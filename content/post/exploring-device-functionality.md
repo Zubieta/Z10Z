@@ -23,7 +23,7 @@ I've been playing around with some pieces of technology *(an Android Tablet, an 
 
 | Single Finger 'Cursor' | Multiple Fingers 'Cursors' |
 |-------|-------|
-|[![](http://i.imgur.com/IOv8fGX.png)](http://i.imgur.com/IOv8fGX.png) | [![](http://i.imgur.com/20o2YSe.png)](http://i.imgur.com/20o2YSe.png) |
+|[![](https://i.imgur.com/IOv8fGX.png)](https://i.imgur.com/IOv8fGX.png) | [![](https://i.imgur.com/20o2YSe.png)](https://i.imgur.com/20o2YSe.png) |
 
 *(I think that with iOS Devices you can pair the Magic Keyboard, or any other BT Keyboard for the matter, but not the Magic Trackpad. Apple seems to be a bit allergic about having a cursor, be it arrowy or circular, on touch devices, even if its neat for TV-out and not having to be stuck in front of the TV, and their very own Magic Trackpad would allow people to perform Multi-Touch gestures from afar. Its very strange that Android devices support the full Magic Trackpad functionality, and Apple's own iOS devices support none).*
 

@@ -19,7 +19,7 @@ I think that the platform overall is nice, but I believe it came **too late**. B
 
 Some friends did the gathering of resources *(images, formulas)*, others did the pitch *(all the talk about how it worked, the idea, the business model, guided by an awesomely crafted presentation)* and I did the coding and visual structuring. In the end, we won the **Best Application Design** award!
 
-![](http://i.imgur.com/glK0UQA.jpg)
+![](https://i.imgur.com/glK0UQA.jpg)
 
 There were 5 awards, each one with a trophy, and a backpack. The Best App award took home a Playbook, which I think they sold, because well, selling it and dividing cash is better than arguing who should keep the tablet.
 
@@ -27,14 +27,14 @@ But it didn’t stop there! They gave every contestant a **Blackberry Dev Alpha 
 
 | Boot Screen | Unfinished Body |
 |-----|-----|
-| ![](http://i.imgur.com/AVi71zz.png) | ![](http://i.imgur.com/lbIpY8i.png) |
+| ![](https://i.imgur.com/AVi71zz.png) | ![](https://i.imgur.com/lbIpY8i.png) |
 
 The application I had submitted was a port of the **Android** version of [**CraZe**](https://play.google.com/store/apps/details?id=com.zubieta.craze)! But I was kinda sad because at the day of the contest they didn’t say anything about the application submitted having to be one per person, I thought it would suffice for everyone in the team to exchange their **Dev Alpha B** for the **Z10**, so some people were unable to submit and get an application approved by the store and got stuck with the beta phone.
 
-![](http://i.imgur.com/C76Lxom.jpg)
+![](https://i.imgur.com/C76Lxom.jpg)
 
 **1048 out of 12000 ever made!** Many were eager to sell the phone, I won't *(even though I won't use it for the foreseeable future because I have a new Galaxy S3)*, but I'll keep it as some crown of achievement!
 
-| ![](http://i.imgur.com/wp0C6Sa.jpg) | ![](http://i.imgur.com/oV26fT4.jpg) |
+| ![](https://i.imgur.com/wp0C6Sa.jpg) | ![](https://i.imgur.com/oV26fT4.jpg) |
 |----|----|
-| ![](http://i.imgur.com/X36dl2e.jpg) | ![](http://i.imgur.com/TK5NjX9.jpg) |
+| ![](https://i.imgur.com/X36dl2e.jpg) | ![](https://i.imgur.com/TK5NjX9.jpg) |
