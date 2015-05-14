@@ -65,7 +65,7 @@ Also, accessing the menu requires a **options button**, which was the norm at **
 
 [01]: https://i.imgur.com/O0fBa7Y.jpg "Imgur"
 [02]: https://i.imgur.com/S0pxGkr.jpg "Imgur"
-[03]: https://i.imgur.com/SnuLJb6.jpg "Imgur"
+[03]: https://i.imgur.com/MQdfgr9.jpg "Imgur"
 [04]: https://i.imgur.com/8H4xFmk.jpg "Imgur"
 [05]: https://i.imgur.com/vYWcl6M.png "Imgur"
 [06]: https://i.imgur.com/e2NqwZr.png "Imgur"
