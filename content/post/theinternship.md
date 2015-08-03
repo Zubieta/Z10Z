@@ -5,6 +5,6 @@ description = "Telling a story with photos, regarding my stay at California whil
 slug = "summer-at-california"
 tags = []
 title = "Summer At California"
-
+draft = true
 +++
 
