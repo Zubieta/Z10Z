@@ -10,9 +10,6 @@ rm -rf public
 # Build the project.
 hugo -t 'twentyfourteen'
 
-git subtree add --prefix=public git@github.com:Zubieta/z10z.git gh-pages --squash
-git subtree pull --prefix=public git@github.com:Zubieta/z10z.git gh-pages
-
 # Add changes to git.
 git add --all .
 
