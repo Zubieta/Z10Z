@@ -5,6 +5,10 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 # Clean the last files
 rm -rf public
 
+git subtree add --prefix=public git@github.com:Zubieta/z10z.git gh-pages --squash
+git subtree pull --prefix=public git@github.com:Zubieta/z10z.git gh-pages
+
+
 # Build the project.
 hugo -t 'twentyfourteen'
 
