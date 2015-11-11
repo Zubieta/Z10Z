@@ -2,7 +2,7 @@
 contentdir: "content"
 layoutdir: "layouts"
 publishdir: "public"
-baseurl: "https://zubieta.github.io/z10z"
+baseurl: "https://zubie7a.github.io/z10z"
 title: "Z10Z"
 permalinks:
   post: "/:year/:month/:slug/"

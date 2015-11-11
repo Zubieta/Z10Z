@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Processing on Z10Z</title>
-    <link>https://zubieta.github.io/z10z/tags/processing/</link>
+    <link>https://zubie7a.github.io/z10z/tags/processing/</link>
     <description>Recent content in Processing on Z10Z</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 14 Feb 2014 02:19:23 -0500</lastBuildDate>
-    <atom:link href="https://zubieta.github.io/z10z/tags/processing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zubie7a.github.io/z10z/tags/processing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Playing With Processing</title>
-      <link>https://zubieta.github.io/z10z/2014/02/playing-with-processing/</link>
+      <link>https://zubie7a.github.io/z10z/2014/02/playing-with-processing/</link>
       <pubDate>Fri, 14 Feb 2014 02:19:23 -0500</pubDate>
       
-      <guid>https://zubieta.github.io/z10z/2014/02/playing-with-processing/</guid>
+      <guid>https://zubie7a.github.io/z10z/2014/02/playing-with-processing/</guid>
       <description>&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/a2qDobiht7g&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;em&gt;(An animation I did for a Computer Graphics class homework, without using any of the built in 2D/3D cartesian transformations, but the ones taught to us at class after I garnered some experience by playing around with the framework. Check out at &lt;a href=&#34;https://github.com/Zubieta/Computer_Graphics&#34;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt;, my homeworks for that class, mostly using &lt;strong&gt;Processing&lt;/strong&gt;)&lt;/em&gt;.&lt;/p&gt;

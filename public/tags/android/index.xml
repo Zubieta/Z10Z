@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Android on Z10Z</title>
-    <link>https://zubieta.github.io/z10z/tags/android/</link>
+    <link>https://zubie7a.github.io/z10z/tags/android/</link>
     <description>Recent content in Android on Z10Z</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 18 Jun 2014 01:32:32 -0500</lastBuildDate>
-    <atom:link href="https://zubieta.github.io/z10z/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zubie7a.github.io/z10z/tags/android/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Exploring Device Functionality</title>
-      <link>https://zubieta.github.io/z10z/2014/06/exploring-device-functionality/</link>
+      <link>https://zubie7a.github.io/z10z/2014/06/exploring-device-functionality/</link>
       <pubDate>Wed, 18 Jun 2014 01:32:32 -0500</pubDate>
       
-      <guid>https://zubieta.github.io/z10z/2014/06/exploring-device-functionality/</guid>
+      <guid>https://zubie7a.github.io/z10z/2014/06/exploring-device-functionality/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been playing around with some pieces of technology &lt;em&gt;(an Android Tablet, an Android Phone, Apple’s Magic Keyboard/Trackpad, a MHL-Compliant TV)&lt;/em&gt; which I own, and found out some simple but neat functionality which I didn’t know they could perform together:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -61,10 +61,10 @@
     
     <item>
       <title>The BlackBerry 10 Experience</title>
-      <link>https://zubieta.github.io/z10z/2013/03/the-blackberry-10-experience/</link>
+      <link>https://zubie7a.github.io/z10z/2013/03/the-blackberry-10-experience/</link>
       <pubDate>Tue, 26 Mar 2013 21:46:47 -0500</pubDate>
       
-      <guid>https://zubieta.github.io/z10z/2013/03/the-blackberry-10-experience/</guid>
+      <guid>https://zubie7a.github.io/z10z/2013/03/the-blackberry-10-experience/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://31.media.tumblr.com/fa225f37defd8d02809642a740ce939c/tumblr_inline_mkalo96N9X1qz4rgp.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Just today, my shiny new &lt;strong&gt;BlackBerry Z10&lt;/strong&gt; &lt;em&gt;Limited Edition&lt;/em&gt; arrived. How did I get it? In &lt;strong&gt;October 2012&lt;/strong&gt; there were this series of events called &lt;strong&gt;BlackBerry Jam Sessions&lt;/strong&gt; that were sort of a &lt;strong&gt;hackathon&lt;/strong&gt; series to make apps for the new &lt;strong&gt;BlackBerry 10 OS&lt;/strong&gt; platform, using either their &lt;strong&gt;Native SDK&lt;/strong&gt;, the &lt;strong&gt;Android SDK&lt;/strong&gt; &lt;em&gt;(limited to 2.3.4)&lt;/em&gt; or &lt;strong&gt;Adobe AIR&lt;/strong&gt;. Of course, I was interested in participating because I sorta knew how to develop for &lt;strong&gt;Android&lt;/strong&gt;!&lt;/p&gt;
