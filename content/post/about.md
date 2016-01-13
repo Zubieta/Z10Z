@@ -22,4 +22,4 @@ Most of my programming work is regarding **Web Backends**, **Distributed Systems
 
 **Whats in a name?**
 
-The namesake of this blog is a [numeronym](https://en.wikipedia.org/wiki/Numeronym), created with the first letter of my father's family name, and the last letter of my mother's family name, both **Z**'s, with **10** characters in between.
+The namesake of this blog, **Z10Z**, is a [numeronym](https://en.wikipedia.org/wiki/Numeronym), created with my two last names :-)
