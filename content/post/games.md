@@ -116,7 +116,6 @@ title = "Games"
 | Burnout Dominator | 100% |
 | Castlevania: The Dracula X Chronicles | 100% |
 | Chili Con Carnage | -% |
-| Dante's Inferno | -% |
 | Crisis Core: Final Fantasy VII | 100% |
 | Dissidia Final Fantasy | 100% |
 | Dissidia 012 Final Fantasy | -% |
