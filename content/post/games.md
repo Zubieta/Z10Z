@@ -21,6 +21,7 @@ title = "Games"
 | Middle Earth: Shadow of Mordor | -% |
 | The Last of Us Remastered | -% |
 | The Last of Us Left Behind Remastered | -% |
+| Tomb Raider Definitive Edition | -% |
 | Uncharted: Drake's Fortune HD | -% |
 | Uncharted: Among Thieves HD | -% |
 | Uncharted: Drake's Deception HD | -% |
@@ -85,7 +86,6 @@ title = "Games"
 | Portal 2 | -% |
 | Red Dead Redemption | 50% |
 | The Last of Us | 100% |
-| Tomb Raider | -% |
 
 | PlayStation Vita | Completion |
 | ------ | --- |
@@ -120,6 +120,9 @@ title = "Games"
 | Crisis Core: Final Fantasy VII | 100% |
 | Dissidia Final Fantasy | 100% |
 | Dissidia 012 Final Fantasy | -% |
+| Final Fantasy III | -% |
+| Final Fantasy IV | -% |
+| Final Fantasy IV The After Years | -% |
 | God of War Chains of Olympus | 100% |
 | God of War Ghost of Sparta | 100% |
 | Grand Theft Auto: Liberty City Stories | 100% |
@@ -140,6 +143,7 @@ title = "Games"
 | Crash Bandicoot 2: Cortex Strikes Back *(PS3)* | -% |
 | Crash Bandicoot 3: Warped *(PS3)* | -% |
 | CTR: Crash Team Racing *(PS3)* | -% |
+| Final Fantasy V *(PS3, Vita)* | -% |
 | Final Fantasy VI *(PS3, Vita)* | -% |
 | Final Fantasy VII *(PS3, Vita)* | 100% |
 | Final Fantasy VIII *(PS3, Vita)* | 100% |
