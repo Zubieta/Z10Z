@@ -9,5 +9,5 @@ title = "Movies"
 
 ...Keeping track of movies I've seen *(that I remember)*. I must've seen way more, if I were to count television and movie theatres, so I'll be counting only movies I've seen as some sort of digital media *(disk, streaming, etc)*. 
 
-For this purpose, I've created [this tumblr blog](https://thefuckingmovies.tumblr.com), which makes much easier to keep a visual registry in a way that I like, which is putting just the most memorable quote and/or still frame of the movie.
+For this purpose, I've created [this tumblr blog](https://thefuckingmovies.tumblr.com), which makes much easier to keep a visual registry in a way that I like, which is displaying just what I felt was the most memorable quote and/or still frame of the movie.
 
