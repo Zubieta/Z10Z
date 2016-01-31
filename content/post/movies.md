@@ -1,0 +1,11 @@
++++
+categories = ["Movies"]
+date = "0042-06-14T00:02:28-05:00"
+description = "'The FUCKING Movies'"
+slug = ""
+tags = ["Backlog", "Movies"]
+title = "Movies"
++++
+
+...Keeping track of movies I've seen *(that I remember)*. I must've seen way more, if I were to count television and movie theatres, so I'll be counting only movies I've seen as some sort of digital media *(disk, streaming, etc)*.
+
