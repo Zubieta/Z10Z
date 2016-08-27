@@ -7,7 +7,7 @@ tags = ["Backlog", "Games", "Nintendo", "PlayStation", "Videogames"]
 title = "Games"
 +++
 
-...Keeping track of games I've played *(that I remember)*. Estimates are hard, so for now **-%** is unknown estimate *(hard to tell)*, **100%** is having beaten the game, and **50%** is being almost sure of being halfway through it. Admittedly, I've never been a PC gamer, I've been more of a **Nintendo + PlayStation** lover.
+...Keeping track of games I've played *(that I remember)*. Estimates are hard, so for now **-%** is unknown estimate *(hard to tell)*, **100%** is having beaten the game, and **50%** is being almost sure of being halfway through it *(Trophies not included, if game has a % tracker then that value is used)*. Admittedly, I've never been a PC gamer, I've been more of a **Nintendo + PlayStation** lover.
 
 | PlayStation 4 | Completion |
 | ------ | --- |
@@ -60,7 +60,6 @@ title = "Games"
 | ------ | --- |
 | Bioshock | -% |
 | Bioshock Infinite | -% |
-| Borderlands 2 | -% |
 | Burnout Paradise | 100% |
 | Call of Duty: Black Ops | 100% |
 | Final Fantast X HD Remaster | 50% |
