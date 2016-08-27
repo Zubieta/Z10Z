@@ -118,6 +118,8 @@ title = "Games"
 | Crisis Core: Final Fantasy VII | 100% |
 | Dissidia Final Fantasy | 100% |
 | Dissidia 012 Final Fantasy | -% |
+| Final Fantasy I (20th Anniversary) | -% |
+| Final Fantasy II (20th Anniversary) | -% |
 | Final Fantasy III | -% |
 | Final Fantasy IV | -% |
 | Final Fantasy IV The After Years | -% |
