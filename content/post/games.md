@@ -29,17 +29,22 @@ title = "Games"
 | PlayStation Network | Completion |
 | ------ | --- |
 | Actual Sunlight *(Vita)* | -% |
+| Apotheon *(PS4)* | -% |
 | Castlevania: Harmony of Despair *(PS3)* | -% |
 | FEZ *(PS3, PS4, Vita)* | -% |
 | Fl0w *(PS3, PS4, Vita)* | -% |
 | Guacamelee *(PS3, Vita)* | -% |
+| Guacamelee Super Turbo Championship Edition *(PS3, Vita)* | -% |
 | Hotline Miami *(PS3, PS4, Vita)* | -% |
 | Hotline Miami 2 *(PS3, PS4, Vita)* | -% |
+| Journey *(PS3, PS4)* | -% |
 | Kung Fury: Street Rage *(PS4)* | -% |
+| Kromaia *(PS4)* | -% |
 | Luftrausers *(PS3, Vita)* | -% |
 | Metal Slug 3 *(PS3, PS4, Vita)* | -% |
 | Minutes *(PS4, Vita)* | -% |
 | Nidhogg *(PS4, Vita)* | -% |
+| Okami HD *(PS3)* | -% |
 | OlliOlli *(PS3, PS4, Vita)* | -% |
 | OlliOlli2: Welcome to Olliwood *(PS4, Vita)* | -% |
 | Phantom Breaker: Battle Grounds *(Vita)*  | 50% |
@@ -156,11 +161,12 @@ title = "Games"
 | Bayonetta | -% |
 | Bayonetta 2 | -% |
 | Mario Kart 8 | 25% |
+| Nintendo Land | -% |
 | Need For Speed Most Wanted U | -% |
+| New Super Mario Bros U | -% |
 | Super Mario 3D World | -% |
 | Super Mario Maker | -% |
 | Super Smash Bros Wii U | -% |
-| New Super Mario Bros U | -% |
 | The Legend Of Zelda: Skyward Sword | -% |
 | The Legend Of Zelda: Twilight Princess HD | -% |
 | The Legend Of Zelda: The Wind Waker HD | -% |
