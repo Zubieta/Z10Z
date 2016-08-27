@@ -149,6 +149,23 @@ title = "Games"
 | Metal Gear Solid *(PS3, Vita)* | 100% |
 | Vagrant Story *(PS3, Vita)* | -% |
 
+| Wii / U | Completion |
+| ------ | --- |
+| Bayonetta | -% |
+| Bayonetta 2 | -% |
+| Mario Kart 8 | 25% |
+| Need For Speed Most Wanted U | -% |
+| Super Mario 3D World | -% |
+| Super Mario Maker | -% |
+| Super Smash Bros Wii U | -% |
+| New Super Mario Bros U | -% |
+| The Legend Of Zelda: Skyward Sword | -% |
+| The Legend Of Zelda: Twilight Princess HD | -% |
+| The Legend Of Zelda: The Wind Waker HD | -% |
+| Wii Sports | -% |
+| Wii Sports Resort | -% |
+| Wii U Sports Club | -% |
+
 | Nintendo 3DS | Completion |
 | ------ | --- |
 | Chibi Robo | -% |
