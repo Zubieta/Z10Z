@@ -11,7 +11,7 @@ title = "Dies Irae"
 
 *“… Shall consume the world to ashes”*
 
-There are many kinds of music to listen while programming, sometimes I listen to some ambient sounds, or relaxed piano music, or soft vocals music, or classical music, or usually *orchestral versions* of soundtracks from videogames, movies, or series, **when I desire to focus and not rushing things**.
+There are many kinds of music to listen while programming, sometimes I listen to some ambient sounds, or relaxed piano music, or soft vocals music, or classical music, or usually *orchestral versions* of soundtracks from videogames _(specially role-playing games, which have a wonderful selection of music comprising many different emotions and situations)_, movies, or series, **when I desire to focus and not rushing things**.
 
 **When its the opposite, and I need to do things fast**, I listen to some *upbeat, electronic music*, or the original soundtracks, from the same videogames, movies, or series, focused more towards action/suspense, because of the feeling of urgency these cause, like time is running out, and something has to be finished before it runs out.
 
