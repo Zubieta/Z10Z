@@ -9,7 +9,7 @@ title = "Playing With Processing"
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/a2qDobiht7g" frameborder="0" allowfullscreen></iframe>
 
-This is an animation I did for a Computer Graphics class homework, without using any of the built in 2D/3D cartesian transformations, but the ones taught to us at class after I garnered some experience by playing around with the framework. Check out at [**GitHub**](https://github.com/Zubieta/Computer_Graphics), my homeworks for that class, mostly using **Processing**.
+This is an animation I did for a Computer Graphics class homework, without using any of the built in 2D/3D cartesian transformations, but the ones taught to us at class after I garnered some experience by playing around with the framework _(but still only using the basic drawing functionality)_. Check out at [**GitHub**](https://github.com/Zubieta/Computer_Graphics), my homeworks for that class, mostly using **Processing**.
 
 Its the language most of **Computational Artists** use nowadays to make some neat stuff, like [hypnotic geometric GIFs](https://www.tumblr.com/search/processing+gif), [glitched art](https://www.tumblr.com/search/processing+glitch), [interactive artistic installations](https://www.youtube.com/watch?v=OGoZktCzMS4) using external hardware input, etc. See for yourself some [crazy stuff done with it](https://processing.org/exhibition/).
 
