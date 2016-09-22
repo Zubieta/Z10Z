@@ -19,9 +19,9 @@ _'I'd **never** like anyone that isn't `____`'_
 
 *And many others mental statements like that...*  
 
-Then there's the things I’ve wanted to pursue, or thought to myself that I must want, do, or become, which are the things I ended up myself achieving the less, or not at all. For some reason it was apparently more probable for me to get to something I say I must not, or rather not, than getting to something I say I must or I want to.
+Then there's the things I’ve wanted to pursue, or thought to myself that I must want, do, or become, which are the things I ended up myself achieving the less, or not at all. For some reason it was apparently more probable for me to get to do something I say I must not do, or rather not do, than getting to something I say I must do or I want to do.
 
-Then I came to the realization that some of the things I’ve said **'not’** to before, were part of how I really was, or am, things I had forgotten that were part of what defined myself, but no matter how much I tried fighting against them, I'd end up drawn back to them.
+Then I came to the realization that some of the things I’ve said **'not’** to do before, were part of how I really was, or am, things I had forgotten that were part of what defined myself, but no matter how much I tried fighting against them, I'd end up drawn back to them.
 
 Such thoughts, lifestyles, ways of acting and doing things, **that were the most like myself**, started being eroded away by some **external pressures** *(such as being labeled an outcast, and also the fear of not living up to the expectations many people has in myself)*, some stupid or broken **moral or social imperatives** *(like, you must be this way if you ever want to amount to anything)*, and some stupid desire of **wanting to live the lives of others and not my own** *(as in, trying to live, act and work the way the people I admired lived, acted and worked, because I thought that by doing so I'd achieve the success for which I admired them, that it would be easier following their trail, rather than making my own path)*.
 
