@@ -11,7 +11,7 @@ title = "The BlackBerry 10 Experience"
 
 Just today, my shiny new **BlackBerry Z10** *Limited Edition* arrived. How did I get it? In **October 2012** there were this series of events called **BlackBerry Jam Sessions** that were sort of a **hackathon** series to make apps for the new **BlackBerry 10 OS** platform, using either their **Native SDK**, the **Android SDK** *(limited to 2.3.4)* or **Adobe AIR**. Of course, I was interested in participating because I sorta knew how to develop for **Android**!
 
-*(Just as a note, the blog's **Z10Z** name is absolutely unrelated to the **Z10** name of the phone)*
+_(Just as a note, the blog's **Z10Z** name is absolutely unrelated to the **Z10** name of the phone)_
 
 I think that the platform overall is nice, but I believe it came **too late**. BlackBerry took too long to get into the touchscreen smartphone market, with several monthly, or even yearly delays. They were kings with the physical keyboard models that predated current smartphones *(everyone I knew were crazy about these)* but were slowly phased out and forgotten by the incoming wave of **Apple**, **Android** and even **Windows** smartphones, being relegated to the corporate environment, and even there being replaced by this new technologies. In the end they came new to a place were others were already very mature, without bringing much new stuff, and requiring people to develop for yet another platform, so in my opinion they should have become a complete fork of **Android** and support immediately its full, huge application base, instead of giving limited support with some porting tools.
 
