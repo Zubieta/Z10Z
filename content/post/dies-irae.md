@@ -19,4 +19,4 @@ In this case, its a song that has both the kinda **calm** classical music part, 
 
 Listening to music during a prolonged task, can be incentivating, it helps setting a rhythm, it alleviates monotomy, but I try to avoid music with much lyrics though *(at least that I can understand)*, since listening to them draws from your attention. Thats why listening to your favorite modern band while programming can do not much good to your focus.
 
-Also one of my **goals in life** is to live in a place where I can attend and witness such magnificent orchestras.
+Also one of my **goals in life** is to live in a place where I can attend and witness such magnificent orchestras. I think two of my most wonderful musical experiences in life, has been attending to the _**The Legend of Zelda: Symphony of The Goddess**_ concert in the _Davies Symphony Hall, San Francisco, CA_, and the _**Distant Worlds: Music From Final Fantasy**_ concert in the _Jones Hall for The Performing Arts, Houston, TX_.
