@@ -11,9 +11,9 @@ title = "Dies Irae"
 
 *“… Shall consume the world to ashes”*
 
-There are many kinds of music to listen while programming, sometimes I listen to some ambient sounds, or relaxed piano music, or soft vocals music, or classical music, or usually orchestral *soundtracks* from role-playing videogames, **when I desire to focus and not rushing things**.
+There are many kinds of music to listen while programming, sometimes I listen to some ambient sounds, or relaxed piano music, or soft vocals music, or classical music, or usually *orchestral versions* of soundtracks from videogames, movies, or series, **when I desire to focus and not rushing things**.
 
-**When its the opposite, and I need to do things fast**, I listen to some upbeat electronic music, or *soundtracks*, from either action/suspense videogames or movies, because of the feeling of urgency these cause, like time is running out, and something has to be finished before it runs out.
+**When its the opposite, and I need to do things fast**, I listen to some *upbeat, electronic music*, or the original soundtracks, from the same videogames, movies, or series, focused more towards action/suspense, because of the feeling of urgency these cause, like time is running out, and something has to be finished before it runs out.
 
 In this case, its a song that has both the kinda **calm** classical music part, but also an **explosive** beginning, it feels as an rush that lights every temper, kickstarts the brain, and then it calms down a *bit* to make place for a bit lengthy session of focus, only to start picking up again. The same structure and feeling could be said to be delivered by [**Carl Orff's Carmina Burana**](https://www.youtube.com/watch?v=rHBG_FeITBY).
 
