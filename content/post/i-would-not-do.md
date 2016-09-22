@@ -9,13 +9,13 @@ title = "I Would (Not)"
 
 There's things I’ve said **I’d not want**, or **never do**, or **never be**, and saw such things as negative, and nonetheless I've ended up **wanting**, **doing**, or **becoming** many of them.
 
-*‘I’d **never** study at ____ , such an shallow place’*  
-*'I’d **never** stop talking with ____ , it means a lot to me’*  
-*'I’d **never** put ____ before ____ , its a matter of principles’*  
-*'I’d **never** want to learn about ____ , or stuff related to it’*  
-*'I’d **never** become like ____ , it gets on my nerves'*  
-*'I'd **never** dedicate myself to ____, such an meaningless way of life'*  
-*'I'd **never** like anyone that isn't ____'*
+_‘I’d **never** study at `____` , such an shallow place’_  
+_'I’d **never** stop talking with `____` , it means a lot to me’_  
+_'I’d **never** put `____` before `____` , its a matter of principles’_  
+_'I’d **never** want to learn about `____` , or stuff related to it’_  
+_'I’d **never** become like `____` , it gets on my nerves'_  
+_'I'd **never** dedicate myself to `____`, such an meaningless way of life'_  
+_'I'd **never** like anyone that isn't `____`'_
 
 *And many others mental statements like that...*  
 
