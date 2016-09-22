@@ -14,7 +14,7 @@ Some pictures I've taken in the last 4 years *(mostly while I have been at unive
 
 | September 12, 2011  | September 25, 2011  | October 31, 2011 |
 |---|---|---|
-| [![][01]][01] | [![][02]][02] | [![][]][] |
+| [![][01]][01] | [![][02]][02] | [![][03]][03] |
 
 | February 9, 2012  | March 28, 2012  | April 9, 2012 |
 |---|---|---|
