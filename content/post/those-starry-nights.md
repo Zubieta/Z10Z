@@ -14,7 +14,7 @@ Some members of the **Veil Nebula Group** at [Santa Fé de Antioquia](https://en
 
 The **Milky Way** won't appear in a regular photo though, These are 5~8 second long exposure photos, but the sky was the clearest I’ve seen in my life, and the galaxy plus several hard to catch constellations were quite noticeable.
 
-The **Veil Nebula Group** is an amateur astronomy group I'm no longer part of, we had fun times, hanged out, talked about the stars *(very scientifically, it was not only observational)*, some of us were young *(and still in university)*, the directors were older *(but wiser)* folks who sometimes invited their families, but in the end some of the original members *(mostly we the young ones, still in university)* left because of many reasons *(mostly study)*. Still, I hold very dear the memories of our experiences in my heart.
+The **Veil Nebula Group** is an amateur astronomy group I'm no longer part of, we had fun times, hanged out, talked about the stars *(very scientifically, it was not only observational)*, some of us were young *(and still in university)*, the directors were older *(but wiser)* folks who sometimes invited their families, but in the end some of the original members left *(mostly we the young ones, still in university, for study reasons)*. Still, I hold very dear the memories of our experiences in my heart.
 
 **6.495337, -75.804441** in case you want to send a missile, go to watch the stars, or something else.
 
