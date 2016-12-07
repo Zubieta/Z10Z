@@ -24,4 +24,4 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push --force origin master
-git subtree push --force --prefix=public https://github.com/zubie7a/z10z.git gh-pages
+git subtree push --prefix=public https://github.com/zubie7a/z10z.git gh-pages
