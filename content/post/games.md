@@ -90,7 +90,7 @@ title = "Games"
 | Metal Gear Solid 3: Snake Eater HD | 100% |
 | Metal Gear Solid 4: Guns of The Patriots | -% |
 | Metal Gear Rising Revengeance | -% |
-| Okami HD (Digital) | -% |
+| Okami HD *(Digital)* | -% |
 | Portal 2 | -% |
 | Red Dead Redemption | 50% |
 | The Last of Us | 100% |
@@ -132,8 +132,8 @@ title = "Games"
 | Dissidia Final Fantasy | 100% |
 | Dissidia 012 Final Fantasy | -% |
 | DJMax Portable 3 | -% |
-| Final Fantasy I (20th Anniversary) | -% |
-| Final Fantasy II (20th Anniversary) | -% |
+| Final Fantasy I 20th Anniversary | -% |
+| Final Fantasy II 20th Anniversary | -% |
 | Final Fantasy III | -% |
 | Final Fantasy IV | -% |
 | Final Fantasy IV The After Years | -% |
@@ -178,7 +178,7 @@ title = "Games"
 | Need For Speed Most Wanted U | -% |
 | New Super Mario Bros U | -% |
 | Super Mario 3D World | -% |
-| Super Mario Maker | -% |
+| Super Mario Maker *(Digital)* | -% |
 | Super Smash Bros Wii U | -% |
 | The Legend Of Zelda: Skyward Sword | -% |
 | The Legend Of Zelda: Twilight Princess HD | -% |
@@ -194,6 +194,7 @@ title = "Games"
 | Mario Kart 7 | 50% |
 | Pokemon X Version | 100% |
 | Pokemon Alpha Sapphire Version | 50% |
+| Pokemon Sun Version | -% |
 | Shin Megami Tensei IV | -% |
 | Super Mario 3D Land | 50% |
 | Super Smash Bros 3DS | -% |
