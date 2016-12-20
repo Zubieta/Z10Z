@@ -1,0 +1,29 @@
+<article class="post type-post status-publish format-standard">
+
+    <!-- .entry-header -->
+    <header class="entry-header">
+
+    {{ $baseurl := .Site.BaseURL }}
+
+        <div class="entry-meta">
+            <span class="cat-links">
+                {{ range .Params.categories }}
+                <a href="{{ $baseurl }}/categories/{{ lower . | urlize }}" rel="category">{{ . }} &nbsp;&nbsp;</a>
+                {{ end }}
+            </span>
+        </div>
+        <a href="{{ .Permalink }}" style="color:#000000;">
+            <h1 class="entry-title">{{ .Title }}</h1>
+            <p class="entry-description"> {{ .Description }} </p>
+        </a>
+
+        <div class="entry-meta">
+            <span class="entry-date">
+                <a href="{{ .Permalink }}" rel="bookmark">
+                    <time class="entry-date" datetime="{{ .Date }}">
+                        {{ .Date.Format "January 2" }}
+                    </time>
+                </a>
+            </span>
+        </div><!-- .entry-meta -->
+</article> <!-- #post-## -->
