@@ -3,7 +3,7 @@ categories = ["Games"]
 date = "0042-06-12T00:02:28-05:00"
 description = "Kind of a gaming (back)log."
 slug = ""
-tags = ["Backlog", "Games", "Nintendo", "PlayStation", "Videogames"]
+tags = ["Backlog", "Games", "Nintendo", "PlayStation", "Sony", "Videogames"]
 title = "Games"
 +++
 
@@ -12,16 +12,22 @@ title = "Games"
 | PlayStation 4 | Completion |
 | ------ | --- |
 | Bloodborne | -% |
+| Child of Light *(Digital)* | -% |
+| Digimon Story: Cyber Sleuth *(Digital)* | 50% |
 | Fallout 4 | -% |
 | Final Fantasy Type-0 HD | -% |
-| Final Fantasy XV Episode Duscae | 50% |
-| Grand Theft Auto V HD | 50% |
+| Final Fantasy XV | 30% |
+| Grand Theft Auto V HD *(Digital)* | 50% |
+| Gravity Rush Remastered *(Digital)* | -% |
+| God of War III Remastered *(Digital)* | -% |
 | Metal Gear Solid: Ground Zeroes | -% |
 | Metal Gear Solid V: The Phantom Pain | -% |
 | Middle Earth: Shadow of Mordor | -% |
-| The Last of Us Remastered | -% |
-| The Last of Us Left Behind Remastered | -% |
-| Tomb Raider Definitive Edition | -% |
+| Rayman Legends *(Digital)* | -% |
+| Sleeping Dogs: Definitive Edition *(Digital)* | -% |
+| The Last of Us Remastered *(Digital)* | -% |
+| The Last of Us Left Behind Remastered *(Digital)* | -% |
+| Tomb Raider: Definitive Edition *(Digital)* | -% |
 | Uncharted: Drake's Fortune HD | -% |
 | Uncharted: Among Thieves HD | -% |
 | Uncharted: Drake's Deception HD | -% |
@@ -33,33 +39,30 @@ title = "Games"
 | Castlevania: Harmony of Despair *(PS3)* | -% |
 | FEZ *(PS3, PS4, Vita)* | -% |
 | Fl0w *(PS3, PS4, Vita)* | -% |
+| Geometry Wars 3: Dimensions Evolved *(PS4, Vita)* | -% |
 | Guacamelee *(PS3, Vita)* | -% |
-| Guacamelee Super Turbo Championship Edition *(PS3, Vita)* | -% |
+| Guacamelee Super Turbo Championship Edition *(PS4)* | -% |
 | Hotline Miami *(PS3, PS4, Vita)* | -% |
-| Hotline Miami 2 *(PS3, PS4, Vita)* | -% |
+| Hotline Miami 2: Wrong Number *(PS3, PS4, Vita)* | -% |
 | Journey *(PS3, PS4)* | -% |
-| Kung Fury: Street Rage *(PS4)* | -% |
 | Kromaia *(PS4)* | -% |
+| Kung Fury: Street Rage *(PS4)* | -% |
 | Luftrausers *(PS3, Vita)* | -% |
 | Metal Slug 3 *(PS3, PS4, Vita)* | -% |
 | Minutes *(PS4, Vita)* | -% |
 | Nidhogg *(PS4, Vita)* | -% |
-| Okami HD *(PS3)* | -% |
 | OlliOlli *(PS3, PS4, Vita)* | -% |
 | OlliOlli2: Welcome to Olliwood *(PS4, Vita)* | -% |
-| Phantom Breaker: Battle Grounds *(Vita)*  | 50% |
 | Retro City Rampage *(PS3, Vita)* | -% |
 | Rogue Legacy *(PS3, PS4, Vita)* | -% |
 | Scott Pilgrim Vs. The World: The Game *(PS3)* | -% |
 | Strike Suit Zero: Director's Cut *(PS4)* | -% |
 | Shovel Knight *(PS3, PS4, Vita)* | -% |
-| Soul Sacrifice Delta *(Vita)* | -% |
 | Sound Shapes *(PS3, PS4, Vita)* | -% |
 | Super Time Force Ultra *(PS4, Vita)* | -% |
 | Titan Souls *(PS4, Vita)* | -% |
 | TxK *(Vita)* | -% |
 | Velocity 2X *(PS4, Vita)*| -% |
-| Wipeout HD Fury *(PS3)* | 50% |
 
 | PlayStation 3 | Completion |
 | ------ | --- |
@@ -71,10 +74,10 @@ title = "Games"
 | Final Fantast X-2 HD Remaster | -% |
 | Final Fantasy XIII | 100% |
 | God of War Ascension | 50% |
-| God of War Chains of Olympus | -% |
-| God of War I | 100% |
-| God of War Ghost of Sparta | -% |
-| God of War II | 50% |
+| God of War Chains of Olympus HD | -% |
+| God of War I HD | 100% |
+| God of War Ghost of Sparta HD | -% |
+| God of War II HD | 50% |
 | God of War III | -% |
 | Gran Turismo 5 | -% |
 | Grand Theft Auto IV | 50% |
@@ -87,9 +90,11 @@ title = "Games"
 | Metal Gear Solid 3: Snake Eater HD | 100% |
 | Metal Gear Solid 4: Guns of The Patriots | -% |
 | Metal Gear Rising Revengeance | -% |
+| Okami HD (Digital) | -% |
 | Portal 2 | -% |
 | Red Dead Redemption | 50% |
 | The Last of Us | 100% |
+| Wipeout HD Fury *(Digital)* | 50% |
 
 | PlayStation Vita | Completion |
 | ------ | --- |
@@ -105,12 +110,16 @@ title = "Games"
 | Muramasa Rebirth | -% |
 | Need For Speed Most Wanted | 50% |
 | Persona 4: The Golden | -% |
+| Phantom Breaker: Battle Grounds *(Digital)*  | 50% |
+| Soul Sacrifice Delta *(Digital)* | -% |
 | Steins;Gate | -% |
+| Superbeat: Xonic *(Digital)* | -% |
 | Tearaway | -% |
 | The Walking Dead Season One | -% |
 | The Walking Dead Season Two | -% |
 | Ultimate Marvel Vs. Capcom 3 | -% |
 | Uncharted: Golden Abyss | -% |
+| World of Final Fantasy | -% |
 | Wipeout 2048 | 50% |
 
 | PlayStation Portable | Completion |
@@ -119,10 +128,10 @@ title = "Games"
 | Burnout Legends | 100% |
 | Burnout Dominator | 100% |
 | Castlevania: The Dracula X Chronicles | 100% |
-| Chili Con Carnage | -% |
 | Crisis Core: Final Fantasy VII | 100% |
 | Dissidia Final Fantasy | 100% |
 | Dissidia 012 Final Fantasy | -% |
+| DJMax Portable 3 | -% |
 | Final Fantasy I (20th Anniversary) | -% |
 | Final Fantasy II (20th Anniversary) | -% |
 | Final Fantasy III | -% |
@@ -130,6 +139,7 @@ title = "Games"
 | Final Fantasy IV The After Years | -% |
 | God of War Chains of Olympus | 100% |
 | God of War Ghost of Sparta | 100% |
+| Grand Theft Auto: Chinatown Wars | -% |
 | Grand Theft Auto: Liberty City Stories | 100% |
 | Grand Theft Auto: Vice City Stories | 100% |
 | Megaman Maverick Hunter X | 100% |
@@ -143,18 +153,21 @@ title = "Games"
 
 | PlayStation One | Completion |
 | ------ | --- |
-| Castlevania: Symphony of The Night *(PS3, Vita)* | 100% |
-| Crash Bandicoot *(PS3)* | -% |
-| Crash Bandicoot 2: Cortex Strikes Back *(PS3)* | -% |
-| Crash Bandicoot 3: Warped *(PS3)* | -% |
-| CTR: Crash Team Racing *(PS3)* | -% |
-| Final Fantasy V *(PS3, Vita)* | -% |
-| Final Fantasy VI *(PS3, Vita)* | -% |
-| Final Fantasy VII *(PS3, Vita)* | 100% |
-| Final Fantasy VIII *(PS3, Vita)* | 100% |
-| Final Fantasy IX *(PS3, Vita)* | 100% |
-| Metal Gear Solid *(PS3, Vita)* | 100% |
-| Vagrant Story *(PS3, Vita)* | -% |
+| Ace Combat 2 *(PSPGo)* | -% |
+| Castlevania: Symphony of The Night *(PS3, PSPGo, Vita)* | 100% |
+| Crash Bandicoot *(PS3, PSPGo)* | -% |
+| Crash Bandicoot 2: Cortex Strikes Back *(PS3, PSPGo)* | -% |
+| Crash Bandicoot 3: Warped *(PS3, PSPGo)* | -% |
+| CTR: Crash Team Racing *(PS3, PSPGo)* | -% |
+| Digimon World 3 *(PSPGo)* | -% |
+| Final Fantasy V *(PS3, PSPGo, Vita)* | -% |
+| Final Fantasy VI *(PS3, PSPGo, Vita)* | 50% |
+| Final Fantasy VII *(PS3, PSPGo, Vita)* | 100% |
+| Final Fantasy VIII *(PS3, PSPGo, Vita)* | 100% |
+| Final Fantasy IX *(PS3, PSPGo, Vita)* | 100% |
+| Metal Gear Solid *(PS3, PSPGo, Vita)* | 100% |
+| PacMan 20th Anniversary *(PSPGo)* | -% |
+| Vagrant Story *(PS3, PSPGo, Vita)* | -% |
 
 | Wii / U | Completion |
 | ------ | --- |
@@ -217,10 +230,10 @@ title = "Games"
 
 | Game Boy Advance | Completion |
 | ------ | --- |
-| Castlevania: Circle of The Moon | 100% |
+| Castlevania: Circle of The Moon | -% |
 | Castlevania: Harmony of Dissonance | -% |
 | Castlevania: Aria of Sorrow | 100% |
-| Final Fantasy VI Advance | -% |
+| Final Fantasy VI Advance | 50% |
 | Golden Sun | 100% |
 | Golden Sun: The Lost Age | -% |
 | Kirby and The Amazing Mirror | -% |
@@ -235,7 +248,7 @@ title = "Games"
 | Pokemon Fire Red Edition | 100% |
 | Super Mario Advance 1 | -% |
 | Super Mario Advance 2 | -% |
-| Super Mario Advance 3: Yoshi's Island | -% |
+| Super Mario Advance 3: Yoshi's Island | 50% |
 | Super Mario Advance 4 | -% |
 | The Legend of Zelda: A Link To The Past | 100% |
 | The Legend of Zelda: The Minish Cap | -% |
@@ -245,6 +258,6 @@ title = "Games"
 | Pokemon Blue Edition | 100% |
 | Pokemon Yellow Edition | 100% |
 | Pokemon Crystal Edition | 100% |
-| The Legend of Zelda: Link's Awakening | 100% |
+| The Legend of Zelda: Link's Awakening | -% |
 | The Legend of Zelda: Oracle of Seasons | 100% |
 | The Legend of Zelda: Oracle of Ages | 100% |

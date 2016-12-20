@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Z10Z</title>
-    <link>https://zubie7a.github.io/z10z/tags/videogames/index.xml</link>
-    <description>Recent content on Z10Z</description>
+    <title>Videogames on Z10Z</title>
+    <link>https://zubie7a.github.io/z10z/tags/videogames/</link>
+    <description>Recent content in Videogames on Z10Z</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 12 Jun 0042 00:02:28 -0500</lastBuildDate>
     <atom:link href="https://zubie7a.github.io/z10z/tags/videogames/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -30,6 +31,16 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td&gt;Child of Light &lt;em&gt;(Digital)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;-%&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Digimon Story: Cyber Sleuth &lt;em&gt;(Digital)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;50%&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
 &lt;td&gt;Fallout 4&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
@@ -40,13 +51,23 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Final Fantasy XV Episode Duscae&lt;/td&gt;
+&lt;td&gt;Final Fantasy XV&lt;/td&gt;
+&lt;td&gt;30%&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Grand Theft Auto V HD &lt;em&gt;(Digital)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;50%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Grand Theft Auto V HD&lt;/td&gt;
-&lt;td&gt;50%&lt;/td&gt;
+&lt;td&gt;Gravity Rush Remastered &lt;em&gt;(Digital)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;-%&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;God of War III Remastered &lt;em&gt;(Digital)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -65,17 +86,27 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;The Last of Us Remastered&lt;/td&gt;
+&lt;td&gt;Rayman Legends &lt;em&gt;(Digital)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;The Last of Us Left Behind Remastered&lt;/td&gt;
+&lt;td&gt;Sleeping Dogs: Definitive Edition &lt;em&gt;(Digital)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Tomb Raider Definitive Edition&lt;/td&gt;
+&lt;td&gt;The Last of Us Remastered &lt;em&gt;(Digital)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;-%&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;The Last of Us Left Behind Remastered &lt;em&gt;(Digital)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;-%&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Tomb Raider: Definitive Edition &lt;em&gt;(Digital)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -131,12 +162,17 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td&gt;Geometry Wars 3: Dimensions Evolved &lt;em&gt;(PS4, Vita)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;-%&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
 &lt;td&gt;Guacamelee &lt;em&gt;(PS3, Vita)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Guacamelee Super Turbo Championship Edition &lt;em&gt;(PS3, Vita)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Guacamelee Super Turbo Championship Edition &lt;em&gt;(PS4)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -146,7 +182,7 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Hotline Miami 2 &lt;em&gt;(PS3, PS4, Vita)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Hotline Miami 2: Wrong Number &lt;em&gt;(PS3, PS4, Vita)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -156,12 +192,12 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Kung Fury: Street Rage &lt;em&gt;(PS4)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Kromaia &lt;em&gt;(PS4)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Kromaia &lt;em&gt;(PS4)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Kung Fury: Street Rage &lt;em&gt;(PS4)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -186,11 +222,6 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Okami HD &lt;em&gt;(PS3)&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;-%&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
 &lt;td&gt;OlliOlli &lt;em&gt;(PS3, PS4, Vita)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
@@ -198,11 +229,6 @@
 &lt;tr&gt;
 &lt;td&gt;OlliOlli2: Welcome to Olliwood &lt;em&gt;(PS4, Vita)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Phantom Breaker: Battle Grounds &lt;em&gt;(Vita)&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;50%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -231,11 +257,6 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Soul Sacrifice Delta &lt;em&gt;(Vita)&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;-%&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
 &lt;td&gt;Sound Shapes &lt;em&gt;(PS3, PS4, Vita)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
@@ -258,11 +279,6 @@
 &lt;tr&gt;
 &lt;td&gt;Velocity 2X &lt;em&gt;(PS4, Vita)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Wipeout HD Fury &lt;em&gt;(PS3)&lt;/em&gt;&lt;/td&gt;
-&lt;td&gt;50%&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -317,22 +333,22 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;God of War Chains of Olympus&lt;/td&gt;
+&lt;td&gt;God of War Chains of Olympus HD&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;God of War I&lt;/td&gt;
+&lt;td&gt;God of War I HD&lt;/td&gt;
 &lt;td&gt;100%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;God of War Ghost of Sparta&lt;/td&gt;
+&lt;td&gt;God of War Ghost of Sparta HD&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;God of War II&lt;/td&gt;
+&lt;td&gt;God of War II HD&lt;/td&gt;
 &lt;td&gt;50%&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -397,6 +413,11 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td&gt;Okami HD (Digital)&lt;/td&gt;
+&lt;td&gt;-%&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
 &lt;td&gt;Portal 2&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
@@ -409,6 +430,11 @@
 &lt;tr&gt;
 &lt;td&gt;The Last of Us&lt;/td&gt;
 &lt;td&gt;100%&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Wipeout HD Fury &lt;em&gt;(Digital)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;50%&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -483,7 +509,22 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td&gt;Phantom Breaker: Battle Grounds &lt;em&gt;(Digital)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;50%&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Soul Sacrifice Delta &lt;em&gt;(Digital)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;-%&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
 &lt;td&gt;Steins;Gate&lt;/td&gt;
+&lt;td&gt;-%&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Superbeat: Xonic &lt;em&gt;(Digital)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -509,6 +550,11 @@
 
 &lt;tr&gt;
 &lt;td&gt;Uncharted: Golden Abyss&lt;/td&gt;
+&lt;td&gt;-%&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;World of Final Fantasy&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -549,11 +595,6 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Chili Con Carnage&lt;/td&gt;
-&lt;td&gt;-%&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
 &lt;td&gt;Crisis Core: Final Fantasy VII&lt;/td&gt;
 &lt;td&gt;100%&lt;/td&gt;
 &lt;/tr&gt;
@@ -565,6 +606,11 @@
 
 &lt;tr&gt;
 &lt;td&gt;Dissidia 012 Final Fantasy&lt;/td&gt;
+&lt;td&gt;-%&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DJMax Portable 3&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -601,6 +647,11 @@
 &lt;tr&gt;
 &lt;td&gt;God of War Ghost of Sparta&lt;/td&gt;
 &lt;td&gt;100%&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Grand Theft Auto: Chinatown Wars&lt;/td&gt;
+&lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -665,62 +716,77 @@
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Castlevania: Symphony of The Night &lt;em&gt;(PS3, Vita)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Ace Combat 2 &lt;em&gt;(PSPGo)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;-%&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Castlevania: Symphony of The Night &lt;em&gt;(PS3, PSPGo, Vita)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;100%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Crash Bandicoot &lt;em&gt;(PS3)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Crash Bandicoot &lt;em&gt;(PS3, PSPGo)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Crash Bandicoot 2: Cortex Strikes Back &lt;em&gt;(PS3)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Crash Bandicoot 2: Cortex Strikes Back &lt;em&gt;(PS3, PSPGo)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Crash Bandicoot 3: Warped &lt;em&gt;(PS3)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Crash Bandicoot 3: Warped &lt;em&gt;(PS3, PSPGo)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;CTR: Crash Team Racing &lt;em&gt;(PS3)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;CTR: Crash Team Racing &lt;em&gt;(PS3, PSPGo)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Final Fantasy V &lt;em&gt;(PS3, Vita)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Digimon World 3 &lt;em&gt;(PSPGo)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Final Fantasy VI &lt;em&gt;(PS3, Vita)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Final Fantasy V &lt;em&gt;(PS3, PSPGo, Vita)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Final Fantasy VII &lt;em&gt;(PS3, Vita)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Final Fantasy VI &lt;em&gt;(PS3, PSPGo, Vita)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;50%&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Final Fantasy VII &lt;em&gt;(PS3, PSPGo, Vita)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;100%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Final Fantasy VIII &lt;em&gt;(PS3, Vita)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Final Fantasy VIII &lt;em&gt;(PS3, PSPGo, Vita)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;100%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Final Fantasy IX &lt;em&gt;(PS3, Vita)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Final Fantasy IX &lt;em&gt;(PS3, PSPGo, Vita)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;100%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Metal Gear Solid &lt;em&gt;(PS3, Vita)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Metal Gear Solid &lt;em&gt;(PS3, PSPGo, Vita)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;100%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Vagrant Story &lt;em&gt;(PS3, Vita)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;PacMan 20th Anniversary &lt;em&gt;(PSPGo)&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;-%&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Vagrant Story &lt;em&gt;(PS3, PSPGo, Vita)&lt;/em&gt;&lt;/td&gt;
 &lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -1020,7 +1086,7 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;Castlevania: Circle of The Moon&lt;/td&gt;
-&lt;td&gt;100%&lt;/td&gt;
+&lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -1035,7 +1101,7 @@
 
 &lt;tr&gt;
 &lt;td&gt;Final Fantasy VI Advance&lt;/td&gt;
-&lt;td&gt;-%&lt;/td&gt;
+&lt;td&gt;50%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -1110,7 +1176,7 @@
 
 &lt;tr&gt;
 &lt;td&gt;Super Mario Advance 3: Yoshi&amp;rsquo;s Island&lt;/td&gt;
-&lt;td&gt;-%&lt;/td&gt;
+&lt;td&gt;50%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -1156,7 +1222,7 @@
 
 &lt;tr&gt;
 &lt;td&gt;The Legend of Zelda: Link&amp;rsquo;s Awakening&lt;/td&gt;
-&lt;td&gt;100%&lt;/td&gt;
+&lt;td&gt;-%&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
