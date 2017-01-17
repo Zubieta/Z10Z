@@ -16,9 +16,13 @@ Some pictures I've taken along many years *(mostly while I have been at universi
 |---|---|---|
 | [![][01]][01] | [![][02]][02] | [![][03]][03] |
 
-| January 23, 2012 | March 28, 2012  | April 9, 2012 |
+| January 23, 2012 | February 9, 2012 | February 23, 2012 |
 |---|---|---|
-| [![][04]][04] | [![][05]][05] | [![][06]][06] |
+| [![][04]][04] | [![][81]][81] | [![][82]][82] |
+
+| March 21, 2012 | March 28, 2012  | April 9, 2012 |
+|---|---|---|
+| [![][83]][83] | [![][05]][05] | [![][06]][06] |
 
 | May 22, 2012 | May 27, 2012 | September 18, 2012 |
 |---|---|---|
@@ -108,3 +112,7 @@ Some pictures I've taken along many years *(mostly while I have been at universi
 [34]: https://i.imgur.com/gTHmNpD.jpg "Imgur"
 [35]: https://i.imgur.com/Jl6exa6.jpg "Imgur"
 [36]: https://i.imgur.com/9MVBtTO.png "Imgur"
+
+[81]: https://i.imgur.com/VZ6utWn.jpg "Imgur"
+[82]: https://i.imgur.com/iGQ7J0Q.jpg "Imgur"
+[83]: https://i.imgur.com/RnXPBim.png "Imgur"
