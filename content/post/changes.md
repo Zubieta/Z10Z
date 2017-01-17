@@ -70,12 +70,12 @@ Some pictures I've taken along many years *(mostly while I have been at universi
 [06]: https://i.imgur.com/yrzwyDu.jpg "Imgur"
 
 [07]: https://i.imgur.com/jrIFyRP.jpg "Imgur"
-[08]: https://i.imgur.com/CTKS2Oj.jpg "Imgur"
-[09]: https://i.imgur.com/08QYPLZ.jpg "Imgur"
+[08]: https://i.imgur.com/dmAPgHz.jpg "Imgur"
+[09]: https://i.imgur.com/CTKS2Oj.jpg "Imgur"
 
-[10]: https://i.imgur.com/PqRr19S.jpg "Imgur"
-[11]: https://i.imgur.com/BP9OVc4.jpg "Imgur"
-[12]: https://i.imgur.com/Zxctj9s.jpg "Imgur"
+[10]: https://i.imgur.com/08QYPLZ.jpg "Imgur"
+[11]: https://i.imgur.com/PqRr19S.jpg "Imgur"
+[12]: https://i.imgur.com/BP9OVc4.jpg "Imgur"
 
 [13]: https://i.imgur.com/qAOGi4Q.jpg "Imgur"
 [14]: https://i.imgur.com/vS0jdQr.jpg "Imgur"
