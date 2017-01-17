@@ -24,7 +24,7 @@ Some pictures I've taken along many years *(mostly while I have been at universi
 |---|---|---|
 | [![][07]][07] | [![][08]][08] | [![][09]][09] |
 
-| November 23, 2012 | November 24, 2012| January 7, 2013 |
+| November 23, 2012 | November 24, 2012 | January 7, 2013 |
 |---|---|---|
 | [![][10]][10] | [![][11]][11] | [![][12]][12] |
 
