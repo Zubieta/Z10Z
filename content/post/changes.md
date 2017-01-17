@@ -20,7 +20,7 @@ Some pictures I've taken along many years *(mostly while I have been at universi
 |---|---|---|
 | [![][04]][04] | [![][05]][05] | [![][06]][06] |
 
-| May 22, 2012  | May 27, 2012 | September 18, 2012 | 
+| May 22, 2012  | May 27, 2012 | September 18, 2012 |
 |---|---|---|
 | [![][07]][07] | [![][08]][08] | [![][09]][09] |
 

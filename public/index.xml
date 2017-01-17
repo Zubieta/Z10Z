@@ -1929,9 +1929,23 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;| May 22, 2012  | May 27, 2012 | September 18, 2012 |
-|&amp;mdash;|&amp;mdash;|&amp;mdash;|
-| &lt;a href=&#34;https://i.imgur.com/jrIFyRP.jpg&#34; title=&#34;Imgur&#34;&gt;&lt;img src=&#34;https://i.imgur.com/jrIFyRP.jpg&#34; alt=&#34;&#34; title=&#34;Imgur&#34; /&gt;&lt;/a&gt; | &lt;a href=&#34;https://i.imgur.com/dmAPgHz.jpg&#34; title=&#34;Imgur&#34;&gt;&lt;img src=&#34;https://i.imgur.com/dmAPgHz.jpg&#34; alt=&#34;&#34; title=&#34;Imgur&#34; /&gt;&lt;/a&gt; | &lt;a href=&#34;https://i.imgur.com/CTKS2Oj.jpg&#34; title=&#34;Imgur&#34;&gt;&lt;img src=&#34;https://i.imgur.com/CTKS2Oj.jpg&#34; alt=&#34;&#34; title=&#34;Imgur&#34; /&gt;&lt;/a&gt; |&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;May 22, 2012&lt;/th&gt;
+&lt;th&gt;May 27, 2012&lt;/th&gt;
+&lt;th&gt;September 18, 2012&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://i.imgur.com/jrIFyRP.jpg&#34; title=&#34;Imgur&#34;&gt;&lt;img src=&#34;https://i.imgur.com/jrIFyRP.jpg&#34; alt=&#34;&#34; title=&#34;Imgur&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://i.imgur.com/dmAPgHz.jpg&#34; title=&#34;Imgur&#34;&gt;&lt;img src=&#34;https://i.imgur.com/dmAPgHz.jpg&#34; alt=&#34;&#34; title=&#34;Imgur&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://i.imgur.com/CTKS2Oj.jpg&#34; title=&#34;Imgur&#34;&gt;&lt;img src=&#34;https://i.imgur.com/CTKS2Oj.jpg&#34; alt=&#34;&#34; title=&#34;Imgur&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
