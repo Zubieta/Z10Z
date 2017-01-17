@@ -8,7 +8,7 @@ title = "Changes"
 
 +++
 
-Some pictures I've taken in the last 4 years *(mostly while I have been at university)*, years full of **changes**, going from thinking and doing **stupid stuff**, to thinking and doing either **kinda rational stuff** or **stupider stuff** heh, but also, just out of pure curiosity, trying several combinations of **hair styles**, sometimes even cutting my own hair to **try things**.
+Some pictures I've taken along many years *(mostly while I have been at university)*, years full of **changes**, going from thinking and doing **stupid stuff**, to thinking and doing either **kinda more rational stuff** or **stupider stuff** heh, but also, just out of pure curiosity, trying several combinations of **hair styles**, sometimes even cutting my own hair myself to **try things**.
 
 *Long hair, short hair, really short hair, messy hair, ironed hair, no beard, long beard, trimmed beard, [just-one-day strange beard](https://i.imgur.com/08QYPLZ.jpg), unkempt hair, kempt hair*, **in any combination**, you name it.
 
@@ -59,7 +59,7 @@ Some pictures I've taken in the last 4 years *(mostly while I have been at unive
 
 [01]: https://i.imgur.com/MlP3PJy.jpg "Imgur"
 [02]: https://i.imgur.com/fjtZtMV.jpg "Imgur"
-[03]: https://i.imgur.com/k7kTso7.jpg "Imgur"
+[03]: https://i.imgur.com/IEFGyyx.jpg "Imgur"
 
 [04]: https://i.imgur.com/VZ6utWn.jpg "Imgur"
 [05]: https://i.imgur.com/EsGNBH2.jpg "Imgur"
