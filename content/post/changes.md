@@ -75,7 +75,7 @@ Some pictures I've taken along many years *(mostly while I have been at universi
 
 [10]: https://i.imgur.com/PqRr19S.jpg "Imgur"
 [11]: https://i.imgur.com/BP9OVc4.jpg "Imgur"
-[12]: https://i.imgur.com/BP9OVc4.jpg "Imgur"
+[12]: 
 
 [13]: https://i.imgur.com/qAOGi4Q.jpg "Imgur"
 [14]: https://i.imgur.com/vS0jdQr.jpg "Imgur"
