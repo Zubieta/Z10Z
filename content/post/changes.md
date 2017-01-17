@@ -12,15 +12,15 @@ Some pictures I've taken along many years *(mostly while I have been at universi
 
 *Long hair, short hair, really short hair, messy hair, ironed hair, no beard, long beard, trimmed beard, [just-one-day strange beard](https://i.imgur.com/08QYPLZ.jpg), unkempt hair, kempt hair*, **in any combination**, you name it.
 
-| September 12, 2011  | September 25, 2011  | October 31, 2011 |
+| September 12, 2011 | September 25, 2011 | October 31, 2011 |
 |---|---|---|
 | [![][01]][01] | [![][02]][02] | [![][03]][03] |
 
-| January 23, 2012  | March 28, 2012  | April 9, 2012 |
+| January 23, 2012 | March 28, 2012  | April 9, 2012 |
 |---|---|---|
 | [![][04]][04] | [![][05]][05] | [![][06]][06] |
 
-| May 22, 2012  | May 27, 2012 | September 18, 2012 |
+| May 22, 2012 | May 27, 2012 | September 18, 2012 |
 |---|---|---|
 | [![][07]][07] | [![][08]][08] | [![][09]][09] |
 
