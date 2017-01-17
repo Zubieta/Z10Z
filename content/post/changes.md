@@ -32,11 +32,11 @@ Some pictures I've taken along many years *(mostly while I have been at universi
 |---|---|---|
 | [![][13]][13] | [![][14]][14] | [![][15]][15] |
 
-| April 16, 2013 | July 15, 2013 | August 1, 2013 |
+| April 16, 2013 | July 5, 2013 | July 15, 2013 |
 |---|---|---|
 | [![][16]][16] | [![][17]][17] | [![][18]][18] |
 
-| August 21, 2013 | August 23, 2013 | September 9, 2013 |
+| August 1, 2013 | August 5, 2013 | August 23, 2013 |
 |---|---|---|
 | [![][19]][19] | [![][20]][20] | [![][21]][21] |
 
@@ -82,12 +82,12 @@ Some pictures I've taken along many years *(mostly while I have been at universi
 [15]: https://i.imgur.com/swRt13o.jpg "Imgur"
 
 [16]: https://i.imgur.com/qfBQVCt.jpg "Imgur"
-[17]: https://i.imgur.com/9J8gJy2.jpg "Imgur"
-[18]: https://i.imgur.com/062rAM7.jpg "Imgur"
+[17]: https://i.imgur.com/AMQnnDK.jpg "Imgur"
+[18]: https://i.imgur.com/9J8gJy2.jpg "Imgur"
 
-[19]: https://i.imgur.com/0B0xFNp.jpg "Imgur"
-[20]: https://i.imgur.com/uIpdQT0.jpg "Imgur"
-[21]: https://i.imgur.com/CxfiICG.jpg "Imgur"
+[19]: https://i.imgur.com/KNiKfZI.jpg "Imgur"
+[20]: https://i.imgur.com/3Y7TRC1.jpg "Imgur"
+[21]: https://i.imgur.com/uIpdQT0.jpg "Imgur"
 
 [22]: https://i.imgur.com/wSH2vox.jpg "Imgur"
 [23]: https://i.imgur.com/MhNbBtD.jpg "Imgur"
