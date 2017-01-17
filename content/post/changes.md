@@ -78,7 +78,7 @@ Some pictures I've taken along many years *(mostly while I have been at universi
 
 | January 27, 2015 | January 30, 2015 | February 16, 2015 |
 |---|---|---|
-| [![][31]][31] | [![][98]][98] | [![][32]][32] |
+| [![][32]][32] | [![][98]][98] | [![][33]][33] |
 
 | February 22, 2015 | April 26, 2015 | May 12, 2015 |
 |---|---|---|
