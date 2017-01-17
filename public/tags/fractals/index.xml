@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fractals on Z10Z</title>
+    <link>https://zubie7a.github.io/z10z/tags/fractals/</link>
+    <description>Recent content in Fractals on Z10Z</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 10 May 2012 02:19:23 -0500</lastBuildDate>
+    <atom:link href="https://zubie7a.github.io/z10z/tags/fractals/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Shine On You Crazy Fractal</title>
+      <link>https://zubie7a.github.io/z10z/2012/05/shine-on-you-crazy-fractal/</link>
+      <pubDate>Thu, 10 May 2012 02:19:23 -0500</pubDate>
+      
+      <guid>https://zubie7a.github.io/z10z/2012/05/shine-on-you-crazy-fractal/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/-Lhw-qdXUis&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;For all those Fractal Hearts&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Convoluted, and complex&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;No matter how deep, full of detail&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;The intrinsic shape of The Universe&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I this is a simulation in &lt;strong&gt;C++&lt;/strong&gt; with &lt;strong&gt;SFML 2.0&lt;/strong&gt;. Every frame is a &lt;a href=&#34;https://en.wikipedia.org/wiki/Julia_set&#34;&gt;&lt;strong&gt;Julia Set&lt;/strong&gt;&lt;/a&gt; fractal rendered with a slightly varying initial parameter, so it gives the illusion that its evolving. The first strategy for varying the initial parameter is like a row by row scan of points of the complex plane from the uppermost left corner down the the lowermost right corner. The second strategy for varying the initial parameter is like a spiral that starts at the center of the complex plane and starts spiralling out from there.&lt;/p&gt;
+
+&lt;p&gt;And when I watch this video, I can&amp;rsquo;t help but notice how it continously cycles from two separate main bodies into a single one and viceversa. It looks as if two galaxies were dancing around each other, merging, and separating, and merging, and separating. The dynamics of galaxy collissions shows that when they are on a collision course, they sort of dance around each other, then go through each other, then separate, then go across each other again, until their cores merge and stabilize. &lt;strong&gt;Luckily for fractals, their dance can go on forever.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You can find the code at &lt;a href=&#34;https://github.com/Zubieta/Shine_On_You_Crazy_Fractal&#34;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
