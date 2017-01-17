@@ -60,13 +60,17 @@ Some pictures I've taken along many years *(mostly while I have been at universi
 |---|---|---|
 | [![][25]][25] | [![][90]][90] | [![][26]][26] |
 
-| March 17, 2014 | March 29, 2014 |June 3, 2014 |
+| March 17, 2014 | March 29, 2014 | June 3, 2014 |
 |---|---|---|
 | [![][91]][91] | [![][92]][92] | [![][27]][27] |
 
-| October 7, 2014 | November 12, 2014 | January 1, 2015 |
+| August 9, 2014 | October 7, 2014 | October 31, 2014 |
 |---|---|---|
-| [![][28]][28] | [![][29]][29] | [![][30]][30] |
+| [![][93]][93] | [![][28]][28] | [![][94]][94] |
+
+| November 12, 2014 | November 24, 2014 | January 1, 2015 |
+|---|---|---|
+| [![][29]][29] | [![][95]][95] | [![][30]][30] |
 
 | January 26, 2015 | January 27, 2015 | February 16, 2015 |
 |---|---|---|
@@ -140,3 +144,7 @@ Some pictures I've taken along many years *(mostly while I have been at universi
 [90]: https://i.imgur.com/JSnCdSJ.jpg "Imgur"
 [91]: https://i.imgur.com/Nf96sVe.jpg "Imgur"
 [92]: https://i.imgur.com/Jr6TkwK.png "Imgur"
+
+[93]: https://i.imgur.com/xJibzNC.jpg "Imgur"
+[94]: https://i.imgur.com/RxYtjum.jpg "Imgur"
+[95]: https://i.imgur.com/z7o2IJl.png "Imgur"
