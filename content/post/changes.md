@@ -124,7 +124,7 @@ So, the same way I register in this post my **personal change**, I also try to s
 |---|---|---|
 | [![][38]][38] | [![][39]][39] | [![][40]][40] |
 
-| October 16, 2015 | October 31, 2015 | December 2, 2015 |
+| October 16, 2015 | October 31, 2015 | November 11, 2015 |
 |---|---|---|
 | [![][A35]][A35] | [![][A36]][A36] | [![][A37]][A37] |
 
