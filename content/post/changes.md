@@ -8,7 +8,7 @@ title = "Changes"
 
 +++
 
-Some pictures I've taken along many years *(mostly while I have been at university since 2011)*, years full of **changes**, going from thinking and doing **kinda stupid stuff**, to thinking and doing either **kinda more rational stuff** or **stupider stuff** heh, a whole life learning, but also, just out of pure curiosity, trying several combinations of **hair styles**, sometimes even cutting my own hair myself to **try things**. *(Or sometimes experimenting odd stuff just for one day)*
+Some pictures I've taken along many years *(mostly while I have been at university since 2011)*, years full of **changes**, going from thinking and doing **kinda stupid stuff**, to thinking and doing either **kinda more rational stuff** or **stupider stuff** heh, a whole life learning, but also, just out of pure curiosity, trying several combinations of **hair styles**, sometimes even cutting my own hair myself to **try things**. *(Or sometimes experimenting odd stuff just for one day).*
 
 *Long hair, short hair, really short hair, messy hair, ironed hair, no beard, long beard, trimmed beard, [just-one-day strange beard](https://i.imgur.com/08QYPLZ.jpg), unkempt hair, kempt hair*, **in any combination**, you name it.
 
@@ -124,9 +124,13 @@ So, the same way I register in this post my **personal change**, I also try to s
 |---|---|---|
 | [![][38]][38] | [![][39]][39] | [![][40]][40] |
 
-| November 2, 2015 | November 21, 2015 | December 8, 2015 |
+| October 16, 2015 | October 31, 2015 | December 2, 2015 |
 |---|---|---|
-| [![][41]][41] | [![][42]][42] | [![][A22]][A22] |
+| [![][A35]][A35] | [![][A36]][A36] | [![][A37]][A37] |
+
+| November 21, 2015 | December 2, 2015 | December 8, 2015 |
+|---|---|---|
+| [![][42]][42] | [![][41]][41] | [![][A22]][A22] |
 
 | December 15, 2015 | December 20, 2015 | January 20, 2015 |
 |---|---|---|
@@ -207,6 +211,9 @@ So, the same way I register in this post my **personal change**, I also try to s
 [A32]: https://i.imgur.com/5zjMWHF.jpg "Imgur"
 [A33]: https://i.imgur.com/KYAwHF7.jpg "Imgur"
 [A34]: https://i.imgur.com/d0PS1Cg.jpg "Imgur"
+[A35]: https://i.imgur.com/ECruPUv.jpg "Imgur"
+[A36]: https://i.imgur.com/yA7FCZv.jpg "Imgur"
+[A37]: https://i.imgur.com/c4qQwX2.jpg "Imgur"
 
 [01]: https://i.imgur.com/MlP3PJy.jpg "Imgur"
 [02]: https://i.imgur.com/fjtZtMV.jpg "Imgur"
