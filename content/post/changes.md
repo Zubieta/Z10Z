@@ -12,9 +12,9 @@ Some pictures I've taken along many years *(mostly while I have been at universi
 
 *Long hair, short hair, really short hair, messy hair, ironed hair, no beard, long beard, trimmed beard, [just-one-day strange beard](https://i.imgur.com/08QYPLZ.jpg), unkempt hair, kempt hair*, **in any combination**, you name it.
 
-Ever since I got a digital camera around 2006, I've taken a **LOT** of pictures. You'd think I take a lot of selfies, but pictures of myself account to less than 1% of all pictures I've ever taken *(Right now, my computer holds almost 52000 pictures I've taken from all sort of occassions, birthdays, travels, events, concerts, school, university, or just plain daily life).*
+Ever since I got a digital camera around 2006, I've taken a **LOT** of pictures. You'd think I take a lot of selfies, but pictures of myself account to less than 1% of all pictures I've ever taken *(Right now, my computer holds almost 52000 pictures I've taken from all sort of occassions, birthdays, travels, concerts, events, school, university, or just plain daily life).*
 
-So, the same way I register in this post my **personal change**, I also try to structure and organize in my computer all the pictures I've taken during more than **10 years** now from all sorts of **experiences**, because they hold not only dear memories but are proof of the passage of time and how much I've **learned**, **enjoyed** and **lived** during all these years, **together** with my family, friends, teachers, and many more people whom I've crossed paths with!
+So, the same way I register in this post my **personal change**, I also try to structure and organize in my computer all the pictures I've taken during more than **10 years** now from all sorts of **experiences**, as they hold not only dear memories but are proof of the passage of time and how much I've **learned**, **enjoyed** and **lived** during all these years, **together** with my family, friends, teachers, and many more people whom I've crossed paths with!
 
 | June 2, 2007 | February 28, 2008 | February 28, 2008 |
 |---|---|---|
