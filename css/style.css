@@ -1059,7 +1059,11 @@ span + .edit-link:before,
     max-width: 672px;
 }
 
-.site-content .entry-header,
+.site-content .entry-header {
+    margin: 0 auto;
+    max-width: 700px;
+}
+
 .site-content .entry-content,
 .site-content .entry-summary,
 .site-content .entry-meta,
