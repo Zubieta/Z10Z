@@ -5,8 +5,11 @@
     <link>https://zubie7a.github.io/z10z/tags/about/</link>
     <description>Recent content in About on Z10Z</description>
     <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright (c) 2017, Santiago Zubieta; some rights reserved.</copyright>
     <lastBuildDate>Tue, 10 Jun 0042 14:21:00 -0500</lastBuildDate>
-    <atom:link href="https://zubie7a.github.io/z10z/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://zubie7a.github.io/z10z/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>About Me</title>
@@ -14,16 +17,8 @@
       <pubDate>Tue, 10 Jun 0042 14:21:00 -0500</pubDate>
       
       <guid>https://zubie7a.github.io/z10z/42/06/about-me/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a &lt;em&gt;Computer Science and Engineering&lt;/em&gt; student from &lt;a href=&#34;http://www.eafit.edu.co&#34;&gt;&lt;strong&gt;EAFIT University&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;I am a person that loves learning and applying things&lt;/strong&gt;, I believe that academia and industry growth go hand in hand, like a feedback loop. I want to seek opportunities that allow me to grow personally and intellectually, things that aren&amp;rsquo;t just repeating something mindlessly over and over again, but something that requires me to think and act on it. I like arts, and aesthetics, not only in the visual part, but also in things that work orderly. I love order, but I think one should have the flexibility to be ready to improvise, compromise, or react on unforeseen situations, and be aware of possible changes in the priorities of tasks and goals. I believe all of this allows me to grow in the sciences and technologies, and growing them, while learning and making nice things.&lt;/p&gt;
-
-&lt;p&gt;Most of my programming work experience is regarding &lt;strong&gt;Distributed Systems&lt;/strong&gt;, &lt;strong&gt;Information Security&lt;/strong&gt;, &lt;strong&gt;Software Engineering&lt;/strong&gt;, and &lt;strong&gt;Data Structures and Algorithms&lt;/strong&gt;. In my free time I explore things related to &lt;strong&gt;Computational Art&lt;/strong&gt;, I made for fun a drawing app involving concepts of trigonometry, geometry, and linear algebra, for making designs with effects, rotations, symmetry, and brushes with over 200.000 downloads, available at the &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.zubieta.craze&#34;&gt;Android Play Store&lt;/a&gt;, also available for &lt;a href=&#34;http://craze-alpha.herokuapp.com&#34;&gt;Mobile/Desktop Browser&lt;/a&gt;, and sometimes I &lt;a href=&#34;http://instagram.com/crazeapp&#34;&gt;post psychedelic art&lt;/a&gt; made with it.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Whats in a name?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The namesake of this blog, &lt;strong&gt;Z10Z&lt;/strong&gt;, is a &lt;a href=&#34;https://en.wikipedia.org/wiki/Numeronym&#34;&gt;numeronym&lt;/a&gt;, created with my last names :-)&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;m a Computer Science and Engineering student from EAFIT University.
+I am a person that loves learning and applying things, I believe that academia and industry growth go hand in hand, like a feedback loop. I want to seek opportunities that allow me to grow personally and intellectually, something that requires me to think and act on it. I like arts, and aesthetics, not only in the visual part, but also in things that work orderly.</description>
     </item>
     
   </channel>

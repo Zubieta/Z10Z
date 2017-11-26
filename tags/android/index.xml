@@ -5,8 +5,11 @@
     <link>https://zubie7a.github.io/z10z/tags/android/</link>
     <description>Recent content in Android on Z10Z</description>
     <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright (c) 2017, Santiago Zubieta; some rights reserved.</copyright>
     <lastBuildDate>Wed, 18 Jun 2014 01:32:32 -0500</lastBuildDate>
-    <atom:link href="https://zubie7a.github.io/z10z/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://zubie7a.github.io/z10z/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Exploring Device Functionality</title>
@@ -14,49 +17,8 @@
       <pubDate>Wed, 18 Jun 2014 01:32:32 -0500</pubDate>
       
       <guid>https://zubie7a.github.io/z10z/2014/06/exploring-device-functionality/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been playing around with some pieces of technology &lt;em&gt;(an Android Tablet, an Android Phone, Apple’s Magic Keyboard/Trackpad, a MHL-Compliant TV)&lt;/em&gt; which I own, and found out some simple but neat functionality which I didn’t know they could perform together:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;If you have an &lt;strong&gt;Android Tablet/Phone&lt;/strong&gt;, and if you pair a &lt;strong&gt;BT Keyboard&lt;/strong&gt; like &lt;strong&gt;Apple&lt;/strong&gt;&amp;rsquo;s own &lt;strong&gt;Magic Keyboard&lt;/strong&gt;, you can perform a lot of functionality from the keyboard. Many sites mention some basic shortcuts for external keyboards, and some seem reasonable &lt;em&gt;(like the media buttons, or shortcuts to replace the regular buttons)&lt;/em&gt;, but some are surprising because are &lt;strong&gt;Apple&lt;/strong&gt;-specific buttons that perform similar functionality on an &lt;strong&gt;Android&lt;/strong&gt; device, these are:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Media&lt;/strong&gt; key &lt;em&gt;(Play/Pause/Volume, which seems more reasonable).&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Brightness&lt;/strong&gt; key &lt;em&gt;(which usually control a Mac screen brightness, but the tablet responds to them).&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Exposé&lt;/strong&gt; key &lt;em&gt;(which opens up the task manager on the Android device).&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Escape&lt;/strong&gt; key &lt;em&gt;(which serves as the &amp;lsquo;back&amp;rsquo; button on Android).&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Control + Escape&lt;/strong&gt; combo &lt;em&gt;(which serves as the &amp;lsquo;menu&amp;rsquo; button on Android).&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;CMD + Escape&lt;/strong&gt; combo &lt;em&gt;(which serves as the &amp;lsquo;home&amp;rsquo; button on Android).&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;CMD + Tab&lt;/strong&gt; combo &lt;em&gt;(works like in computers, switch between open apps).&lt;/em&gt;&lt;br /&gt;
- &lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;If you have an &lt;strong&gt;Android Tablet/Phone&lt;/strong&gt;, and if you pair a &lt;strong&gt;BT Trackpad&lt;/strong&gt; like &lt;strong&gt;Apple&lt;/strong&gt;’s own &lt;strong&gt;Magic Trackpad&lt;/strong&gt;, a circular translucid cursor &lt;em&gt;(not an arrow)&lt;/em&gt; appears on screen moving along your finger on the trackpad, but also &lt;strong&gt;Multitouch Gestures&lt;/strong&gt; done on the trackpad are identified by the device &lt;em&gt;(like, every finger on the trackpad is detected, I&amp;rsquo;ve tested up to 10 fingers, all detected, and it shows one circular cursor for each finger on the trackpad as if they were on the screen)&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Single Finger &amp;lsquo;Cursor&amp;rsquo;&lt;/th&gt;
-&lt;th&gt;Multiple Fingers &amp;lsquo;Cursors&amp;rsquo;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://i.imgur.com/IOv8fGX.png&#34;&gt;&lt;img src=&#34;https://i.imgur.com/IOv8fGX.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://i.imgur.com/20o2YSe.png&#34;&gt;&lt;img src=&#34;https://i.imgur.com/20o2YSe.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;em&gt;(I think that with iOS Devices you can pair the Magic Keyboard, or any other BT Keyboard for the matter, but not the Magic Trackpad. Apple seems to be a bit allergic about having a cursor, be it arrowy or circular, on touch devices, even if its neat for TV-out and not having to be stuck in front of the TV, and their very own Magic Trackpad would allow people to perform Multi-Touch gestures from afar. Its very strange that Android devices support the full Magic Trackpad functionality, and Apple&amp;rsquo;s own iOS devices support none).&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;If you have a &lt;strong&gt;MHL-Enabled TV&lt;/strong&gt;, chances are that when you connect a device like an &lt;strong&gt;Android Tablet/Phone&lt;/strong&gt; via HDMI &lt;em&gt;(I guess it counts for any device that’s MHL Compliant)&lt;/em&gt;, you can control that device using the TV’s own remove control. So, with my TV remote I can use the arrows to navigate around and also the Media Buttons &lt;em&gt;(Play/Pause/Stop)&lt;/em&gt; to control music/movies that are playing on the device, making any tablet/phone into a potential media center for the &lt;em&gt;(MHL-Enabled)&lt;/em&gt; TV without needing to buy any kind of external device to control the device from afar.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Thats it for now, I&amp;rsquo;ll update this in case I find out any further functionality in my devices that I was not aware they could perform when I bought them, its sometimes nice to be surprised by what some pieces of technology can do!&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;ve been playing around with some pieces of technology (an Android Tablet, an Android Phone, Apple’s Magic Keyboard/Trackpad, a MHL-Compliant TV) which I own, and found out some simple but neat functionality which I didn’t know they could perform together:
+ If you have an Android Tablet/Phone, and if you pair a BT Keyboard like Apple&amp;rsquo;s own Magic Keyboard, you can perform a lot of functionality from the keyboard. Many sites mention some basic shortcuts for external keyboards, and some seem reasonable (like the media buttons, or shortcuts to replace the regular buttons), but some are surprising because are Apple-specific buttons that perform similar functionality on an Android device, these are:</description>
     </item>
     
     <item>
@@ -65,62 +27,7 @@
       <pubDate>Tue, 26 Mar 2013 21:46:47 -0500</pubDate>
       
       <guid>https://zubie7a.github.io/z10z/2013/03/the-blackberry-10-experience/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://31.media.tumblr.com/fa225f37defd8d02809642a740ce939c/tumblr_inline_mkalo96N9X1qz4rgp.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Just today, my shiny new &lt;strong&gt;BlackBerry Z10&lt;/strong&gt; &lt;em&gt;Limited Edition&lt;/em&gt; arrived. How did I get it? In &lt;strong&gt;October 2012&lt;/strong&gt; there were this series of events called &lt;strong&gt;BlackBerry Jam Sessions&lt;/strong&gt; that were sort of a &lt;strong&gt;hackathon&lt;/strong&gt; series to make apps for the new &lt;strong&gt;BlackBerry 10 OS&lt;/strong&gt; platform, using either their &lt;strong&gt;Native SDK&lt;/strong&gt;, the &lt;strong&gt;Android SDK&lt;/strong&gt; &lt;em&gt;(limited to 2.3.4)&lt;/em&gt; or &lt;strong&gt;Adobe AIR&lt;/strong&gt;. Of course, I was interested in participating because I sorta knew how to develop for &lt;strong&gt;Android&lt;/strong&gt;!&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;(Just as a note, the blog&amp;rsquo;s &lt;strong&gt;Z10Z&lt;/strong&gt; name is absolutely unrelated to the &lt;strong&gt;Z10&lt;/strong&gt; name of the phone)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;I think that the platform overall is nice, but I believe it came &lt;strong&gt;too late&lt;/strong&gt;. BlackBerry took too long to get into the touchscreen smartphone market, with several monthly, or even yearly delays. They were kings with the physical keyboard models that predated current smartphones &lt;em&gt;(everyone I knew were crazy about these)&lt;/em&gt; but were slowly phased out and forgotten by the incoming wave of &lt;strong&gt;Apple&lt;/strong&gt;, &lt;strong&gt;Android&lt;/strong&gt; and even &lt;strong&gt;Windows&lt;/strong&gt; smartphones, being relegated to the corporate environment, and even there being replaced by this new technologies. In the end they came new to a place were others were already very mature, without bringing much new stuff, and requiring people to develop for yet another platform, so in my opinion they should have become a complete fork of &lt;strong&gt;Android&lt;/strong&gt; and support immediately its full, huge application base, instead of giving limited support with some porting tools.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Anyway, lets talk about the hackathon!&lt;/strong&gt; In our team we developed an app for helping children and adolescents learn formulas from several &lt;em&gt;mathematics&lt;/em&gt;, &lt;em&gt;geometry&lt;/em&gt;, &lt;em&gt;chemistry&lt;/em&gt; and other &lt;em&gt;sciences&lt;/em&gt; topics, by inputting values into visual representations of whatever a formula was about, and finding the missing values, together with an explanation of such formulas. I was in charge of the software design and programming of the app, and putting together its visual interface.&lt;/p&gt;
-
-&lt;p&gt;Some friends did the gathering of resources &lt;em&gt;(images, formulas)&lt;/em&gt;, others did the pitch &lt;em&gt;(all the talk about how it worked, the idea, the business model, guided by an awesomely crafted presentation)&lt;/em&gt; and I did the coding and visual structuring. In the end, we won the &lt;strong&gt;Best Application Design&lt;/strong&gt; award!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/glK0UQA.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;There were 5 awards, each one with a trophy, and a backpack. The Best App award took home a Playbook, which I think they sold, because well, selling it and dividing cash is better than arguing who should keep the tablet.&lt;/p&gt;
-
-&lt;p&gt;But it didn’t stop there! They gave every contestant a &lt;strong&gt;Blackberry Dev Alpha B&lt;/strong&gt; unit, with the promise that if people had an app developed and approved into the &lt;strong&gt;Blackberry App World&lt;/strong&gt; before January 21st &lt;em&gt;(later extended until February 28th)&lt;/em&gt; they would qualify for exchanging the &lt;strong&gt;Dev Alpha B&lt;/strong&gt; unit for a &lt;strong&gt;Red Limited Edition&lt;/strong&gt; version of the finished &lt;em&gt;(retail)&lt;/em&gt; &lt;strong&gt;Z10&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Boot Screen&lt;/th&gt;
-&lt;th&gt;Unfinished Body&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;https://i.imgur.com/AVi71zz.png&#34; alt=&#34;&#34; /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;https://i.imgur.com/lbIpY8i.png&#34; alt=&#34;&#34; /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;The application I had submitted was a port of the &lt;strong&gt;Android&lt;/strong&gt; version of &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.zubieta.craze&#34;&gt;&lt;strong&gt;CraZe&lt;/strong&gt;&lt;/a&gt;! But I was kinda sad because at the day of the contest they didn’t say anything about the application submitted having to be one per person, I thought it would suffice for everyone in the team to exchange their &lt;strong&gt;Dev Alpha B&lt;/strong&gt; for the &lt;strong&gt;Z10&lt;/strong&gt;, so some people were unable to submit and get an application approved by the store and got stuck with the beta phone.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/C76Lxom.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1048 out of 12000 ever made!&lt;/strong&gt; Many were eager to sell the phone, I won&amp;rsquo;t &lt;em&gt;(even though I won&amp;rsquo;t use it for the foreseeable future because I have a new Galaxy S3)&lt;/em&gt;, but I&amp;rsquo;ll keep it as some crown of achievement!&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;img src=&#34;https://i.imgur.com/wp0C6Sa.jpg&#34; alt=&#34;&#34; /&gt;&lt;/th&gt;
-&lt;th&gt;&lt;img src=&#34;https://i.imgur.com/oV26fT4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img src=&#34;https://i.imgur.com/X36dl2e.jpg&#34; alt=&#34;&#34; /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;https://i.imgur.com/TK5NjX9.jpg&#34; alt=&#34;&#34; /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
+      <description>Just today, my shiny new BlackBerry Z10 Limited Edition arrived. How did I get it? In October 2012 there were this series of events called BlackBerry Jam Sessions that were sort of a hackathon series to make apps for the new BlackBerry 10 OS platform, using either their Native SDK, the Android SDK (limited to 2.3.4) or Adobe AIR. Of course, I was interested in participating because I sorta knew how to develop for Android!</description>
     </item>
     
   </channel>

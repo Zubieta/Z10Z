@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Z10Z</title>
+    <link>https://zubie7a.github.io/z10z/categories/</link>
+    <description>Recent content in Categories on Z10Z</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright (c) 2017, Santiago Zubieta; some rights reserved.</copyright>
+    <lastBuildDate>Tue, 10 Jun 0042 14:21:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://zubie7a.github.io/z10z/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://zubie7a.github.io/z10z/categories/about/</link>
+      <pubDate>Tue, 10 Jun 0042 14:21:00 -0500</pubDate>
+      
+      <guid>https://zubie7a.github.io/z10z/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arts</title>
+      <link>https://zubie7a.github.io/z10z/categories/arts/</link>
+      <pubDate>Thu, 14 May 2015 03:29:55 -0500</pubDate>
+      
+      <guid>https://zubie7a.github.io/z10z/categories/arts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Games</title>
+      <link>https://zubie7a.github.io/z10z/categories/games/</link>
+      <pubDate>Thu, 12 Jun 0042 00:02:28 -0500</pubDate>
+      
+      <guid>https://zubie7a.github.io/z10z/categories/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://zubie7a.github.io/z10z/categories/life/</link>
+      <pubDate>Thu, 12 Feb 2015 15:49:11 -0500</pubDate>
+      
+      <guid>https://zubie7a.github.io/z10z/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://zubie7a.github.io/z10z/categories/music/</link>
+      <pubDate>Fri, 17 Apr 2015 01:32:32 -0500</pubDate>
+      
+      <guid>https://zubie7a.github.io/z10z/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://zubie7a.github.io/z10z/categories/programming/</link>
+      <pubDate>Thu, 14 May 2015 03:29:55 -0500</pubDate>
+      
+      <guid>https://zubie7a.github.io/z10z/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science</title>
+      <link>https://zubie7a.github.io/z10z/categories/science/</link>
+      <pubDate>Sun, 07 Jul 2013 19:19:23 -0500</pubDate>
+      
+      <guid>https://zubie7a.github.io/z10z/categories/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://zubie7a.github.io/z10z/categories/technology/</link>
+      <pubDate>Wed, 18 Jun 2014 01:32:32 -0500</pubDate>
+      
+      <guid>https://zubie7a.github.io/z10z/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
