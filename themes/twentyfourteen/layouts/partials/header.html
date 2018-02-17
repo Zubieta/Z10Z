@@ -48,13 +48,13 @@
 							<a href="{{ .Site.BaseURL }}"> Home </a>
 						</li>
 						
-						{{ if isset .Site.Params "CVURL" }}
+						{{ if .Site.Params.CVURL }}
 						<li class="page_item">
 							<a href="{{ .Site.Params.CVURL }}"> CV </a>
 						</li>
 						{{ end }}
 						
-						{{ if isset .Site.Params "GitHubUser" }}
+						{{ if .Site.Params.GitHubUser }}
 						<li class="page_item">
 							<a href="//github.com/{{ .Site.Params.GitHubUser }}"> GitHub </a>
 						</li>
