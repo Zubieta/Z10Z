@@ -24,6 +24,7 @@ fi
 git commit -m "$msg"
 
 git pull --rebase
+git pull --rebase origin gh-pages
 
 # Push source and build repos.
 git push --force origin master
