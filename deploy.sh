@@ -23,7 +23,7 @@ then msg="$1"
 fi
 git commit -m "$msg"
 
-
+git pull --rebase
 
 # Push source and build repos.
 git push --force origin master
