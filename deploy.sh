@@ -6,9 +6,12 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 rm -rf public
 
 
-
 # Build the project.
 hugo -t 'twentyfourteen'
+
+# Add the CNAME file
+touch public/CNAME
+echo "z10z.xyz" > CNAME
 
 # Add changes to git.
 git add --all .
