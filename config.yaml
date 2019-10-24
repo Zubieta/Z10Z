@@ -1,5 +1,5 @@
 ---
-contentdir: "content"
+contentdir: "content/post"
 layoutdir: "layouts"
 publishdir: "public"
 baseurl: "https://zubie7a.github.io/z10z"

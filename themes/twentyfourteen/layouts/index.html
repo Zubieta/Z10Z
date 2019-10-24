@@ -9,7 +9,7 @@
             {{ range .Data.Pages.GroupByDate "2006" "desc"}}
                 {{ .Key }}
                 <hr>
-                {{ range where .Pages "Section" "post" }}
+                {{ range .Pages }}
                     {{ partial "brief.html" . }}
                 {{ end }}
             {{ end }}
