@@ -5,13 +5,12 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 # Clean the last files
 rm -rf public
 
-
 # Build the project.
 hugo -t 'twentyfourteen'
 
 # Add the CNAME file
 touch public/CNAME
-echo "z10z.xyz" > CNAME
+echo "z10z.xyz" > public/CNAME
 cat public/CNAME
 
 # Add changes to git.
