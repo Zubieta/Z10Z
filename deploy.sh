@@ -12,6 +12,7 @@ hugo -t 'twentyfourteen'
 # Add the CNAME file
 touch public/CNAME
 echo "z10z.xyz" > CNAME
+cat public/CNAME
 
 # Add changes to git.
 git add --all .
