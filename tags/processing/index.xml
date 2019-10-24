@@ -12,10 +12,10 @@
     
     <item>
       <title>Playing With Processing</title>
-      <link>https://zubie7a.github.io/z10z/2014/02/playing-with-processing/</link>
+      <link>https://zubie7a.github.io/z10z/playing-with-processing/</link>
       <pubDate>Fri, 14 Feb 2014 02:19:23 -0500</pubDate>
       
-      <guid>https://zubie7a.github.io/z10z/2014/02/playing-with-processing/</guid>
+      <guid>https://zubie7a.github.io/z10z/playing-with-processing/</guid>
       <description>This is an animation I did for a Computer Graphics class homework, without using any of the built in 2D/3D cartesian transformations, but the ones taught to us at class after I garnered some experience by playing around with the framework (but still only using the basic drawing functionality). Check out at GitHub, my homeworks for that class, mostly using Processing.
 Its the language most of Computational Artists use nowadays to make some neat stuff, like hypnotic geometric GIFs, glitched art, interactive artistic installations using external hardware input, etc.</description>
     </item>
