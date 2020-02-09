@@ -2,7 +2,7 @@
 	<!--\{\{ if isset .Pages "Pages" \}\}-->
 	<h1 class="widget-title">Recent Posts</h1>
 		<ul>
-			{{ range first 14 .Pages }}
+		{{ range first 14 .Pages }}
 			<li>
 				<a href="{{ .Permalink }}">{{ .Title }}</a>
 			</li>
