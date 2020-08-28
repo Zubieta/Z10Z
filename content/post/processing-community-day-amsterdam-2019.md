@@ -1,7 +1,7 @@
 +++
 categories = ["Arts", "Programming"]
 date = "2019-02-09T14:21:42+02:00"
-description = "Making colorful patterns with paper grids"
+description = "Meeting many cool people interested in creative coding, in Amsterdam"
 slug = ""
 tags = []
 title = "Processing Community Day, Amsterdam, 2019"
@@ -12,7 +12,7 @@ title = "Processing Community Day, Amsterdam, 2019"
 
 
 
-I presented my work made on **CraZe** in the **[Processing Community Day, Amsterdam](https://creativecoding.community/amsterdam)** edition. It was a very interesting experience because I got to meet a booming creative coding community which I didn't know about before, and because the things I presented were things I had been working on for years but never properly presented to an audience.
+I presented my work made on **CraZe** in the **[Processing Community Day, Amsterdam](https://creativecoding.community/amsterdam)** edition. It was a very interesting experience because I got to meet a booming creative coding community which I didn't know about before, and because the things I presented were things I had been working on for years but had never properly presented to an audience.
 
 [![01]][01]
 [![02]][02]
