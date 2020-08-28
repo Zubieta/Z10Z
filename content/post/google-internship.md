@@ -26,7 +26,7 @@ Also there are details I can't talk about *(like specific interview questions or
   3. [**The Technical Interviews, September 29th**](#III)
   4. [**The Host Matching Process, November to January**](#IV)
   5. [**I Am Here**](#V)
-  6. [**The Future**](#VI)
+  6. [**The Experience**](#VI)
   7. [**Looking Back (From 2020)**](#VII)
 
 <a name="I"></a>  
@@ -125,7 +125,7 @@ I am a curious person, I like to learn and try out stuff, but by no means I'm on
 <br />
 <hr />
 <br />
-**6. The Future**
+**6. The Experience**
 
 <a name="VII"/></a>
 <br />
@@ -135,9 +135,10 @@ I am a curious person, I like to learn and try out stuff, but by no means I'm on
 
 Looking back at my experience of not one but two internships at Google, I have so much great memories, and learned a lot of things. In the end, I didn't make it past the conversion process _(to become a full-time employee)_, which was a sort of Kafka-esque process for many issues, but in the end I don't regret a single moment of my experiences there.
 
-Many people down after being not making it past at any part of the process, be it the technical interviews, the host matching phase, the host interview phase, many even question their self worth, and let me tell them, Google may be a great company, but its just that, a company, not a subject of devotion or something for thinking you are worthless if you don't get to work for them.
+Many people down after being not making it past at any part of the process, be it the technical interviews, the host matching phase, the host interview phase, or even the conversion after having done the interships. Many even question their self worth, and let me tell them, Google may be a great company.
 
-It is definitely the experience of a lifetime, but even after Google, I've kept having more experiences of a lifetime, and I'm thankful.
+
+It is definitely the experience of a lifetime, but even after Google, I've kept having more experiences of a lifetime, and I'm thankful for the people I met and the doors that were opened after being there :-) 
 
 [01]: https://i.imgur.com/WOZrAo3.png "Google"
 [02]: https://i.imgur.com/dWNYtLb.png "Google"
