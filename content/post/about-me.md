@@ -8,7 +8,7 @@ title = "About Me"
 +++
 
 
-I **work** as a *Software Developer* in a cross-functional area at an intersection of **Distributed Systems**, **Machine Learning**, and **Product Development**, in which I've supported the simultaneous development of multiple products and initiatives, and I've acted as a middle point between different teams in my area and across the company, with ownership and accountability for many of these projects which have an impact on hundreds of millions of users.
+I work as a **Software Developer** in a cross-functional area at an intersection of **Distributed Systems**, **Machine Learning**, and **Product Development**, in which I've supported the simultaneous development of multiple products and initiatives, and I've acted as a middle point between different teams in my area and across the company, with ownership and accountability for many of these projects which have an impact on hundreds of millions of users.
 
 My daily work involves interacting with other _Developers_, _Data Scientists_, and _Product Managers_, understanding their needs, and expressing mine, so that I can do my best to benefit everyone, while balancing trade-offs, and having the flexibility to be ready to experiment, improvise, or react to unforeseen situations, being aware of possible changes in the priorities of tasks and goals in a rapid changing environment.
 
