@@ -2,8 +2,8 @@
 categories = ["About"]
 date = "0042-06-10T14:21:00-05:00"
 description = "Hello Universe!"
-slug = "about-me"
-tags = ["About"]
+slug = ""
+tags = []
 title = "About Me"
 menu = "main"
 +++
