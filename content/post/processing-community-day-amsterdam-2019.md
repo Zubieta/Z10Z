@@ -31,9 +31,6 @@ I presented my work made on **CraZe** in the **[Processing Community Day, Amster
 [![06]][06]
 
 
-
-
-
 [01]: https://creativecoding.community/img/pcd_ams_03.png "CreativeCoding Community"
 [02]: https://i.imgur.com/1TU1rI8.png "CreativeCoding Community"
 [03]: https://i.imgur.com/JGP48WE.jpg "CreativeCoding Community"
