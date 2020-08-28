@@ -18,4 +18,4 @@ I've acted as a point of reference for others around me for many things, while a
 
 In my free time I explore things related to **Computational Art**, I made a drawing app involving concepts of trigonometry, geometry, and linear algebra, for making designs with effects, rotations, symmetry, and brushes with over 200.000 downloads, available at the [Android Play Store](https://play.google.com/store/apps/details?id=com.zubieta.craze), also available for [Mobile/Desktop Browser](http://craze-alpha.herokuapp.com), and sometimes I [post psychedelic art](http://instagram.com/crazeapp) made with it.
 
-The namesake of this blog, **Z10Z**, is a [numeronym](https://en.wikipedia.org/wiki/Numeronym), created with my last names :-)
+The name of this blog, **Z10Z**, is a [numeronym](https://en.wikipedia.org/wiki/Numeronym), created with my last names :-)
