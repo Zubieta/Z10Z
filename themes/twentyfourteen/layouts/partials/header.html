@@ -60,6 +60,10 @@
 						</li>
 						{{ end }}
 
+						<li class="page_item">
+							<a href="{{ .Site.BaseURL }}/about-me"> About Me </a>
+						</li>
+						
 						{{ range .Site.Menus.main }}
 						<li class="page_item"> 
 							<a href="{{ .URL }}">{{ .Name }}</a>
