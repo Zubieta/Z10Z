@@ -2,7 +2,7 @@
 categories = ["Life"]
 date = "0042-06-11T18:31:27-05:00"
 description = "Trying styles."
-slug = "changes"
+slug = ""
 tags = []
 title = "Changes"
 

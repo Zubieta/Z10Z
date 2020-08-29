@@ -2,7 +2,7 @@
 categories = ["Arts", "Music", "Programming", "Science"]
 date = "2012-05-10T02:19:23-05:00"
 description = "Psychedelic fractals dancing to Pink Floyd's music."
-slug = "shine-on-you-crazy-fractal"
+slug = ""
 tags = []
 title = "Shine On You Crazy Fractal"
 +++

@@ -2,7 +2,7 @@
 categories = ["Music", "Programming"]
 date = "2015-04-17T01:32:32-05:00"
 description = "Not so calm classical music."
-slug = "dies-irae"
+slug = ""
 tags = []
 title = "Dies Irae"
 +++

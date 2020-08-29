@@ -2,7 +2,7 @@
 categories = ["Life", "Science"]
 date = "2013-07-07T19:19:23-05:00"
 description = "Fun times out in the mountains."
-slug = "those-starry-nights"
+slug = ""
 tags = []
 title = "Those Starry Nights"
 +++

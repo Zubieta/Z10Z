@@ -2,7 +2,7 @@
 categories = ["Arts", "Programming"]
 date = "2014-02-14T02:19:23-05:00"
 description = "Learning the language of computational artists for science and fun."
-slug = "playing-with-processing"
+slug = ""
 tags = []
 title = "Playing With Processing"
 +++
