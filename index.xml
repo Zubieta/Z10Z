@@ -30,6 +30,17 @@ I have been &amp;ldquo;working from home&amp;rdquo; since March. Some people wou
     </item>
     
     <item>
+      <title>Fundamentals of Reinforcement Learning</title>
+      <link>https://zubie7a.github.io/z10z/fundamentals-of-reinforcement-learning/</link>
+      <pubDate>Tue, 20 Aug 2019 19:19:23 +0200</pubDate>
+      
+      <guid>https://zubie7a.github.io/z10z/fundamentals-of-reinforcement-learning/</guid>
+      <description>These are my notes taken in the Fundamentals of Reinforcement Learning course by the University of Alberta in Coursera. It is a very interesting framework of learning not only because it is very game-like, but because it helps modeling the world when you want to be able learn from sequences of interactions.
+
+At work I&amp;rsquo;ve been working as a Software Developer supporting Data Scientists in their creation of Reinforcement Learning models, they do the modelling and I work on the backend integration of such, data pipelines and cleanliness, etc.</description>
+    </item>
+    
+    <item>
       <title>Seven Years Pt. II</title>
       <link>https://zubie7a.github.io/z10z/seven-years-pt-ii/</link>
       <pubDate>Sun, 18 Aug 2019 13:42:13 +0200</pubDate>

@@ -5,10 +5,21 @@
     <link>https://zubie7a.github.io/z10z/categories/science/</link>
     <description>Recent content in Science on Z10Z</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 07 Jul 2013 19:19:23 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2019 19:19:23 +0200</lastBuildDate>
     
 	<atom:link href="https://zubie7a.github.io/z10z/categories/science/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fundamentals of Reinforcement Learning</title>
+      <link>https://zubie7a.github.io/z10z/fundamentals-of-reinforcement-learning/</link>
+      <pubDate>Tue, 20 Aug 2019 19:19:23 +0200</pubDate>
+      
+      <guid>https://zubie7a.github.io/z10z/fundamentals-of-reinforcement-learning/</guid>
+      <description>These are my notes taken in the Fundamentals of Reinforcement Learning course by the University of Alberta in Coursera. It is a very interesting framework of learning not only because it is very game-like, but because it helps modeling the world when you want to be able learn from sequences of interactions.
+
+At work I&amp;rsquo;ve been working as a Software Developer supporting Data Scientists in their creation of Reinforcement Learning models, they do the modelling and I work on the backend integration of such, data pipelines and cleanliness, etc.</description>
+    </item>
     
     <item>
       <title>Those Starry Nights</title>
