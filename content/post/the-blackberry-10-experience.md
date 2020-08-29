@@ -3,7 +3,7 @@ categories = ["Programming"]
 date = "2013-03-26T21:46:47-05:00"
 description = "... Came to my city for a hackathon, but a bit too late into the game."
 slug = "the-blackberry-10-experience"
-tags = ["Android", "BlackBerry", "EAFIT", "Hackathon"]
+tags = []
 title = "The BlackBerry 10 Experience"
 +++
 
