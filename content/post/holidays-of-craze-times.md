@@ -3,7 +3,7 @@ categories = ["Arts", "Programming"]
 date = "2014-12-29T21:46:47-05:00"
 description = "Christmas is a mix of highs and lows that makes up a beautiful time."
 slug = "holidays-of-craze-times"
-tags = ["Computational Art", "Computer Graphics", "CraZe"]
+tags = []
 title = "Holidays of CraZe Times"
 +++
 

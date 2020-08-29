@@ -3,7 +3,7 @@ categories = ["Life"]
 date = "2014-07-15T15:58:35-05:00"
 description = "Some Colombian fans celebrating Germany's victory and Colombia's impressive display."
 slug = ""
-tags = ["Brazil", "Colombia", "Deutschland", "FIFA", "Germany", "Soccer", "World Cup"]
+tags = []
 title = "2014 FIFA World Cup Memories"
 
 +++

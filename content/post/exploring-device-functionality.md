@@ -3,7 +3,7 @@ categories = ["Technology"]
 date = "2014-06-18T01:32:32-05:00"
 description = "Discovering certain things about some pieces of technology which I own."
 slug = "exploring-device-functionality"
-tags = ["Android", "Apple", "Devices"]
+tags = []
 title = "Exploring Device Functionality"
 +++
 

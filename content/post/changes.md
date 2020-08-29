@@ -3,7 +3,7 @@ categories = ["Life"]
 date = "0042-06-11T18:31:27-05:00"
 description = "Trying styles."
 slug = "changes"
-tags = ["Beard", "Changes", "Hair", "Haircut", "Styles"]
+tags = []
 title = "Changes"
 
 +++

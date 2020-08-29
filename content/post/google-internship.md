@@ -3,7 +3,7 @@ categories = ["Life", "Programming"]
 date = "2015-02-12T15:49:11-05:00"
 description = "This is just the beginning. I'll work there this summer!"
 slug = "internships-at-google"
-tags = ["Google", "Internship", "Summer"]
+tags = []
 title = "Internship(s) at Google"
 +++
 
