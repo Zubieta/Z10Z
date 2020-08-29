@@ -9,8 +9,8 @@ title = "Seven Years Pt. II"
 
 <center>_"Starting is easy, persistence is an art"_</center>
 
-For a long time in my life, I just went with the current, taking whatever opportunities came available, but without much of an overarching goal and a plan to reach it. This changed last year with this deep discussion about things _**seven years in the future**_, which planted in my head the idea of seeking an ultimate goal, or at least find myself such a goal.
+For a long time in my life, I just went with the current, pursuing whatever opportunities came available, but without much of an overarching goal and a plan to reach it. This direction started changing last year with this [deep discussion](https://z10z.xyz/seven-years-pt-i/) about things _**seven years in the future**_, which planted in my head the idea of seeking an ultimate goal, or at least find such a goal for myself.
 
-I've never been much of a person that plans long term, and starting to do so is not so easy at first. It requires structuring things, planning, but also being flexible because not all plans go along as intended.
+I've never been much of a person that plans long term, and starting to do so is not so easy at first. It requires structuring things, planning, but also being flexible because not all plans go along as intended. The further ahead you plan the more unpredictable things can be, but a certain level of "look-ahead" can be very beneficial in establishing goals and working towards them.
 
-Regarding learning stuff I've tried to be more focused on specific topics instead of being spread around many things, which always caused me to feel that I didn't learn well enough and just drop them. **Trying to learn everything causes me to learn almost nothing.**
+Regarding learning stuff I've become more focused on specific topics instead of being spread around many things, which always caused me to feel that I didn't learn well enough and just drop them. **Trying to learn everything causes me to learn almost nothing.**
