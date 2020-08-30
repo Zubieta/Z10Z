@@ -1,7 +1,7 @@
 +++
 categories = ["Arts", "Programming"]
 date = "2019-02-09T14:21:42+02:00"
-description = "Meeting many cool people interested in creative coding, in Amsterdam"
+description = "Meeting many cool people interested in creative coding, in Amsterdam."
 slug = ""
 tags = []
 title = "Processing Community Day, Amsterdam, 2019"

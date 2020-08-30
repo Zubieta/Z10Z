@@ -1,7 +1,7 @@
 +++
 categories = ["Arts", "Programming"]
 date = "2020-04-20T15:10:51+02:00"
-description = "Making colorful patterns with paper grids"
+description = "Making colorful patterns with paper grids."
 slug = ""
 tags = []
 title = "Random Pattern Generator"

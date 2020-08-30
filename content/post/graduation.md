@@ -1,7 +1,7 @@
 +++
 categories = ["Life"]
 date = "2016-12-16T15:15:15-05:00"
-description = ""
+description = "The conclusion of the first chapter of my adult life."
 slug = ""
 tags = []
 title = "Graduation"

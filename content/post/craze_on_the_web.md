@@ -1,7 +1,7 @@
 +++
 categories = ["Arts", "Programming"]
 date = "2015-05-14T03:29:55-05:00"
-description = "Making it 'round the world"
+description = "Making it 'round the world."
 slug = ""
 tags = []
 title = "CraZe On The Web"
