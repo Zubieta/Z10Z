@@ -17,6 +17,6 @@ Regarding learning stuff I've become more focused on specific topics instead of 
 
 <center>**Trying to learn everything causes me to learn almost nothing.**</center>
 
-The first year meets a lot of resistance to change, and progress has been relatively slow, but I hope that as time goes on, I'll gain momentum, and the progress made each year far exceeds the progress made the year before.
+The first year meets a lot of resistance to change, and progress has been relatively slow, but I hope that as time goes on, I'll gain momentum, and the progress made each year will far exceed the progress made the year before.
 
 <center>**The plan is slowly taking shape.**</center>
