@@ -1,6 +1,6 @@
 <aside id="recent-posts-3" class="widget widget_recent_entries">
-	<!--\{\{ if isset .Pages "Pages" \}\}-->
-	<h1 class="widget-title">Recent Posts</h1>
+	{{ if .Pages }}
+		<h1 class="widget-title">Recent Posts</h1>
 		<ul>
 		{{ range first 14 .Pages }}
 			<li>
@@ -8,5 +8,5 @@
 			</li>
 			{{ end }}
 		</ul>
-	<!-- \{\{ end \}\} -->
+	{{ end }}
 </aside>

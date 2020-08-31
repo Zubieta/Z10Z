@@ -10,12 +10,21 @@
 			</header>
 			<header class="entry-header">		
             {{ range .Data.Pages.GroupByDate "2006" "desc"}}
+                
                 {{ .Key }}
                 <hr>
-                {{ range where .Pages "Section" "post" }}
+
+			    {{ range .Pages }}
+     			<!-- <li>
+			        {{.Date.Format "2006-01-02"}} | <a href="{{.Permalink}}">{{.Title}}</a>
+			    </li>-->
+			    	{{ partial "brief.html" . }}
+			    {{ end }}
+               <!--  {{ range where .Pages "Section" "post" }}
                     {{ partial "brief.html" . }}
-                {{ end }}
+                {{ end }} -->
             {{ end }}
+
 
 		</div><!-- #content -->
 	</div><!-- #primary -->
