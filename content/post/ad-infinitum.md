@@ -1,7 +1,7 @@
 +++
 categories = ["Arts", "Music", "Programming", "Science"]
 date = "2012-05-16T14:15:16-05:00"
-description = "Colorful patterns with cellular automata."
+description = "Colorful cyclic patterns with cellular automata."
 slug = ""
 tags = []
 title = "Ad Infinitum"

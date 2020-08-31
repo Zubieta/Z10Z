@@ -45,5 +45,23 @@ The intrinsic shape of The Universe
 I this is a simulation in C++ with SFML 2.0. Every frame is a Julia Set fractal rendered with a slightly varying initial parameter, so it gives the illusion that its evolving. The first strategy for varying the initial parameter is like a row by row scan of points of the complex plane from the uppermost left corner down the the lowermost right corner.</description>
     </item>
     
+    <item>
+      <title>Music</title>
+      <link>https://zubie7a.github.io/z10z/music/</link>
+      <pubDate>Tue, 10 Jun 0042 14:21:01 -0500</pubDate>
+      
+      <guid>https://zubie7a.github.io/z10z/music/</guid>
+      <description>March 13th, 2013. 
+&amp;rdquo;&amp;hellip;Shall consume the world to ashes&amp;rdquo;.
+June 28th, 2013. 
+I’ve never heard “fucking” said so beautifully.
+March 10th, 2014. 
+&amp;ldquo;Don’t say words you’re gonna regret, don’t let the fire rush to your head&amp;rdquo;.
+March 12th, 2014. 
+&amp;ldquo;To neverless wonder, happy I&amp;rsquo;ll become&amp;rdquo;.
+March 28th, 2014. 
+&amp;ldquo;I feel the salty waves come in, I feel them crash against my skin, and I smile as I respire because I know they&amp;rsquo;ll never win&amp;rdquo;.</description>
+    </item>
+    
   </channel>
 </rss>
