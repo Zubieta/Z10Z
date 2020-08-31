@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Bitwise Pattern Generator &middot; Z10Z</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<!--[if lt IE 9]>
+	<script src="https://zubie7a.github.io/z10z/js/html5.js"></script>
+	<![endif]-->
+    
+    <link href="https://zubie7a.github.io/z10z/index.xml" rel="alternate" type="application/rss+xml" title="Z10Z" />
+
+    <link rel='stylesheet' id='twentyfourteen-lato-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+
+    <link rel='stylesheet' id='genericons-css' href='https://zubie7a.github.io/z10z/genericons/genericons.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='twentyfourteen-style-css' href='https://zubie7a.github.io/z10z/css/style.css' type='text/css' media='all' />
+	
+	<script type='text/javascript' src='https://zubie7a.github.io/z10z/js/jquery/jquery.js'></script>
+	<script type='text/javascript' src='https://zubie7a.github.io/z10z/js/jquery/jquery-migrate.min.js'></script>
+	
+	<link rel="stylesheet" href="https://yandex.st/highlightjs/8.0/styles/github.min.css">
+	<script src="https://yandex.st/highlightjs/8.0/highlight.min.js"></script>
+	<script>hljs.initHighlightingOnLoad();</script>
+	
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head>
+
+<body class="home blog masthead-fixed list-view full-width grid">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+		<div class="header-main">
+			<h1 class="site-title"><a href="https://zubie7a.github.io/z10z" rel="home">Z10Z</a></h1>
+
+			<div class="search-toggle">
+				<a href="#search-container" class="screen-reader-text">Search</a>
+			</div>
+
+			<nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+				<button class="menu-toggle">Primary Menu</button>
+				<a class="screen-reader-text skip-link" href="#content">Skip to content</a>
+				<div class="nav-menu">
+					<ul>
+						<li class="page_item"> 
+							<a href="https://zubie7a.github.io/z10z"> Home </a>
+						</li>
+						
+						
+						<li class="page_item">
+							<a href="https://drive.google.com/file/d/18lOJgr3RF1NUz89Tr5SKewX9X0lJTBab/view?usp=sharing"> CV </a>
+						</li>
+						
+						
+						
+						<li class="page_item">
+							<a href="//github.com/zubie7a"> GitHub </a>
+						</li>
+						
+
+						<li class="page_item">
+							<a href="https://zubie7a.github.io/z10z/about-me"> About Me </a>
+						</li>
+						
+						
+					</ul>
+				</div>
+			</nav>
+		</div>
+		<div id="search-container" class="search-box-wrapper hide">
+			<div class="search-box">
+                <script type="text/javascript">
+    function site_search(obj) {
+    	var host = window.location.host;
+        obj.q.value = "site:" + host + " " + obj.ss_q.value;
+    }
+</script>
+
+<aside id="search-3" class="widget widget_search">
+	<form role="search" class="search-form" action="//www.google.com/search" method="get" onSubmit="site_search(this)">
+
+	<input name="q" type="hidden" />
+	    <label>
+	        <span class="screen-reader-text">Search for:</span>
+	        <input name="ss_q" type="text" placeholder="Search ..." class="search-field" />
+	    </label>
+	    <input type="submit" value="Search" class="search-submit" />
+	</form>
+</aside>
+			</div>
+		</div>
+	</header>
+
+	<div id="main" class="site-main">
+
+
+<div id="main-content" class="main-content">
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+			<article class="post type-post status-publish format-standard hentry">
+
+	
+	<header class="entry-header">
+
+	
+
+		<div class="entry-meta">
+			<span class="cat-links">
+                
+                <a href="https://zubie7a.github.io/z10z/categories/arts" rel="category">Arts &nbsp;&nbsp;</a>
+                
+                <a href="https://zubie7a.github.io/z10z/categories/programming" rel="category">Programming &nbsp;&nbsp;</a>
+                
+			</span>
+		</div>
+
+		<h1 class="entry-title">Bitwise Pattern Generator</h1>
+
+		<div class="entry-meta">
+			<span class="entry-date">
+				<a href="https://zubie7a.github.io/z10z/bitwise-pattern-generator/" rel="bookmark">
+					<time class="entry-date" datetime="2019-01-20 02:19:23 -0500 -0500">
+						January 20, 2019
+					</time>
+				</a>
+			</span>
+		</div>
+
+	</header>
+	
+	<div class="entry-content">
+		<p>These are some small experiments with bitwise operations and trigonometric functions I made long time ago. The basic premise is that every pixel coordinate of the image, <code>(i, j)</code>, is evaluated on a loop based on a formula using either <strong>bitwise operations</strong>, <strong>trigonometric functions</strong>, or a mix of both. This combination gives emergence to some surprising and very interesting patterns!</p>
+
+<pre><code>// Mod operations are also to prevent values going over 255,
+// because the RGB range is [0, 255].
+// (i, j) is every pixel coordinate in a loop.
+int x = (i % 255) + (j % 255);
+x %= 255;
+int r = x % 255;
+// Let's make use of the &amp; bitwise operation.
+int g = (x &amp; i) % 255;
+int b = (x &amp; j) % 255; 
+g.setColor(new Color(r, g, b));
+g.drawRect(1024 - i,780 - j, 1, 1);
+</code></pre>
+
+<p><a href="https://i.imgur.com/IAD0lD7.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/IAD0lD7.jpg" alt="01" title="Bitwise Pattern Generator" /></a></p>
+
+<p>Here are some other interesting results:</p>
+
+<table>
+<thead>
+<tr>
+<th><a href="https://i.imgur.com/BEp1pQs.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/BEp1pQs.jpg" alt="02" title="Bitwise Pattern Generator" /></a></th>
+<th><a href="https://i.imgur.com/FQbKUje.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/FQbKUje.jpg" alt="03" title="Bitwise Pattern Generator" /></a></th>
+<th><a href="https://i.imgur.com/4FCQolo.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/4FCQolo.jpg" alt="04" title="Bitwise Pattern Generator" /></a></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><a href="https://i.imgur.com/dGGLFHX.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/dGGLFHX.jpg" alt="05" title="Bitwise Pattern Generator" /></a></td>
+<td><a href="https://i.imgur.com/bJKH6vj.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/bJKH6vj.jpg" alt="07" title="Bitwise Pattern Generator" /></a></td>
+<td><a href="https://i.imgur.com/HwHEv86.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/HwHEv86.jpg" alt="09" title="Bitwise Pattern Generator" /></a></td>
+</tr>
+
+<tr>
+<td><a href="https://i.imgur.com/FN2YRqX.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/FN2YRqX.jpg" alt="10" title="Bitwise Pattern Generator" /></a></td>
+<td><a href="https://i.imgur.com/TcPxUEm.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/TcPxUEm.jpg" alt="12" title="Bitwise Pattern Generator" /></a></td>
+<td><a href="https://i.imgur.com/mr8Uwl3.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/mr8Uwl3.jpg" alt="13" title="Bitwise Pattern Generator" /></a></td>
+</tr>
+
+<tr>
+<td><a href="https://i.imgur.com/z4P7lhR.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/z4P7lhR.jpg" alt="14" title="Bitwise Pattern Generator" /></a></td>
+<td><a href="https://i.imgur.com/G1qPxIB.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/G1qPxIB.jpg" alt="06" title="Bitwise Pattern Generator" /></a></td>
+<td><a href="https://i.imgur.com/CX6ZbQX.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/CX6ZbQX.jpg" alt="16" title="Bitwise Pattern Generator" /></a></td>
+</tr>
+</tbody>
+</table>
+
+<p>This next one has some sort of a <a href="https://en.wikipedia.org/wiki/Moir%C3%A9_pattern">Moiré pattern</a>, and also looks like a recursive or fractal structure. It has been feature in Paul Bourke&rsquo;s wonderful <a href="http://paulbourke.net/fractals/circlesquares/">fractal collection</a>, and apparently different kind of mathematical methods give patterns very similar to this.</p>
+
+<pre><code>int x = (i * i) - (2 * (i | j)) + (j * j);
+x %= 255;
+x = Math.abs(x);
+g.setColor(new Color(x, x, x));
+g.drawRect(i, j, 1, 1);
+</code></pre>
+
+<p><a href="https://i.imgur.com/EUxTKPG.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/EUxTKPG.jpg" alt="17" title="Bitwise Pattern Generator" /></a></p>
+
+<p>Now, some <strong>really crazy</strong> patterns, <em>perhaps</em> some day I&rsquo;ll tell you how these are generated ;-)</p>
+
+<table>
+<thead>
+<tr>
+<th><a href="https://i.imgur.com/uyuR4x1.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/uyuR4x1.png" alt="18" title="Bitwise Pattern Generator" /></a></th>
+<th><a href="https://i.imgur.com/XcQXdnx.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/XcQXdnx.png" alt="19" title="Bitwise Pattern Generator" /></a></th>
+<th><a href="https://i.imgur.com/7Y45Cmq.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/7Y45Cmq.png" alt="20" title="Bitwise Pattern Generator" /></a></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><a href="https://i.imgur.com/t03dc4L.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/t03dc4L.png" alt="21" title="Bitwise Pattern Generator" /></a></td>
+<td><a href="https://i.imgur.com/cY5ea0y.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/cY5ea0y.jpg" alt="22" title="Bitwise Pattern Generator" /></a></td>
+<td><a href="https://i.imgur.com/duJSw3W.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/duJSw3W.png" alt="23" title="Bitwise Pattern Generator" /></a></td>
+</tr>
+</tbody>
+</table>
+
+<p>Finally there&rsquo;s these small tiles, which are just a part of a larger previously generated pattern. But there&rsquo;s just something so special about these, I can&rsquo;t tell exactly why, but it surprises me that such a pattern can emerge from purely mathematical operations.</p>
+
+<table>
+<thead>
+<tr>
+<th><a href="https://i.imgur.com/AzkH0rT.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/AzkH0rT.png" alt="25" title="Bitwise Pattern Generator" /></a></th>
+<th><a href="https://i.imgur.com/MEwV9Aa.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/MEwV9Aa.png" alt="26" title="Bitwise Pattern Generator" /></a></th>
+<th><a href="https://i.imgur.com/GYoItR8.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/GYoItR8.png" alt="27" title="Bitwise Pattern Generator" /></a></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><a href="https://i.imgur.com/tbZTmUz.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/tbZTmUz.png" alt="28" title="Bitwise Pattern Generator" /></a></td>
+<td><a href="https://i.imgur.com/a1Ge1uN.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/a1Ge1uN.png" alt="29" title="Bitwise Pattern Generator" /></a></td>
+<td><a href="https://i.imgur.com/DRr80cL.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/DRr80cL.png" alt="30" title="Bitwise Pattern Generator" /></a></td>
+</tr>
+</tbody>
+</table>
+
+<p><a href="https://i.imgur.com/74lsC87.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/74lsC87.png" alt="24" title="Bitwise Pattern Generator" /></a></p>
+
+	</div>
+
+
+	<footer class="entry-meta">
+		<span class="tag-links">		
+			
+		</span>
+	</footer>
+	
+</article> 
+		
+		</div>
+
+	</div>
+	<div id="secondary">
+
+	
+
+	<div id="primary-sidebar" class="primary-sidebar widget-area" role="complementary">
+
+		<aside id="recent-posts-3" class="widget widget_recent_entries">
+	
+</aside>
+
+		<aside id="categories-3" class="widget widget_categories">
+	
+	<h1 class="widget-title">Categories</h1>
+
+	<ul>
+		
+		
+		
+		<li class="cat-item">
+			<a href="https://zubie7a.github.io/z10z/categories/arts">Arts</a>
+		</li>
+
+		
+		
+		<li class="cat-item">
+			<a href="https://zubie7a.github.io/z10z/categories/life">Life</a>
+		</li>
+
+		
+		
+		<li class="cat-item">
+			<a href="https://zubie7a.github.io/z10z/categories/music">Music</a>
+		</li>
+
+		
+		
+		<li class="cat-item">
+			<a href="https://zubie7a.github.io/z10z/categories/programming">Programming</a>
+		</li>
+
+		
+		
+		<li class="cat-item">
+			<a href="https://zubie7a.github.io/z10z/categories/science">Science</a>
+		</li>
+
+		
+		
+		<li class="cat-item">
+			<a href="https://zubie7a.github.io/z10z/categories/technology">Technology</a>
+		</li>
+
+		
+
+	</ul>
+
+</aside>
+
+	</div>
+
+</div>
+
+</div>
+
+		</div>
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+
+			<div class="site-info">
+				<a href="http://gohugo.io">Proudly powered by Hugo</a>
+			</div>
+		</footer>
+	</div>
+
+	<script type='text/javascript' src='https://zubie7a.github.io/z10z/js/functions.js'></script>
+</body>
+</html>

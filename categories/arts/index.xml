@@ -31,6 +31,16 @@ This is the presentation I made. I got great feedback, questions, and most impor
     </item>
     
     <item>
+      <title>Bitwise Pattern Generator</title>
+      <link>https://zubie7a.github.io/z10z/bitwise-pattern-generator/</link>
+      <pubDate>Sun, 20 Jan 2019 02:19:23 -0500</pubDate>
+      
+      <guid>https://zubie7a.github.io/z10z/bitwise-pattern-generator/</guid>
+      <description>These are some small experiments with bitwise operations and trigonometric functions I made long time ago. The basic premise is that every pixel coordinate of the image, (i, j), is evaluated on a loop based on a formula using either bitwise operations, trigonometric functions, or a mix of both. This combination gives emergence to some surprising and very interesting patterns!
+// Mod operations are also to prevent values going over 255, // because the RGB range is [0, 255].</description>
+    </item>
+    
+    <item>
       <title>CraZe On The Web</title>
       <link>https://zubie7a.github.io/z10z/craze_on_the_web/</link>
       <pubDate>Thu, 14 May 2015 03:29:55 -0500</pubDate>
