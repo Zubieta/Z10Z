@@ -79,6 +79,18 @@ Like a long forgotten promise, from the depths of Christmas 2012 (oh, that weeke
     </item>
     
     <item>
+      <title>KlaviKol</title>
+      <link>https://zubie7a.github.io/z10z/klavikol/</link>
+      <pubDate>Sat, 15 Mar 2014 16:06:26 -0500</pubDate>
+      
+      <guid>https://zubie7a.github.io/z10z/klavikol/</guid>
+      <description>This is the most sloppy version of the intro of Muse&amp;rsquo;s song &amp;lsquo;Explorers&amp;rsquo;, played of course, by me.
+
+This is part of my Computer Graphics class&amp;rsquo; project. It&amp;rsquo;s using the Processing programming language, the TheMidiBus library, and a KORG nanoKEY as input.
+The triangle changes its size according to the pitch of the key, and the color its brighter if the key is pressed hard, if not, it will be pale in color.</description>
+    </item>
+    
+    <item>
       <title>Playing With Processing</title>
       <link>https://zubie7a.github.io/z10z/playing-with-processing/</link>
       <pubDate>Fri, 14 Feb 2014 02:19:23 -0500</pubDate>
