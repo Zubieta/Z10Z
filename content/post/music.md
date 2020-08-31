@@ -92,4 +92,31 @@ _January 30th, 2016._
 _April 23rd, 2016._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/amCYjep3KMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-<center>"The same blood runs through both of us, the blood of a beast who wanders"</center>
+<center>_"The same blood runs through both of us, the blood of a beast who wanders"._</center>
+
+
+_May 30th, 2016._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hxDZYi0li88" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<center>_"Oh, there's a hole inside my boat, and I need to stay afloat, for the summer"._</center>
+
+
+_June 10th, 2016._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/K-SRvG6NAFY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<center>_'I stare at the stars, and the sky up above, and think, what am I made of?"._</center>
+
+_October 4th, 2016._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KDGMU6sdVBE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<center>_'Darling so share with me, your love if you have enough, your tears if your holding back, or pain if that’s what it is'._</center>
+
+_November 24th, 2018._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/USAQQnQzaSs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<center>I'm living in a different planet.</center>
+
+_April 20th, 2020._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/l9_p-nhZXLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Vcrb6365GsQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"If there is a hell, I’m sure this is how it smells, wish this were a dream, but no, it isn't"._</center>
