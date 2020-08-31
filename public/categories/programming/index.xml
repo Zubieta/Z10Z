@@ -98,6 +98,18 @@ Its the language most of Computational Artists use nowadays to make some neat st
     </item>
     
     <item>
+      <title>Ad Infinitum</title>
+      <link>https://zubie7a.github.io/z10z/ad-infinitum/</link>
+      <pubDate>Wed, 16 May 2012 14:15:16 -0500</pubDate>
+      
+      <guid>https://zubie7a.github.io/z10z/ad-infinitum/</guid>
+      <description>A grid full of individual cells. Each with a color value chosen at random. Overall, there are 12 different colors that wrap around.
+Suddenly, each cell becomes a prey, its hunter, is the &amp;lsquo;next&amp;rsquo; color in the rules:
+1 -&amp;gt; 2 / 2 -&amp;gt; 3 / n -&amp;gt; n+1 / 12 -&amp;gt; 1
+If everything goes according to the plan, a curious linear and cyclical pattern is formed. But then, once in a while, rules change, and chaos appears.</description>
+    </item>
+    
+    <item>
       <title>Shine On You Crazy Fractal</title>
       <link>https://zubie7a.github.io/z10z/shine-on-you-crazy-fractal/</link>
       <pubDate>Thu, 10 May 2012 02:19:23 -0500</pubDate>
