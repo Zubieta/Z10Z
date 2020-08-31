@@ -1,5 +1,5 @@
 +++
-categories = ["Arts", "Music", "Programming"]
+categories = ["Music", "Programming"]
 date = "2014-03-15T16:06:26-05:00"
 description = "An app that aims to teach children to play piano in a visually playful and stimulating way."
 slug = ""
