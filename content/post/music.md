@@ -251,6 +251,10 @@ _October 14th, 2017._
 <center>I'm living in a different planet.</center>
 
 
+_October 31st, 2017._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9spGH0YMkj8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>**The Shining** is an amazing movie. Watching it on **Halloween**, on a nearly [100 year old theater](https://en.wikipedia.org/wiki/Tuschinski) brings the [experience](https://media.pathe.nl/gfx_content/bioscoop/Tuschinski/PatheTuschinski_FoyerBeneden1b.jpg) to a [whole new level](https://media.pathe.nl/gfx_content/bioscoop/Tuschinski/PatheTuschinski_Zaal1i.jpg).
+
 _December 24th, 2017._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_ScM9pKlCfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>_"If I had my way I would never leave, keep building these random memories"_</center>
