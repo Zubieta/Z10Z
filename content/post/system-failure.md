@@ -1,6 +1,6 @@
 +++
 categories = ["Life"]
-date = "2016-01-25T02:42:21-05:00"
+date = "2016-01-26T02:42:21-05:00"
 description = "Reminiscing."
 slug = ""
 tags = []
