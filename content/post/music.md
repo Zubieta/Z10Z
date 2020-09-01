@@ -18,6 +18,11 @@ _October 1st, 2011._
 _"And no one called us to the land, and no one knows the where's or why's"_</center>
 
 
+_November 16th, 2011._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HBe9vkmD-Os" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"What we've become, is contrary to what we want"_</center>
+
+
 _December 10th, 2011._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9yAxIdkF2Qo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>_"I'll lay down in the sand and let the ocean lead, carry me to Innisfree like pollen on the breeze"_</center>
@@ -26,6 +31,11 @@ _December 10th, 2011._
 </details>
 <details>
 <summary>2012</summary>
+
+_January 2th, 2012._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lKJ8n8xYd-Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"Remember when you were young, you shone like the sun"_</center>
+<center>_"Now there's a look in your eyes, like black holes in the sky"_</center>
 
 
 _April 24th, 2012._
@@ -216,6 +226,12 @@ _July 13th, 2016._
 <center>_"I fell asleep amid the flowers, for a couple of hours on a beautiful day"_</center>
 
 
+_August 4th, 2016._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/74xG578R3Ss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9NEMMak1h-Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"Wake me in a thousand years, when computers can shed tears"_</center>
+
+
 _October 4th, 2016._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KDGMU6sdVBE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>_"Darling so share with me, your love if you have enough,\\
@@ -359,11 +375,6 @@ _July 19th, 2020._
 _August 27th, 2020._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WJeeA_O88Zw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>[sᴘᴏɪʟᴇʀs] _"If dreams can't come true, then why not pretend?"_</center>
-
-
-_August 28th, 2020._
-<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/74xG578R3Ss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<center>_"Wake me in a thousand years, when computers can shed tears"_</center>
 
 
 _August 31st, 2020._
