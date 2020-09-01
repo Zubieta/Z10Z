@@ -361,4 +361,9 @@ _August 28th, 2020._
 <center>_"Wake me in a thousand years, when computers can shed tears"._</center>
 
 
+_August 31st, 2020._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ItnDN-XIh_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>This is pretty **intense**.</center>
+
+
 </details>
