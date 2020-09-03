@@ -9,7 +9,7 @@ title = "Data-Driven Astronomy"
 
 I've completed the **Data-Driven Astronomy** course by the **University of Sydney** in [Coursera](https://www.coursera.org/learn/data-driven-astronomy). It is a very interesting course because it mixes something I really like which is **Astronomy**, and my recently inspired interest of learning about **Data Science** and **Machine Learning**.
 
-In **Astronomy**, there's **tons of data** captured by multiple instruments and experiments, which is sometimes hard to parse or extract meaningful conclusions out of them by hand, which makes technologies that can process vast volumes of data and also learn from them highly valuable.
+In **Astronomy**, there's **tons of data** captured by multiple instruments and experiments, which is sometimes hard to parse or extract meaningful conclusions out of them by hand, which makes technologies that can process vast volumes of data and also learn from them **highly valuable**.
 
 It is a great course and I learned a good deal of stuff not only about **Astronomy** but also about **Python** modules which I didn't know about before!
 
