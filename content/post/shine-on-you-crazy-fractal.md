@@ -7,14 +7,13 @@ tags = []
 title = "Shine On You Crazy Fractal"
 +++
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Lhw-qdXUis" frameborder="0" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-Lhw-qdXUis" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>
+_"For all those Fractal Hearts, Convoluted, and complex._\\
+_No matter how deep, full of detail. The intrinsic shape of The Universe"_  
+</center>
 
-*For all those Fractal Hearts*  
-*Convoluted, and complex*  
-*No matter how deep, full of detail*  
-*The intrinsic shape of The Universe*  
-
-This is a simulation made in **C++** with **SFML 2.0**. Every frame is a [**Julia Set**](https://en.wikipedia.org/wiki/Julia_set) fractal rendered with a slightly varying initial parameter, and fractals with neighboring initial parameters are very similar, so it gives the illusion that its evolving.
+This is a simulation made in **C++** with **SFML 2.0**. Every frame is a [**Julia Set**](https://en.wikipedia.org/wiki/Julia_set) fractal rendered with a slightly varying initial parameter, and fractals with neighboring initial parameters are very similar, so it gives the illusion that its evolving. You can find the code at [**GitHub**](https://github.com/Zubieta/Shine_On_You_Crazy_Fractal).
 
 The first strategy for varying the initial parameter is like a row by row scan of points of the complex plane from the uppermost left corner down the the lowermost right corner. The second strategy for varying the initial parameter is like a spiral that starts at the center of the complex plane and starts spiralling out from there. 
 
@@ -22,4 +21,3 @@ And when I watch this video, I can't help but notice how it continously cycles f
 
 <center>**Luckily for these fractals, their dance can go on forever.**</center>
 
-You can find the code at [**GitHub**](https://github.com/Zubieta/Shine_On_You_Crazy_Fractal).
