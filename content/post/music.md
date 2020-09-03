@@ -32,15 +32,21 @@ _December 10th, 2011._
 <details>
 <summary>2012</summary>
 
+
 _January 2th, 2012._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lKJ8n8xYd-Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>_"Remember when you were young, you shone like the sun"_</center>
 <center>_"Now there's a look in your eyes, like black holes in the sky"_</center>
 
 
-_April 24th, 2012._
-<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HYyw0Zv1iw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<center>_"Steal me now and forever, I'll steal something good for you"_</center>
+_February 25th, 2012._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mUxIaUVk8Ng" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"There are memories from my shining teen years, burnt into my eyes, aren't there?"_</center>
+
+
+_May 27th, 2012._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RaTPw8M0NbM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"These wars, they can't be won, and do you want them to go on, and on and on"_</center>
 
 
 _June 16th, 2012._
@@ -48,15 +54,35 @@ _June 16th, 2012._
 <center>_"In the water where I center my emotion, all the world can pass me by"_</center>
 
 
+_July 9th, 2012._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2w6kHS_IRrE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"Are you such a dreamer, to put the world to rights?"_</center>
+
+
 _July 15th, 2012._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KQH2Kq1QXaI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>_"Well, am I getting closer? Will I ever get there? Does it even matter? Do I really need it?"_</center>
+
+
+_August 30th, 2012._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HYyw0Zv1iw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"Steal me now and forever, I'll steal something good for you"_</center>
 
 
 _September 23rd, 2012._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BbWBRnDK_AE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>On this day I listened to this song **33 times** while developing [this](https://www.youtube.com/watch?v=CiVLUqopDKA).\\
 _"Don't get any big ideas, they're not gonna happen"_</center>
+
+
+_September 28th, 2012._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XJ2S2_TpWN8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"The time has come to destroy your supremacy"_</center>
+
+
+_October 14th, 2012._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jkhVjm9iGFc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"I choose to survive, whatever it takes"_</center>
 
 
 </details>
@@ -100,14 +126,25 @@ _June 28th, 2013._
 <center>I’ve never heard the word _“fucking”_ said so beautifully.</center>
 
 
+_August 7th, 2013._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dfbg5qv03Hk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"I could never know what the dead man sees, I could never know what the deaf man hears"_</center>
+
+
 _August 8th, 2013._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Y22tIJ6toPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>**Goodfellas** is an incredible movie.\\
 _"My clothes may still be torn and tattled, but in my heart I'd be a king"_</center>
 
+
 </details>
 <details>
 <summary>2014</summary>
+
+
+_February 5th, 2014._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DuQ4WSF6MkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"... And smiles as the puppets dance, in the court of the crimson king"_</center>
 
 
 _March 10th, 2014._
@@ -121,19 +158,35 @@ _March 28th, 2014._
 and I smile as I respire **because I know they'll never win**"_</center>
 
 
+_April 20th, 2014._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iMfjROpKCnw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"I'll never get your bullet out of my mind"_</center>
+
+
+_August 19th, 2014._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bc0KhhjJP98" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>I **love** the **Guardians of The Galaxy** soundtrack.</center>
+<center>_"Come and get your love"_</center>
+
+
 _October 14th, 2014._
-<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DuQ4WSF6MkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<center>_"... And smiles as the puppets dance, in the court of the crimson king"_</center>
-
-
-_October 24th, 2014._
-<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AZKcl4-tcuo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<center>_"Is there life on Mars?"_</center>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2iUfn5vJI7Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"How can I tell you I was wrong?"_</center>
 
 
 _November 16th, 2014._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/J0RKpmjjpLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>It was with this piece of music that I fell in love for the rest of my life with **Philip Glass**' music.</center>
+
+
+_December 10th, 2014._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lK0t7O-e3yw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"It feels so good in the bay"_</center>
+
+
+_December 28th, 2014._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AZKcl4-tcuo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"Is there life on Mars?"_</center>
 
 
 </details>
@@ -152,9 +205,22 @@ _March 30th, 2015._
 <center>_"Mr. Sandman, bring me a dream"_</center>
 
 
-_May 21st, 2015._
+_May 20st, 2015._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bK7HJvmgFnM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>I had a **very intense** lucid dream and this song was in it.</center>
+
+
+_May 21st, 2015._
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JwYX52BP2Sk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center>_"You are young and life is long and there is time to kill today"_</center>
+
+
+_July 7th, 2015._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zPOCZaxjFcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"I remember every word you said, I remember voices in my head"_</center>
+
+[![01]][01]
+<center>_"We love you, drunk Ted"_</center>
 
 
 _July 19th, 2015._
@@ -167,6 +233,7 @@ _October 21st, 2015._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KCkgYhtz64U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>Today's the day Marty McFly arrived to the future.\\
 _"First time you feel it, it might make you sad, next time you feel it it might make you mad"_</center>
+
 
 _October 23th, 2015._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pR_5QRO6kPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -232,6 +299,11 @@ _August 4th, 2016._
 <center>_"Wake me in a thousand years, when computers can shed tears"_</center>
 
 
+_August 22nd, 2016._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UmFFTkjs-O0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"And you finally found all your courage, to let it all go"_</center>
+
+
 _October 4th, 2016._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KDGMU6sdVBE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>_"Darling so share with me, your love if you have enough,\\
@@ -253,9 +325,23 @@ _"Hold me close and hold me fast"_</center>
 <details>
 <summary>2017</summary>
 
+
 _April 29th, 2017._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aQUlA8Hcv4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>_"It's a beautiful new day"_</center>
+
+
+_June 1st, 2017._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GTWqwSNQCcg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>It's been one month of me living in [Amsterdam](https://z10z.xyz/amsterdam-bookingcom-and-me/), so excited and nervous about the future.
+<center>_"Is this the start of something wonderful and new?"_</center>
+
+
+_September 11th, 2017._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-eohHwsplvY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>Watching **LCD Soundsystem** live is insane.</center>
+<center>_"Maybe you're right, maybe I'm wrong, and just maybe you're right"_</center>
+
 
 _October 11th, 2017._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0Gkhol2Q1og" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
@@ -275,6 +361,7 @@ _October 31st, 2017._
 _December 24th, 2017._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_ScM9pKlCfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>_"If I had my way I would never leave, keep building these random memories"_</center>
+
 
 </details>
 <details>
@@ -305,6 +392,11 @@ In one vast burst of sight."_\\
 - **Isaac Asimov**'s _"The Stars Like Dust"_</center>
 
 
+_September 28th, 2018._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QRjllL-MP0U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>I'm in a dream.</center>
+
+
 _November 15th, 2018._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PNmCyZQ4AHk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>_"I'll see you in the trees"_</center>
@@ -315,14 +407,30 @@ _November 20th, 2018._
 <center>_"Death is the road to awe"_</center>
 
 
+_December 11th, 2018._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bZwJFpNm7W4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"Try this trick and spin it"_</center>
+
+
 </details>
 <details>
 <summary>2019</summary>
 
 
+_March 28th, 2019._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QczxCxFRUf0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>**Twin Peaks**' _The Return: Part 8_ is the craziest TV episode I've ever seen.</center>
+<center>_"I can't remember much of anything anymore"_</center>
+
+
 _March 29th, 2019._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HZ4uzD_hLds" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>_"It is the springtime of my loving, the second season I am to know"_</center>
+
+
+_July 22nd, 2019._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oXWMt4vkQ80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"I need a fix 'cause I'm going down, down to the pits that I left uptown"_</center>
 
 
 _September 2, 2019._
@@ -383,3 +491,6 @@ _August 31st, 2020._
 
 
 </details>
+
+
+[01]: https://i.imgur.com/ohi5oKo.jpg?1 "The Pineapple Incident"
