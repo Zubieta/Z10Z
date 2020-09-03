@@ -1,5 +1,5 @@
 +++
-categories = ["Programming", "Science"]
+categories = ["Learning", "Programming", "Science"]
 date = "2018-09-08T21:21:21+02:00"
 description = "A really good mix of astronomy and computational methods."
 slug = ""

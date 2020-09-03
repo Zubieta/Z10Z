@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning on Z10Z</title>
+    <link>https://zubie7a.github.io/z10z/categories/learning/</link>
+    <description>Recent content in Learning on Z10Z</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 20 Aug 2019 19:19:23 +0200</lastBuildDate>
+    
+	<atom:link href="https://zubie7a.github.io/z10z/categories/learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fundamentals of Reinforcement Learning</title>
+      <link>https://zubie7a.github.io/z10z/fundamentals-of-reinforcement-learning/</link>
+      <pubDate>Tue, 20 Aug 2019 19:19:23 +0200</pubDate>
+      
+      <guid>https://zubie7a.github.io/z10z/fundamentals-of-reinforcement-learning/</guid>
+      <description>These are my notes taken in the Fundamentals of Reinforcement Learning course by the University of Alberta in Coursera, part of their Reinforcement Learning Specialization. It is a very interesting framework of learning not only because it is very game-like, but because it helps modeling the world when you want to be able learn from sequences of interactions which progressively expand the model of the world and the actors in it, differing a lot from traditional supervised and unsupervised learning.</description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Astronomy</title>
+      <link>https://zubie7a.github.io/z10z/data-driven-astronomy/</link>
+      <pubDate>Sat, 08 Sep 2018 21:21:21 +0200</pubDate>
+      
+      <guid>https://zubie7a.github.io/z10z/data-driven-astronomy/</guid>
+      <description>I&amp;rsquo;ve completed the Data-Driven Astronomy course by the University of Sydney in Coursera. It is a very interesting course because it mixes something I really like which is Astronomy, and my recently inspired interest of learning about Data Science and Machine Learning.
+In Astronomy, there&amp;rsquo;s tons of data captured by multiple instruments and experiments, which is sometimes hard to parse or extract meaningful conclusions out of them by hand, which makes technologies that can process vast volumes of data and also learn from them highly valuable.</description>
+    </item>
+    
+    <item>
+      <title>Motivation Vs Discipline</title>
+      <link>https://zubie7a.github.io/z10z/motivation-vs-discipline/</link>
+      <pubDate>Sun, 16 Nov 2014 01:32:32 -0500</pubDate>
+      
+      <guid>https://zubie7a.github.io/z10z/motivation-vs-discipline/</guid>
+      <description>‘Motivation may get you to take on a task or behavior that you don’t normally do but eventually that motivation will either not be there any more or won’t be effective.’
+&amp;lsquo;I think many of us have a will to overcome existing habits and form new ones but we lack the way to do so. Too many distractions, too many opportunities, too many excuses.&amp;rsquo;
+’Take a look at successful people around you.</description>
+    </item>
+    
+  </channel>
+</rss>

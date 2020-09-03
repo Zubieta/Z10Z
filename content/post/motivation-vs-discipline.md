@@ -1,5 +1,5 @@
 +++
-categories = ["Life"]
+categories = ["Learning", "Life"]
 date = "2014-11-16T01:32:32-05:00"
 description = "Focus on being disciplined instead of waiting to be motivated."
 slug = ""
