@@ -1,0 +1,57 @@
++++
+categories = ["Programming", "Science"]
+date = "2018-09-08T21:21:21+02:00"
+description = "A really good mix of astronomy and computational methods."
+slug = ""
+tags = []
+title = "Data-Driven Astronomy"
++++
+
+I've completed the **Data-Driven Astronomy** course by the **University of Sydney** in [Coursera](https://www.coursera.org/learn/data-driven-astronomy). It is a very interesting course because it mixes something I really like which is **Astronomy**, and my recently inspired interest of learning about **Data Science** and **Machine Learning**.
+
+In **Astronomy**, there's **tons of data** captured by multiple instruments and experiments, which is sometimes hard to parse or extract meaningful conclusions out of them by hand, which makes technologies that can process vast volumes of data and also learn from them highly valuable.
+
+It is a great course and I learned a good deal of stuff not only about **Astronomy** but also about **Python** modules which I didn't know about before!
+
+**This course teaches stuff such as:**
+
+* _Reading data from **CSV**, **FITS**, etc files and operating on such data._
+* _Doing mathematical computations with **NumPy**._
+* _Compare efficiency of algorithms such as naive mean and median and **NumPy** versions._
+* _Implement the [**BinApprox**](http://www.stat.cmu.edu/~ryantibs/median/) algorithm, and apply it to images._
+* _Use **SQL** to easily perform queries, aggregations, etc on structured data._
+* _Use **SciKit Learn** to create **Decision Trees** to be able to predict based on features._
+* _Do comparissons between what models predict and actual values._
+* _Learn to prevent overfitting and biases by using **K-Fold Cross Validation**._ 
+* _Create **Random-Forest Classifiers** with **Cross Validation**._
+
+**All of this applied to astronomical data for:**
+
+* _Doing computations on multiple sources of sky data e.g. find median of sky flux for each pixel._
+* _Computing distances by converting degrees, **RA**, **DEC**, and using [**Great-Circle Distance**](https://en.wikipedia.org/wiki/Great-circle%5Fdistance#Computational%5Fformulas)._
+* _Do interesting computations on known star catalogs **AT20GBSS**, **SuperCOSMOS**, etc._
+* _Perform **cross-matching** of catalogs' data, naively, with **Binary Search**, and with **AstroPy** **K-D Trees**._
+* _**Clustering** kinds of stars according to **redshift** and **astronomical color**._
+* _Train models based on features like **astronomical colors** and targets like **redshifts**._
+* _Classify galaxies based on features like **color index**, **eccentricity**, **adaptive moments**, etc._
+
+|Right Ascension, Declination, Flux|Redshift of galaxies and QSOs|
+|---|---|
+|[![07]][07]|[![04]][04]|
+
+|Cluster stars by Color and Redshift|Comparing Overfitting of Trees By Depth|
+|---|---|
+|[![01]][01]|[![02]][02]|
+
+|Comparing measurements with predictions|Confusion Matrix For Galaxy Classification|
+|---|---|
+|[![05]][05]|[![06]][06]|
+
+
+[01]: https://i.imgur.com/DtS4Low.png "Data-Driven Astronomy"
+[02]: https://i.imgur.com/5UvhPA3.png "Data-Driven Astronomy"
+[03]: https://i.imgur.com/jW9K6ms.png "Data-Driven Astronomy"
+[04]: https://i.imgur.com/PhiRxLE.png "Data-Driven Astronomy"
+[05]: https://i.imgur.com/kexv41A.png "Data-Driven Astronomy"
+[06]: https://i.imgur.com/u8IpTse.png "Data-Driven Astronomy"
+[07]: https://i.imgur.com/jvAKtO0.png "Data-Driven Astronomy"
