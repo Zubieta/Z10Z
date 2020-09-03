@@ -43,6 +43,16 @@ _December 10th, 2011._
 <center>_"I'll lay down in the sand and let the ocean lead, carry me to Innisfree like pollen on the breeze"_</center>
 
 
+_December 18th, 2011._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S-Xm7s9eGxU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>**`READY? _`**</center>
+
+
+_December 30th, 2011._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YEH98_Ha2aA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"Breach the outer sphere, the edge of all our fears"_</center>
+
+
 </details>
 <details>
 <summary>2012</summary>
@@ -246,7 +256,7 @@ Came down from the mountain, to find another machine"_</center>
 
 _October 21st, 2015._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KCkgYhtz64U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<center>Today's the day Marty McFly arrived to the future.\\
+<center>Today's the day **Marty McFly** arrived to the future.\\
 _"First time you feel it, it might make you sad, next time you feel it it might make you mad"_</center>
 
 
@@ -354,7 +364,7 @@ _June 1st, 2017._
 
 _September 11th, 2017._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-eohHwsplvY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<center>Watching **LCD Soundsystem** live is insane.</center>
+<center>Seeing **LCD Soundsystem** live is insane.</center>
 <center>_"Maybe you're right, maybe I'm wrong, and just maybe you're right"_</center>
 
 
@@ -370,7 +380,8 @@ _October 14th, 2017._
 
 _October 31st, 2017._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9spGH0YMkj8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<center>**The Shining** is an amazing movie. Watching it on **Halloween**, in a nearly [100 year old theater](https://en.wikipedia.org/wiki/Tuschinski) brings the [experience](https://media.pathe.nl/gfx_content/bioscoop/Tuschinski/PatheTuschinski_FoyerBeneden1b.jpg) to a [whole new level](https://media.pathe.nl/gfx_content/bioscoop/Tuschinski/PatheTuschinski_Zaal1i.jpg).
+<center>**The Shining** is an amazing movie.\\
+Watching it on **Halloween**, in a [century old theater](https://en.wikipedia.org/wiki/Tuschinski) brings the [experience](https://media.pathe.nl/gfx_content/bioscoop/Tuschinski/PatheTuschinski_FoyerBeneden1b.jpg) to a [whole new level](https://media.pathe.nl/gfx_content/bioscoop/Tuschinski/PatheTuschinski_Zaal1i.jpg).</center>
 
 
 _December 24th, 2017._
