@@ -333,7 +333,7 @@ _April 29th, 2017._
 
 _June 1st, 2017._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GTWqwSNQCcg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<center>It's been one month of me living in [Amsterdam](https://z10z.xyz/amsterdam-bookingcom-and-me/), so excited and nervous about the future.
+<center>It's been one month of me living in [Amsterdam](https://z10z.xyz/amsterdam-bookingcom-and-me/), so excited and nervous about the future.</center>
 <center>_"Is this the start of something wonderful and new?"_</center>
 
 
