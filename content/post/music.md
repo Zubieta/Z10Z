@@ -12,6 +12,16 @@ title = "Music"
 <summary>2011</summary>
 
 
+_July 10th, 2011._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EzCKrwOme2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"Change everything you are, and everything you were"_</center>
+
+
+_September 15th, 2011._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VK3Q4SLVkAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"The circle only has one side"_</center>
+
+
 _October 1st, 2011._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rn7MmS3vazU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>I truly believe **Echoes** was made to go along **2001: A Space Odyssey**.\\
@@ -21,6 +31,11 @@ _"And no one called us to the land, and no one knows the where's or why's"_</cen
 _November 16th, 2011._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HBe9vkmD-Os" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>_"What we've become, is contrary to what we want"_</center>
+
+
+_December 1st, 2011._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/C4FG_xZAzsQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"One day this chalk outline will circle this city"_</center>
 
 
 _December 10th, 2011._
@@ -431,6 +446,11 @@ _March 29th, 2019._
 _May 21st, 2019._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NN9iogpzVhc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>_"It's getting hard to be someone, but it all works out"_</center>
+
+
+_July 2nd, 2019._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eKClwkbDO1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"Surrender your ego, be free, be free, to yourself"_</center>
 
 
 _July 22nd, 2019._
