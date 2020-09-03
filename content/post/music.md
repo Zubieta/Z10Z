@@ -45,7 +45,7 @@ _December 10th, 2011._
 
 _December 18th, 2011._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S-Xm7s9eGxU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<center>**`READY? _`**</center>
+<center>**`ＲＥＡＤＹ？＿`**</center>
 
 
 _December 30th, 2011._
