@@ -261,7 +261,8 @@ If everything goes according to the plan, a curious linear and cyclical pattern 
 Convoluted, and complex
 No matter how deep, full of detail
 The intrinsic shape of The Universe
-I this is a simulation in C++ with SFML 2.0. Every frame is a Julia Set fractal rendered with a slightly varying initial parameter, so it gives the illusion that its evolving. The first strategy for varying the initial parameter is like a row by row scan of points of the complex plane from the uppermost left corner down the the lowermost right corner.</description>
+This is a simulation made in C++ with SFML 2.0. Every frame is a Julia Set fractal rendered with a slightly varying initial parameter, and fractals with neighboring initial parameters are very similar, so it gives the illusion that its evolving.
+The first strategy for varying the initial parameter is like a row by row scan of points of the complex plane from the uppermost left corner down the the lowermost right corner.</description>
     </item>
     
     <item>
