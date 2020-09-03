@@ -14,3 +14,5 @@ It was during a sort of deep talk at lunch with my teammates, that I had a deep 
 It was something like a **challenge** and at the same time a **promise**, an **expectation**, a **motivation**.
 
 He's a person I've looked up to a lot since we started working together, and he's approximately that much older than me, so when that time passes it will be interesting to see if I'm sitting at that _"side of the table"_ where he was sitting, perhaps giving the same advice to someone sitting in the place I was.
+
+<center>**I'm looking forwards as well for the next seven years.**</center>
