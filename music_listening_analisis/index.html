@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Music Listening Analysis &middot; Z10Z</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<!--[if lt IE 9]>
+	<script src="https://zubie7a.github.io/z10z/js/html5.js"></script>
+	<![endif]-->
+    
+    <link href="https://zubie7a.github.io/z10z/index.xml" rel="alternate" type="application/rss+xml" title="Z10Z" />
+
+    <link rel='stylesheet' id='twentyfourteen-lato-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+
+    <link rel='stylesheet' id='genericons-css' href='https://zubie7a.github.io/z10z/genericons/genericons.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='twentyfourteen-style-css' href='https://zubie7a.github.io/z10z/css/style.css' type='text/css' media='all' />
+	
+	<script type='text/javascript' src='https://zubie7a.github.io/z10z/js/jquery/jquery.js'></script>
+	<script type='text/javascript' src='https://zubie7a.github.io/z10z/js/jquery/jquery-migrate.min.js'></script>
+	
+	<link rel="stylesheet" href="https://yandex.st/highlightjs/8.0/styles/github.min.css">
+	<script src="https://yandex.st/highlightjs/8.0/highlight.min.js"></script>
+	<script>hljs.initHighlightingOnLoad();</script>
+	
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head>
+
+<body class="home blog masthead-fixed list-view full-width grid">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+		<div class="header-main">
+			<h1 class="site-title"><a href="https://zubie7a.github.io/z10z" rel="home">Z10Z</a></h1>
+
+			<div class="search-toggle">
+				<a href="#search-container" class="screen-reader-text">Search</a>
+			</div>
+
+			<nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+				<button class="menu-toggle">Primary Menu</button>
+				<a class="screen-reader-text skip-link" href="#content">Skip to content</a>
+				<div class="nav-menu">
+					<ul>
+						<li class="page_item"> 
+							<a href="https://zubie7a.github.io/z10z"> Home </a>
+						</li>
+						
+						
+						<li class="page_item">
+							<a href="https://drive.google.com/file/d/18lOJgr3RF1NUz89Tr5SKewX9X0lJTBab/view?usp=sharing"> CV </a>
+						</li>
+						
+						
+						
+						<li class="page_item">
+							<a href="//github.com/zubie7a"> GitHub </a>
+						</li>
+						
+
+						<li class="page_item">
+							<a href="https://zubie7a.github.io/z10z/about-me"> About Me </a>
+						</li>
+						
+						
+					</ul>
+				</div>
+			</nav>
+		</div>
+		<div id="search-container" class="search-box-wrapper hide">
+			<div class="search-box">
+                <script type="text/javascript">
+    function site_search(obj) {
+    	var host = window.location.host;
+        obj.q.value = "site:" + host + " " + obj.ss_q.value;
+    }
+</script>
+
+<aside id="search-3" class="widget widget_search">
+	<form role="search" class="search-form" action="//www.google.com/search" method="get" onSubmit="site_search(this)">
+
+	<input name="q" type="hidden" />
+	    <label>
+	        <span class="screen-reader-text">Search for:</span>
+	        <input name="ss_q" type="text" placeholder="Search ..." class="search-field" />
+	    </label>
+	    <input type="submit" value="Search" class="search-submit" />
+	</form>
+</aside>
+			</div>
+		</div>
+	</header>
+
+	<div id="main" class="site-main">
+
+
+<div id="main-content" class="main-content">
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+			<article class="post type-post status-publish format-standard hentry">
+
+	
+	<header class="entry-header">
+
+	
+
+		<div class="entry-meta">
+			<span class="cat-links">
+                
+                <a href="https://zubie7a.github.io/z10z/categories/music" rel="category">Music &nbsp;&nbsp;</a>
+                
+                <a href="https://zubie7a.github.io/z10z/categories/programming" rel="category">Programming &nbsp;&nbsp;</a>
+                
+			</span>
+		</div>
+
+		<h1 class="entry-title">Music Listening Analysis</h1>
+
+		<div class="entry-meta">
+			<span class="entry-date">
+				<a href="https://zubie7a.github.io/z10z/music_listening_analisis/" rel="bookmark">
+					<time class="entry-date" datetime="2020-09-04 21:05:34 &#43;0200 CEST">
+						September 4, 2020
+					</time>
+				</a>
+			</span>
+		</div>
+
+	</header>
+	
+	<div class="entry-content">
+		<p>For years I&rsquo;ve tracked the music I listen to, either my <strong>iTunes</strong> playbacks with the <a href="https://www.last.fm/about/trackmymusic"><strong>Last.fm</strong> scrobbler</a>, or by listening to music on <strong>Spotify</strong> and synchronizing that with <strong>Last.fm</strong> as well.</p>
+
+<p><strong>Last.fm</strong> keeps track of all that data about <em>songs</em>, <em>albums</em>, and <em>artists</em> you&rsquo;ve played, and there&rsquo;s some nice information that they aggregate and present to you as an user. However, I wanted to do <em>my own</em> kind of aggregations and visualizations, but retrieving <em><strong>my own</strong> music listening history</em> data seemed just too difficult as an user.</p>
+
+<p><strong>Last.fm</strong> used to have many years ago a <strong>Data Export</strong> feature, which was abandoned after their redesign. Many modern websites have functionality for users to retrieve <strong>their own</strong> data archive.</p>
+
+<p>Anyway, I forgot about this for some time, until I found <a href="https://lastfm.ghan.nl/export/">this wonderful website</a> which after only providing it with my username, it gave me a <strong>CSV</strong> file with my <em>whole listening history</em> in a nice structure.</p>
+
+<p>Then I thought, how will I operate on this data? I didn&rsquo;t have to think for long, because my favorite tool when doing aggregations and nice stuff with data at work is <strong>Apache Spark</strong>. Usually we work with <strong>Hive</strong> tables, but I remembered you can also open other kinds of files.</p>
+
+<p>So I did the reasonable thing, and opened this <strong>CSV</strong> file with <strong>PySpark</strong> <em>(these very convenient guides (<a href="https://kevinvecmanis.io/python/pyspark/install/2019/05/31/Installing-Apache-Spark.html" title="Install Apache Spark">1</a>, <a href="https://sharing.luminis.eu/blog/how-to-install-pyspark-and-apache-spark-on-macos/" title="Install Apache Spark">2</a>) were how I installed the required dependencies for PySpark ready to use with Jupyter/Anaconda).</em></p>
+
+<pre><code>root
+ |-- uts: integer (nullable = true)
+ |-- utc_time: string (nullable = true)
+ |-- artist: string (nullable = true)
+ |-- artist_mbid: string (nullable = true)
+ |-- album: string (nullable = true)
+ |-- album_mbid: string (nullable = true)
+ |-- track: string (nullable = true)
+ |-- track_mbid: string (nullable = true)
+</code></pre>
+
+<p>That&rsquo;s the simple schema of the data, and this is just enough information for me to do my queries!</p>
+
+<p>A few interesting <em>(at least for myself)</em> tidbits of data is that according to this, I&rsquo;ve listened to <strong>14130</strong> unique songs from <strong>2194</strong> artists about <strong>121403</strong> times in the last <strong>8 years</strong>!</p>
+
+<p>Some things I want to find out from this data:</p>
+
+<ul>
+<li><em>Listening history for <strong>specific</strong> songs/albums/artists.</em></li>
+<li><em>Finding songs or artists which I&rsquo;ve played <strong>a lot</strong> consecutively on a single day or week.</em></li>
+<li><em>Finding <strong>seasonal</strong> variations and <strong>patterns</strong> on the music I listen too.</em></li>
+<li><em>Finding which artists I&rsquo;m likely to <strong>listen together</strong> in a brief period of time.</em></li>
+</ul>
+
+<p>For now I&rsquo;m still doing some exploratory queries, aggregations, and visualizations on this data, but will update with any interesting things I perform on this data.</p>
+
+<p><strong>I do this, because I want to understand my musical behaviors from the perspective of my own data!</strong></p>
+
+	</div>
+
+
+	<footer class="entry-meta">
+		<span class="tag-links">		
+			
+		</span>
+	</footer>
+	
+</article> 
+		
+		</div>
+
+	</div>
+	<div id="secondary">
+
+	
+
+	<div id="primary-sidebar" class="primary-sidebar widget-area" role="complementary">
+
+		<aside id="recent-posts-3" class="widget widget_recent_entries">
+	
+</aside>
+
+		<aside id="categories-3" class="widget widget_categories">
+	
+	<h1 class="widget-title">Categories</h1>
+
+	<ul>
+		
+		
+		
+		<li class="cat-item">
+			<a href="https://zubie7a.github.io/z10z/categories/arts">Arts</a>
+		</li>
+
+		
+		
+		<li class="cat-item">
+			<a href="https://zubie7a.github.io/z10z/categories/learning">Learning</a>
+		</li>
+
+		
+		
+		<li class="cat-item">
+			<a href="https://zubie7a.github.io/z10z/categories/life">Life</a>
+		</li>
+
+		
+		
+		<li class="cat-item">
+			<a href="https://zubie7a.github.io/z10z/categories/music">Music</a>
+		</li>
+
+		
+		
+		<li class="cat-item">
+			<a href="https://zubie7a.github.io/z10z/categories/programming">Programming</a>
+		</li>
+
+		
+		
+		<li class="cat-item">
+			<a href="https://zubie7a.github.io/z10z/categories/science">Science</a>
+		</li>
+
+		
+		
+		<li class="cat-item">
+			<a href="https://zubie7a.github.io/z10z/categories/technology">Technology</a>
+		</li>
+
+		
+
+	</ul>
+
+</aside>
+
+	</div>
+
+</div>
+
+</div>
+
+		</div>
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+
+			<div class="site-info">
+				<a href="http://gohugo.io">Proudly powered by Hugo</a>
+			</div>
+		</footer>
+	</div>
+
+	<script type='text/javascript' src='https://zubie7a.github.io/z10z/js/functions.js'></script>
+</body>
+</html>
