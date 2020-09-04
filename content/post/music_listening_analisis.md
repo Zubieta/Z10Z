@@ -1,7 +1,7 @@
 +++
 categories = ["Music", "Programming"]
 date = "2020-09-04T21:05:34+02:00"
-description = "Finding interesting data in my music listening habits."
+description = "Finding interesting patterns in my music listening habits."
 slug = ""
 tags = []
 title = "Music Listening Analysis"
