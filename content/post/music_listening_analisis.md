@@ -38,9 +38,9 @@ A few interesting _(at least for myself)_ tidbits of data is that according to t
 Some things I want to find out from this data:
 
 * _Listening history for **specific** songs/albums/artists._
-* _Finding songs which I've played **a lot** on a single [day](https://pastebin.com/WXPhxmri) or [week](https://pastebin.com/ukgHM1NS)._
-* _Finding albums which I've played **a lot** on a single [day](https://pastebin.com/Kh5fTVYa) or [week](https://pastebin.com/X2RzPNeH)._
-* _Finding artists which I've played **a lot** on a single [day](https://pastebin.com/rQPzr8Zv) or [week](https://pastebin.com/zjrZkETe)._
+* _Finding songs which I've played **a lot** on a single [day](https://pastebin.com/raw/WXPhxmri) or [week](https://pastebin.com/raw/ukgHM1NS)._
+* _Finding albums which I've played **a lot** on a single [day](https://pastebin.com/raw/Kh5fTVYa) or [week](https://pastebin.com/raw/X2RzPNeH)._
+* _Finding artists which I've played **a lot** on a single [day](https://pastebin.com/raw/rQPzr8Zv) or [week](https://pastebin.com/raw/zjrZkETe)._
 * _Finding **seasonal** variations and **patterns** on the music I listen too._
 * _Finding which artists I'm likely to **listen together** in a brief period of time._
 
