@@ -41,7 +41,7 @@ Some things I want to find out from this data:
 * _Finding songs which I've played **a lot** on a single [day](https://pastebin.com/raw/mX6c1b4J) or [week](https://pastebin.com/raw/AqJ2devC)._
 * _Finding albums which I've played **a lot** on a single [day](https://pastebin.com/raw/Kh5fTVYa) or [week](https://pastebin.com/raw/X2RzPNeH)._
 * _Finding artists which I've played **a lot** on a single [day](https://pastebin.com/raw/rQPzr8Zv) or [week](https://pastebin.com/raw/zjrZkETe)._
-* _Finding top listened [songs](https://pastebin.com/raw/42k6CHhb), [albums](https://pastebin.com/raw/FUUQ3BCD), and [artists](https://pastebin.com/raw/rBMewJgg).
+* _Finding top listened [songs](https://pastebin.com/raw/42k6CHhb), [albums](https://pastebin.com/raw/FUUQ3BCD), and [artists](https://pastebin.com/raw/rBMewJgg)_.
 * _Finding **seasonal** variations and **patterns** on the music I listen too._
 * _Finding which artists I'm likely to **listen together** in a brief period of time._
 
