@@ -5,10 +5,20 @@
     <link>https://zubie7a.github.io/z10z/</link>
     <description>Recent content on Z10Z</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 22 Aug 2020 13:42:13 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2020 21:05:34 +0200</lastBuildDate>
     
 	<atom:link href="https://zubie7a.github.io/z10z/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Music Listening Analysis</title>
+      <link>https://zubie7a.github.io/z10z/music_listening_analisis/</link>
+      <pubDate>Fri, 04 Sep 2020 21:05:34 +0200</pubDate>
+      
+      <guid>https://zubie7a.github.io/z10z/music_listening_analisis/</guid>
+      <description>For years I&amp;rsquo;ve tracked the music I listen to, either my iTunes playbacks with the Last.fm scrobbler, or by listening to music on Spotify and synchronizing that with Last.fm as well.
+Last.fm keeps track of all that data about songs, albums, and artists you&amp;rsquo;ve played, and there&amp;rsquo;s some nice information that they aggregate and present to you as an user. However, I wanted to do my own kind of aggregations and visualizations, but retrieving my own music listening history data seemed just too difficult as an user.</description>
+    </item>
     
     <item>
       <title>Seven Years Pt. III</title>
