@@ -538,6 +538,10 @@ _August 31st, 2020._
 <center>This is pretty **intense**.</center>
 
 
+_September 24th, 2020._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/J7tLpmfj53g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"I wonder what you're living for, I wonder what you're dying for"_</center>
+
 </details>
 
 
