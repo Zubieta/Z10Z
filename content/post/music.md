@@ -226,7 +226,7 @@ _"Tongue-tied and twisted, just an Earth-bound misfit, I"_</center>
 
 
 _March 30th, 2015._
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/l2cyFpa0mo8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/l2cyFpa0mo8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>_"Mr. Sandman, bring me a dream"_</center>
 
 
@@ -255,7 +255,7 @@ Came down from the mountain, to find another machine"_</center>
 
 
 _September 2nd, 2015._
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/faG8RiaANek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/faG8RiaANek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>_"Try to keep yourself awake"_</center>
 
 <center>[![02]][02]</center>
