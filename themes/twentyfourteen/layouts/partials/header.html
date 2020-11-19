@@ -63,7 +63,19 @@
 						<li class="page_item">
 							<a href="{{ .Site.BaseURL }}/about-me"> About Me </a>
 						</li>
-						
+
+						{{ if .Site.Params.Music }}
+						<li class="page_item">
+							<a href="{{ .Site.Params.Music }}"> Music </a>
+						</li>
+						{{ end }}
+
+						{{ if .Site.Params.Movies }}
+						<li class="page_item">
+							<a href="{{ .Site.Params.Movies }}"> Movies </a>
+						</li>
+						{{ end }}
+
 						{{ range .Site.Menus.main }}
 						<li class="page_item"> 
 							<a href="{{ .URL }}">{{ .Name }}</a>
