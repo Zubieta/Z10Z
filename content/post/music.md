@@ -1,7 +1,7 @@
 +++
 categories = ["Music"]
 date = "0042-06-10T14:21:01-05:00"
-description = "Songs that have gotten stuck on my head, listening to them like tens of times in a row."
+description = "Songs that have gotten stuck on my head, and have defined certain moments across the years."
 slug = ""
 tags = []
 title = "Music"
