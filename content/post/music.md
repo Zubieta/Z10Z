@@ -548,6 +548,27 @@ _October 13th, 2020._
 <center>_"We're always waiting around for grace"_</center>
 
 
+_November 16th, 2020._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/u4zRuCCxmKw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RhMEKiIb86I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2pfgnm4NSVg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"Limitless undying love, which shines around me like a million suns"_</center>
+
+
+_November 18th, 2020._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IlYRsUjoOqE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>I miss my funny uncle.</center>
+
+
+_November 19th, 2020._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2ObjtVdsV3I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+<center>_"Five years"_</center>
+<center>_"I never thought I'd need so many people"_</center>
+
+
+
 </details>
 
 
