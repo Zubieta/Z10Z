@@ -52,7 +52,10 @@ title = "Concerts"
 * The Offspring
 * Massive Attack
 * Devin Townsend
-* Iron Maiden _(again!)
+* Apocalyptica
+* Procol Harum
+* Iron Maiden _(again!)_
+* Foo Fighters _(again!)_
 * Radiohead | Thom Yorke
 * Fall Out Boy
 * Deep Purple
