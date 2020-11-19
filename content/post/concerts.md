@@ -34,10 +34,11 @@ title = "Concerts"
 * **MGMT**, _Amsterdam, [February 2nd, 2018][22]_
 * **Jonathan Wilson**, _Amsterdam, [March 24th, 2018][23]_
 * **Los Pirañas**, _Amsterdam, June 7th, 2018_
-* **Einstein on The Beach with Suzanne Vega**, _Utrecht, [May 31st, 2019][24]_
-* **Muse**, _Nijmegen, [June 27th, 2019][25]_
-* **Star Wars: The Empire Strikes Back _(Live Orchestra)_**, _Amsterdam, [July 12, 2019][26]_
-* **Under The Skin _(Live Orchestra)_**, _Amsterdam, [November 29, 2019][27]_
+* **Eklekto | Ryoji Ikeda + Pauline Oliveros**, _Amsterdam, [April 5, 2019][24]_
+* **Einstein on The Beach with Suzanne Vega**, _Utrecht, [May 31st, 2019][25]_
+* **Muse**, _Nijmegen, [June 27th, 2019][26]_
+* **Star Wars: The Empire Strikes Back _(Live Orchestra)_**, _Amsterdam, [July 12, 2019][27]_
+* **Under The Skin _(Live Orchestra)_**, _Amsterdam, [November 29, 2019][28]_
 
 \\
 \\
@@ -94,7 +95,8 @@ title = "Concerts"
 [21]: https://www.setlist.fm/setlist/fleet-foxes/2017/tivolivredenburg-ronda-utrecht-netherlands-be0f1d6.html "Fleet Foxes"
 [22]: https://www.setlist.fm/setlist/mgmt/2018/paradiso-grote-zaal-amsterdam-netherlands-53ee871d.html "MGMT"
 [23]: https://www.setlist.fm/setlist/jonathan-wilson/2018/melkweg-upstairs-amsterdam-netherlands-63ef0253.html "Jonathan Wilson"
-[24]: https://www.tivolivredenburg.nl/agenda/einstein-on-the-beach-31-05-2019/ "Einstein on The Beach with Suzanne Vega"
-[25]: https://www.setlist.fm/setlist/muse/2019/goffertpark-nijmegen-netherlands-2b9100d2.html "Muse"
-[26]: https://www.concertgebouw.nl/en/concerts/star-wars-the-empire-strikes-back-live-in-concert/11-07-2019 "Star Wars The Empire Strikes Back"
-[27]: https://www.muziekgebouw.nl/agenda/8384/s_t_a_r_g_a_z_e/Under_the_Skin/ "Under The Skin"
+[24]: https://www.muziekgebouw.nl/agenda/7822/Ryoji_Ikeda_Pauline_Oliveros/Eklekto/ "Eklekto | Ryoji Ikeda + Pauline Oliveros"
+[25]: https://www.tivolivredenburg.nl/agenda/einstein-on-the-beach-31-05-2019/ "Einstein on The Beach with Suzanne Vega"
+[26]: https://www.setlist.fm/setlist/muse/2019/goffertpark-nijmegen-netherlands-2b9100d2.html "Muse"
+[27]: https://www.concertgebouw.nl/en/concerts/star-wars-the-empire-strikes-back-live-in-concert/11-07-2019 "Star Wars The Empire Strikes Back"
+[28]: https://www.muziekgebouw.nl/agenda/8384/s_t_a_r_g_a_z_e/Under_the_Skin/ "Under The Skin"
