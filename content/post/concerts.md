@@ -66,6 +66,7 @@ title = "Concerts"
 * Elton John
 * Scala & Kolacny Brothers
 * Roger Waters
+* Travis Scott
 * Joey Badass
 * Alphaville
 * Pixies
