@@ -36,6 +36,8 @@ title = "Concerts"
 * **Los Pirañas**, _Amsterdam, June 7th, 2018_
 * **Einstein on The Beach with Suzanne Vega**, _Utrecht, [May 31st, 2019][24]_
 * **Muse**, _Nijmegen, [June 27th, 2019][25]_
+* **Star Wars: The Empire Strikes Back _(Live Orchestra)_**, _Amsterdam, [July 12, 2019][26]_
+* **Under The Skin _(Live Orchestra)_**, _Amsterdam, [November 29, 2019][27]_
 
 \\
 \\
@@ -94,4 +96,5 @@ title = "Concerts"
 [23]: https://www.setlist.fm/setlist/jonathan-wilson/2018/melkweg-upstairs-amsterdam-netherlands-63ef0253.html "Jonathan Wilson"
 [24]: https://www.tivolivredenburg.nl/agenda/einstein-on-the-beach-31-05-2019/ "Einstein on The Beach with Suzanne Vega"
 [25]: https://www.setlist.fm/setlist/muse/2019/goffertpark-nijmegen-netherlands-2b9100d2.html "Muse"
-
+[26]: https://www.concertgebouw.nl/en/concerts/star-wars-the-empire-strikes-back-live-in-concert/11-07-2019 "Star Wars The Empire Strikes Back"
+[27]: https://www.muziekgebouw.nl/agenda/8384/s_t_a_r_g_a_z_e/Under_the_Skin/ "Under The Skin"
