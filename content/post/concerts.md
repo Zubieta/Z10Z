@@ -53,7 +53,10 @@ title = "Concerts"
 * Rammstein
 * Pearl Jam
 * Green Day
+* Wolfmother
 * The Offspring
+* Franz Ferdinand
+* Alabama Shakes
 * Massive Attack
 * Devin Townsend
 * Apocalyptica
@@ -61,9 +64,12 @@ title = "Concerts"
 * Iron Maiden _(again!)_
 * Foo Fighters _(again!)_
 * Radiohead | Thom Yorke
+* Nine Inch Nails
 * Smashing Pumpkins
 * The Beach Boys
 * Fall Out Boy
+* Arcade Fire
+* Daft Punk
 * Deep Purple
 * Jethro Tull
 * Elton John
