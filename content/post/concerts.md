@@ -61,10 +61,13 @@ title = "Concerts"
 * Iron Maiden _(again!)_
 * Foo Fighters _(again!)_
 * Radiohead | Thom Yorke
+* Smashing Pumpkins
+* The Beach Boys
 * Fall Out Boy
 * Deep Purple
 * Jethro Tull
 * Elton John
+* Fiona Apple
 * Alan Parsons
 * Snarky Puppy
 * Scala & Kolacny Brothers
