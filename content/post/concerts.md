@@ -64,6 +64,7 @@ title = "Concerts"
 * Deep Purple
 * Jethro Tull
 * Elton John
+* Alan Parsons
 * Scala & Kolacny Brothers
 * Roger Waters
 * Travis Scott
