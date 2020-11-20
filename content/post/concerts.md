@@ -66,6 +66,7 @@ title = "Concerts"
 * Jethro Tull
 * Elton John
 * Alan Parsons
+* Snarky Puppy
 * Scala & Kolacny Brothers
 * Roger Waters
 * Travis Scott
