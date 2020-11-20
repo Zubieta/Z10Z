@@ -49,6 +49,7 @@ title = "Concerts"
 * System Of A Down
 * My Chemical Romance
 * Nick Cave & The Bad Seeds
+* Pet Shop Boys
 * Rammstein
 * Pearl Jam
 * Green Day
