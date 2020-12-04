@@ -547,6 +547,9 @@ _October 13th, 2020._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tyzVd1DyBk8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>_"We're always waiting around for grace"_</center>
 
+_November 9th, 2020._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DU-RuR-qO4Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"I'm sentimental, if you know what I mean, I love the country but I can't stand the scene."_</center>
 
 _November 16th, 2020._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/u4zRuCCxmKw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
