@@ -163,5 +163,16 @@ No matter how deep, full of detail. The intrinsic shape of The Universe&amp;rdqu
 This is a simulation made in C++ with SFML 2.0. Every frame is a Julia Set fractal rendered with a slightly varying initial parameter, and fractals with neighboring initial parameters are very similar, so it gives the illusion that its evolving. You can find the code at GitHub.</description>
     </item>
     
+    <item>
+      <title>CraZeApp Privacy Policy</title>
+      <link>https://zubie7a.github.io/z10z/crazeapp-privacy-policy/</link>
+      <pubDate>Tue, 10 Jun 0042 07:21:01 -0500</pubDate>
+      
+      <guid>https://zubie7a.github.io/z10z/crazeapp-privacy-policy/</guid>
+      <description>Overview This Privacy Policy describes how your personal information is handled in CraZeApp for iOS.
+We Collect No Personal Information Using Our Applications We do not collect, use, save, or have access to any of your personal data recorded in CraZeApp for iOS.
+Individual settings relating to CraZeApp are not personal and are stored only on your device. You might also be asked to provide access to your photo library, but this is only so you can save your drawings from CraZeApp.</description>
+    </item>
+    
   </channel>
 </rss>
