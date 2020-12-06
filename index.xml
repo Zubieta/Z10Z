@@ -5,10 +5,21 @@
     <link>https://zubie7a.github.io/z10z/</link>
     <description>Recent content on Z10Z</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 04 Sep 2020 21:05:34 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 06 Dec 2020 16:24:42 +0200</lastBuildDate>
     
 	<atom:link href="https://zubie7a.github.io/z10z/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CraZe on the App Store</title>
+      <link>https://zubie7a.github.io/z10z/craze-on-the-app-store/</link>
+      <pubDate>Sun, 06 Dec 2020 16:24:42 +0200</pubDate>
+      
+      <guid>https://zubie7a.github.io/z10z/craze-on-the-app-store/</guid>
+      <description>CraZe is finally available on the App Store!
+After lots of crazy and intense moments this year, I got enough momentum to start learning Swift from scratch, and playing around a lot with it (it is quite a nice language!).
+Development started in August, and by October 80% was done, however I had to stop development for a couple months, but now I poured all my energy this last weekend into finishing the final stretch and finally publishing the first version!</description>
+    </item>
     
     <item>
       <title>Music Listening Analysis</title>
@@ -309,7 +320,7 @@ My daily work involves interacting with other Developers, Data Scientists, and P
     <item>
       <title>CraZeApp Privacy Policy</title>
       <link>https://zubie7a.github.io/z10z/crazeapp-privacy-policy/</link>
-      <pubDate>Tue, 10 Jun 0042 07:21:01 -0500</pubDate>
+      <pubDate>Tue, 10 Jun 0042 07:21:01 +0200</pubDate>
       
       <guid>https://zubie7a.github.io/z10z/crazeapp-privacy-policy/</guid>
       <description>Overview This Privacy Policy describes how your personal information is handled in CraZeApp for iOS.
