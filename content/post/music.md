@@ -576,6 +576,10 @@ _December 1st, 2020._
 <center>_"I'm just a singer with a melody, I'm caught in between with a fading dream"_</center>
 
 
+_December 6th, 2020._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ykdqi8eT1iM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>__"It feels like flying, but maybe we're dying, a cosmic confluence of pyramids hologrammed"__</center>
+
 </details>
 
 
