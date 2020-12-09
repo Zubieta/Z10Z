@@ -25,7 +25,7 @@ Of course to celebrate this release and promote it, I had a ton of stickers prin
 | [![07]][07] | [![08]][08] |
 
 <center>I hope you enjoy it!</center>
-<center>Please share images with **#CraZeApp** so others can find them,</center>
+<center>Please share images with **[#CraZeApp][09]** so others can find them,</center>
 <center>You are awesome!</center>
 
 <center>[![03]][03]</center>
@@ -40,3 +40,4 @@ Of course to celebrate this release and promote it, I had a ton of stickers prin
 [06]: https://i.imgur.com/LlymzJa.jpg "CraZe Stickers Grid 2"
 [07]: https://i.imgur.com/NOQmfMN.jpg "CraZe Stickers Grid 3"
 [08]: https://i.imgur.com/iMC8J9e.jpg "CraZe Stickers Grid 1"
+[09]: https://www.instagram.com/explore/tags/crazeapp/ "CraZeApp Instagram Hashtag"
