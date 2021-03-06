@@ -16,6 +16,13 @@ I've acted as a point of reference for others around me for many things, while a
 
 **I seek to always be in an environment like this that allows me to keep growing personally and intellectually, and helping others achieve such growth as well.** 
 
-In my free time I explore things related to **Computational Art**, I made a drawing app involving concepts of trigonometry, geometry, and linear algebra, for making designs with effects, rotations, symmetry, and brushes with over 200.000 downloads, available at the [Android Play Store](https://play.google.com/store/apps/details?id=com.zubieta.craze), also available for [Mobile/Desktop Browser](http://craze-alpha.herokuapp.com), and sometimes I [post psychedelic art](http://instagram.com/crazeapp) made with it.
+In my free time I explore things related to **Computational Art**, I made a [drawing app][01] involving concepts of trigonometry, geometry, and linear algebra, for making designs with effects, rotations, symmetry, and brushes with over 200.000 downloads, available at the [App Store][02], [Play Store][03], also available for [Mobile/Desktop Browser][04], and sometimes I [post psychedelic art][05] made with it.
 
-The name of this blog, **Z10Z**, is a [numeronym](https://en.wikipedia.org/wiki/Numeronym), created with my last names :-)
+The name of this blog, **Z10Z**, is a [numeronym][06], created with my last names :-)
+
+[01]: https://craze.app "CraZe App Website"
+[02]: https://apps.apple.com/us/app/crazeapp/id1543581885 "CraZe at the App Store"
+[03]: https://play.google.com/store/apps/details?id=com.zubieta.craze "CraZe at the Play Store"
+[04]: http://craze-alpha.herokuapp.com "CraZe Web Version"
+[05]: http://instagram.com/crazeapp "CraZe at Instagram"
+[06]: https://en.wikipedia.org/wiki/Numeronym "Numeronym"
