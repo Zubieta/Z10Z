@@ -96,7 +96,7 @@ _August 30th, 2012._
 
 _September 23rd, 2012._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BbWBRnDK_AE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<center>On this day I listened to this song **33 times** while developing [this](https://www.youtube.com/watch?v=CiVLUqopDKA).\\
+<center>On this day I listened to this song **33 times** while developing [this][04].\\
 _"Don't get any big ideas, they're not gonna happen"_</center>
 
 
@@ -280,7 +280,7 @@ _"Don't waste your time, or time will waste you"_</center>
 
 _November 17th, 2015._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CvFH_6DNRCY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<center>Like **Radiohead** [once wrote](https://www.youtube.com/watch?v=INvrv9ppxvQ), _"I was dropped from the moonbeam, and sailed on shooting stars"_</center>
+<center>Like **Radiohead** [once wrote][05], _"I was dropped from the moonbeam, and sailed on shooting stars"_</center>
 
 
 _December 22nd, 2015._
@@ -295,7 +295,7 @@ _December 22nd, 2015._
 
 _January 30th, 2016._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IU2wBKoDOzg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<center>I really love this cover of **David Bowie**'s [song](https://www.youtube.com/watch?v=g33-W9t2q2Q).\\
+<center>I really love this cover of **David Bowie**'s [song][07].\\
 _"I spoke into his eyes, I thought you died alone, a long long time ago"_</center>
 
 
@@ -316,7 +316,7 @@ _June 10th, 2016._
 
 _July 10th, 2016._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EfZ8E0tAXPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<center>An unforgettable road trip down [California 1](https://en.wikipedia.org/wiki/California_State_Route_1).\\
+<center>An unforgettable road trip down [California 1][08].\\
 _"I reach as far as I can see, just to change this melody"_</center>
 
 
@@ -370,7 +370,7 @@ _April 29th, 2017._
 
 _June 1st, 2017._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GTWqwSNQCcg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<center>It's been one month of me living in [Amsterdam](https://z10z.xyz/amsterdam-bookingcom-and-me/), so excited and nervous about the future.</center>
+<center>It's been one month of me living in [Amsterdam][09], so excited and nervous about the future.</center>
 <center>_"Is this the start of something wonderful and new?"_</center>
 
 
@@ -393,7 +393,7 @@ _October 14th, 2017._
 _October 31st, 2017._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9spGH0YMkj8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>**The Shining** is an amazing movie.\\
-Watching it on **Halloween**, in a [century old theater](https://en.wikipedia.org/wiki/Tuschinski) brings the [experience](https://media.pathe.nl/gfx_content/bioscoop/Tuschinski/PatheTuschinski_FoyerBeneden1b.jpg) to a [whole new level](https://media.pathe.nl/gfx_content/bioscoop/Tuschinski/PatheTuschinski_Zaal1i.jpg).</center>
+Watching it on **Halloween**, in a [century old theater][11] brings the [experience][12] to a [whole new level][13].</center>
 
 
 _December 24th, 2017._
@@ -411,7 +411,7 @@ _March 14th, 2018._
 <center>_"For millions of years mankind lived just like the animals.\\
 Then something happened which unleashed the power of our imagination.\\
 We learned to talk (And we learned to listen)"_\\
-- **[Stephen Hawking](https://en.wikipedia.org/wiki/Stephen_Hawking)**</center>
+- **[Stephen Hawking][06]**</center>
 
 
 _June 1st, 2018._
@@ -509,7 +509,7 @@ _"The ones you love mean more than anything"_</center>
 
 _April 16th, 2020._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HB6Ch_VAfIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<center>**[2020](https://en.wikipedia.org/wiki/2020)** is a _hell_ of a year.</center>
+<center>**[2020][10]** is a _hell_ of a year.</center>
 
 
 _April 20th, 2020._
@@ -594,7 +594,7 @@ _January 18th, 2021._
 _February 22nd, 2021._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0Gkhol2Q1og" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>_"Hold on, if love is the answer, you're home"_</center>
-<center>Thank you, Daft Punk.</center>
+<center>Thank you, [Daft Punk][03].</center>
 
 
 _March 21st, 2021._
@@ -606,3 +606,14 @@ _March 21st, 2021._
 
 [01]: https://i.imgur.com/ohi5oKo.jpg?1 "The Pineapple Incident"
 [02]: https://i.imgur.com/eWVseMR.png?1 "Mr. Robot Season 1 Finale"
+[03]: https://www.youtube.com/watch?v=DuDX6wNfjqc "Daft Punk Epilogue"
+[04]: https://www.youtube.com/watch?v=CiVLUqopDKA "Radiohead CraZe Mode"
+[05]: https://www.youtube.com/watch?v=INvrv9ppxvQ "Radiohead Sail To The Moon"
+[06]: https://en.wikipedia.org/wiki/Stephen_Hawking "Stephen Hawking Wikipedia"
+[07]: https://www.youtube.com/watch?v=g33-W9t2q2Q "David Bowie The Man Who Sold The World"
+[08]: https://en.wikipedia.org/wiki/California_State_Route_1 "California State Route 1 Wikipedia"
+[09]: https://z10z.xyz/amsterdam-bookingcom-and-me/ "Amsterdam Z10Z Blog Entry"
+[10]: https://en.wikipedia.org/wiki/2020 "2020 Wikipedia"
+[11]: https://en.wikipedia.org/wiki/Tuschinski "Tuschinski Wikipedia"
+[12]: https://media.pathe.nl/gfx_content/bioscoop/Tuschinski/PatheTuschinski_FoyerBeneden1b.jpg "Tuschinski Foyer Photo"
+[13]: https://media.pathe.nl/gfx_content/bioscoop/Tuschinski/PatheTuschinski_Zaal1i.jpg "Tuschinski Big Room Photo"
