@@ -597,6 +597,16 @@ _February 22nd, 2021._
 <center>Thank you, [Daft Punk][03].</center>
 
 
+_February 24th, 2021._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UR42DqGSjjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>From 0 to 1000%.</center>
+
+
+_March 10th, 2021._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mfOpjmQQ9v0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"Soon will be the break of day"_</center>
+
+
 _March 21st, 2021._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sEVTw66txkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>_"キミを待ってたんだ"_</center>
