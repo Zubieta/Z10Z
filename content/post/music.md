@@ -581,7 +581,15 @@ _December 6th, 2020._
 <center>_"It feels like flying, but maybe we're dying, a cosmic confluence of pyramids hologrammed"_</center>
 
 </details>
+<details>
+<summary>2021</summary>
 
+_March 21st, 2021._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sEVTw66txkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"キミを待ってたんだ"_</center>
+
+
+</details>
 
 [01]: https://i.imgur.com/ohi5oKo.jpg?1 "The Pineapple Incident"
 [02]: https://i.imgur.com/eWVseMR.png?1 "Mr. Robot Season 1 Finale"
