@@ -581,6 +581,15 @@ _December 6th, 2020._
 <center>_"It feels like flying, but maybe we're dying, a cosmic confluence of pyramids hologrammed"_</center>
 
 
+_December 30th, 2020._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Cfg4SYjc9cg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"If you find the soul that you lost, frozen in a starry void  
+Take it within and hope the sight of blood, can will signs of life to return  
+Back to the way that it was, long before it made a noise  
+To keep on quietly reminding you, what's never created or destroyed"_
+</center>
+
+
 </details>
 <details>
 <summary>2021</summary>
