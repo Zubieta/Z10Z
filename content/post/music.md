@@ -580,9 +580,22 @@ _December 6th, 2020._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ykdqi8eT1iM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center>_"It feels like flying, but maybe we're dying, a cosmic confluence of pyramids hologrammed"_</center>
 
+
 </details>
 <details>
 <summary>2021</summary>
+
+
+_January 18th, 2021._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MBAJP-3ebDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>It's happening.</center>
+
+
+_February 22nd, 2021._
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0Gkhol2Q1og" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center>_"Hold on, if love is the answer, you're home"_</center>
+<center>Thank you, Daft Punk.</center>
+
 
 _March 21st, 2021._
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sEVTw66txkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
