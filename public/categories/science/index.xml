@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Science on Z10Z</title>
     <link>https://zubie7a.github.io/z10z/categories/science/</link>
     <description>Recent content in Science on Z10Z</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 20 Aug 2019 19:19:23 +0200</lastBuildDate>
-    
-	<atom:link href="https://zubie7a.github.io/z10z/categories/science/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 20 Aug 2019 19:19:23 +0200</lastBuildDate><atom:link href="https://zubie7a.github.io/z10z/categories/science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fundamentals of Reinforcement Learning</title>
       <link>https://zubie7a.github.io/z10z/fundamentals-of-reinforcement-learning/</link>
@@ -45,7 +41,7 @@ In Astronomy, there&amp;rsquo;s tons of data captured by multiple instruments an
       
       <guid>https://zubie7a.github.io/z10z/7-2-1/</guid>
       <description>So, I&amp;rsquo;m fascinated by the numbers 7, 2 and 1 quite a lot. Really. Also any of the multiples of seven, but not so much as seven itself and twenty-one, and the digits of that number, two and one, and then any number with a digits combination of seven, two, and one, for example 721.
-One day in school I was doing some math in my calculator, and needed the result of the 84&amp;frasl;66 fraction.</description>
+One day in school I was doing some math in my calculator, and needed the result of the 84/66 fraction.</description>
     </item>
     
     <item>
@@ -55,9 +51,8 @@ One day in school I was doing some math in my calculator, and needed the result 
       
       <guid>https://zubie7a.github.io/z10z/ad-infinitum/</guid>
       <description>A grid full of individual cells. Each with a color value chosen at random. Overall, there are 12 different colors that wrap around.
-Suddenly, each cell becomes a prey, its hunter, is the &amp;lsquo;next&amp;rsquo; color in the rules:
-1 -&amp;gt; 2 / 2 -&amp;gt; 3 / n -&amp;gt; n+1 / 12 -&amp;gt; 1
-If everything goes according to the plan, a curious linear and cyclical pattern is formed. But then, once in a while, rules change, and chaos appears.</description>
+Suddenly, each cell becomes a prey, its hunter, is the &amp;rsquo;next&amp;rsquo; color in the rules:
+If everything goes according to the plan, a curious linear and cyclical pattern is formed. But then, once in a while, rules change, and chaos appears. This chaos, is the prey fighting back.</description>
     </item>
     
     <item>
@@ -66,10 +61,8 @@ If everything goes according to the plan, a curious linear and cyclical pattern 
       <pubDate>Thu, 10 May 2012 02:19:23 -0500</pubDate>
       
       <guid>https://zubie7a.github.io/z10z/shine-on-you-crazy-fractal/</guid>
-      <description>&amp;ldquo;For all those Fractal Hearts, Convoluted, and complex.
-No matter how deep, full of detail. The intrinsic shape of The Universe&amp;rdquo;
-
-This is a simulation made in C++ with SFML 2.0. Every frame is a Julia Set fractal rendered with a slightly varying initial parameter, and fractals with neighboring initial parameters are very similar, so it gives the illusion that its evolving. You can find the code at GitHub.</description>
+      <description>This is a simulation made in C++ with SFML 2.0. Every frame is a Julia Set fractal rendered with a slightly varying initial parameter, and fractals with neighboring initial parameters are very similar, so it gives the illusion that its evolving. You can find the code at GitHub.
+The first strategy for varying the initial parameter is like a row by row scan of points of the complex plane from the uppermost left corner down the the lowermost right corner.</description>
     </item>
     
   </channel>

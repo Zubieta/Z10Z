@@ -144,106 +144,87 @@
 	
 	<div class="entry-content">
 		<p>These are some small experiments with bitwise operations and trigonometric functions I made long time ago. The basic premise is that every pixel coordinate of the image, <code>(i, j)</code>, is evaluated on a loop based on a formula using either <strong>bitwise operations</strong>, <strong>trigonometric functions</strong>, or a mix of both. This combination gives emergence to some surprising and very interesting patterns!</p>
-
-<pre><code>// Mod operations are also to prevent values going over 255,
+<pre tabindex="0"><code>// Mod operations are also to prevent values going over 255,
 // because the RGB range is [0, 255].
 // (i, j) is every pixel coordinate in a loop.
 int x = (i % 255) + (j % 255);
 x %= 255;
 int r = x % 255;
-// Let's make use of the &amp; bitwise operation.
+// Let&#39;s make use of the &amp; bitwise operation.
 int g = (x &amp; i) % 255;
 int b = (x &amp; j) % 255; 
 g.setColor(new Color(r, g, b));
 g.drawRect(1024 - i,780 - j, 1, 1);
-</code></pre>
-
-<p><a href="https://i.imgur.com/IAD0lD7.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/IAD0lD7.jpg" alt="01" title="Bitwise Pattern Generator" /></a></p>
-
+</code></pre><p><a href="https://i.imgur.com/IAD0lD7.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/IAD0lD7.jpg" alt="01" title="Bitwise Pattern Generator"></a></p>
 <p>Here are some other interesting results:</p>
-
 <table>
 <thead>
 <tr>
-<th><a href="https://i.imgur.com/BEp1pQs.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/BEp1pQs.jpg" alt="02" title="Bitwise Pattern Generator" /></a></th>
-<th><a href="https://i.imgur.com/FQbKUje.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/FQbKUje.jpg" alt="03" title="Bitwise Pattern Generator" /></a></th>
-<th><a href="https://i.imgur.com/4FCQolo.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/4FCQolo.jpg" alt="04" title="Bitwise Pattern Generator" /></a></th>
+<th><a href="https://i.imgur.com/BEp1pQs.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/BEp1pQs.jpg" alt="02" title="Bitwise Pattern Generator"></a></th>
+<th><a href="https://i.imgur.com/FQbKUje.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/FQbKUje.jpg" alt="03" title="Bitwise Pattern Generator"></a></th>
+<th><a href="https://i.imgur.com/4FCQolo.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/4FCQolo.jpg" alt="04" title="Bitwise Pattern Generator"></a></th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
-<td><a href="https://i.imgur.com/dGGLFHX.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/dGGLFHX.jpg" alt="05" title="Bitwise Pattern Generator" /></a></td>
-<td><a href="https://i.imgur.com/bJKH6vj.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/bJKH6vj.jpg" alt="07" title="Bitwise Pattern Generator" /></a></td>
-<td><a href="https://i.imgur.com/HwHEv86.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/HwHEv86.jpg" alt="09" title="Bitwise Pattern Generator" /></a></td>
+<td><a href="https://i.imgur.com/dGGLFHX.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/dGGLFHX.jpg" alt="05" title="Bitwise Pattern Generator"></a></td>
+<td><a href="https://i.imgur.com/bJKH6vj.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/bJKH6vj.jpg" alt="07" title="Bitwise Pattern Generator"></a></td>
+<td><a href="https://i.imgur.com/HwHEv86.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/HwHEv86.jpg" alt="09" title="Bitwise Pattern Generator"></a></td>
 </tr>
-
 <tr>
-<td><a href="https://i.imgur.com/FN2YRqX.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/FN2YRqX.jpg" alt="10" title="Bitwise Pattern Generator" /></a></td>
-<td><a href="https://i.imgur.com/TcPxUEm.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/TcPxUEm.jpg" alt="12" title="Bitwise Pattern Generator" /></a></td>
-<td><a href="https://i.imgur.com/mr8Uwl3.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/mr8Uwl3.jpg" alt="13" title="Bitwise Pattern Generator" /></a></td>
+<td><a href="https://i.imgur.com/FN2YRqX.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/FN2YRqX.jpg" alt="10" title="Bitwise Pattern Generator"></a></td>
+<td><a href="https://i.imgur.com/TcPxUEm.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/TcPxUEm.jpg" alt="12" title="Bitwise Pattern Generator"></a></td>
+<td><a href="https://i.imgur.com/mr8Uwl3.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/mr8Uwl3.jpg" alt="13" title="Bitwise Pattern Generator"></a></td>
 </tr>
-
 <tr>
-<td><a href="https://i.imgur.com/z4P7lhR.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/z4P7lhR.jpg" alt="14" title="Bitwise Pattern Generator" /></a></td>
-<td><a href="https://i.imgur.com/G1qPxIB.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/G1qPxIB.jpg" alt="06" title="Bitwise Pattern Generator" /></a></td>
-<td><a href="https://i.imgur.com/CX6ZbQX.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/CX6ZbQX.jpg" alt="16" title="Bitwise Pattern Generator" /></a></td>
+<td><a href="https://i.imgur.com/z4P7lhR.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/z4P7lhR.jpg" alt="14" title="Bitwise Pattern Generator"></a></td>
+<td><a href="https://i.imgur.com/G1qPxIB.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/G1qPxIB.jpg" alt="06" title="Bitwise Pattern Generator"></a></td>
+<td><a href="https://i.imgur.com/CX6ZbQX.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/CX6ZbQX.jpg" alt="16" title="Bitwise Pattern Generator"></a></td>
 </tr>
 </tbody>
 </table>
-
 <p>This next one has some sort of a <a href="https://en.wikipedia.org/wiki/Moir%C3%A9_pattern">Moiré pattern</a>, and also looks like a recursive or fractal structure. It has been feature in Paul Bourke&rsquo;s wonderful <a href="http://paulbourke.net/fractals/circlesquares/">fractal collection</a>, and apparently different kind of mathematical methods give patterns very similar to this.</p>
-
-<pre><code>int x = (i * i) - (2 * (i | j)) + (j * j);
+<pre tabindex="0"><code>int x = (i * i) - (2 * (i | j)) + (j * j);
 x %= 255;
 x = Math.abs(x);
 g.setColor(new Color(x, x, x));
 g.drawRect(i, j, 1, 1);
-</code></pre>
-
-<p><a href="https://i.imgur.com/EUxTKPG.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/EUxTKPG.jpg" alt="17" title="Bitwise Pattern Generator" /></a></p>
-
+</code></pre><p><a href="https://i.imgur.com/EUxTKPG.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/EUxTKPG.jpg" alt="17" title="Bitwise Pattern Generator"></a></p>
 <p>Now, some <strong>really crazy</strong> patterns, <em>perhaps</em> some day I&rsquo;ll tell you how these are generated ;-)</p>
-
 <table>
 <thead>
 <tr>
-<th><a href="https://i.imgur.com/uyuR4x1.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/uyuR4x1.png" alt="18" title="Bitwise Pattern Generator" /></a></th>
-<th><a href="https://i.imgur.com/XcQXdnx.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/XcQXdnx.png" alt="19" title="Bitwise Pattern Generator" /></a></th>
-<th><a href="https://i.imgur.com/7Y45Cmq.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/7Y45Cmq.png" alt="20" title="Bitwise Pattern Generator" /></a></th>
+<th><a href="https://i.imgur.com/uyuR4x1.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/uyuR4x1.png" alt="18" title="Bitwise Pattern Generator"></a></th>
+<th><a href="https://i.imgur.com/XcQXdnx.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/XcQXdnx.png" alt="19" title="Bitwise Pattern Generator"></a></th>
+<th><a href="https://i.imgur.com/7Y45Cmq.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/7Y45Cmq.png" alt="20" title="Bitwise Pattern Generator"></a></th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
-<td><a href="https://i.imgur.com/t03dc4L.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/t03dc4L.png" alt="21" title="Bitwise Pattern Generator" /></a></td>
-<td><a href="https://i.imgur.com/cY5ea0y.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/cY5ea0y.jpg" alt="22" title="Bitwise Pattern Generator" /></a></td>
-<td><a href="https://i.imgur.com/duJSw3W.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/duJSw3W.png" alt="23" title="Bitwise Pattern Generator" /></a></td>
+<td><a href="https://i.imgur.com/t03dc4L.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/t03dc4L.png" alt="21" title="Bitwise Pattern Generator"></a></td>
+<td><a href="https://i.imgur.com/cY5ea0y.jpg" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/cY5ea0y.jpg" alt="22" title="Bitwise Pattern Generator"></a></td>
+<td><a href="https://i.imgur.com/duJSw3W.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/duJSw3W.png" alt="23" title="Bitwise Pattern Generator"></a></td>
 </tr>
 </tbody>
 </table>
-
 <p>Finally there&rsquo;s these small tiles, which are just a part of a larger previously generated pattern. But there&rsquo;s just something so special about these, I can&rsquo;t tell exactly why, but it surprises me that such a pattern can emerge from purely mathematical operations.</p>
-
 <table>
 <thead>
 <tr>
-<th><a href="https://i.imgur.com/AzkH0rT.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/AzkH0rT.png" alt="25" title="Bitwise Pattern Generator" /></a></th>
-<th><a href="https://i.imgur.com/MEwV9Aa.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/MEwV9Aa.png" alt="26" title="Bitwise Pattern Generator" /></a></th>
-<th><a href="https://i.imgur.com/GYoItR8.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/GYoItR8.png" alt="27" title="Bitwise Pattern Generator" /></a></th>
+<th><a href="https://i.imgur.com/AzkH0rT.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/AzkH0rT.png" alt="25" title="Bitwise Pattern Generator"></a></th>
+<th><a href="https://i.imgur.com/MEwV9Aa.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/MEwV9Aa.png" alt="26" title="Bitwise Pattern Generator"></a></th>
+<th><a href="https://i.imgur.com/GYoItR8.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/GYoItR8.png" alt="27" title="Bitwise Pattern Generator"></a></th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
-<td><a href="https://i.imgur.com/tbZTmUz.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/tbZTmUz.png" alt="28" title="Bitwise Pattern Generator" /></a></td>
-<td><a href="https://i.imgur.com/a1Ge1uN.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/a1Ge1uN.png" alt="29" title="Bitwise Pattern Generator" /></a></td>
-<td><a href="https://i.imgur.com/DRr80cL.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/DRr80cL.png" alt="30" title="Bitwise Pattern Generator" /></a></td>
+<td><a href="https://i.imgur.com/tbZTmUz.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/tbZTmUz.png" alt="28" title="Bitwise Pattern Generator"></a></td>
+<td><a href="https://i.imgur.com/a1Ge1uN.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/a1Ge1uN.png" alt="29" title="Bitwise Pattern Generator"></a></td>
+<td><a href="https://i.imgur.com/DRr80cL.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/DRr80cL.png" alt="30" title="Bitwise Pattern Generator"></a></td>
 </tr>
 </tbody>
 </table>
-
-<p><a href="https://i.imgur.com/74lsC87.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/74lsC87.png" alt="24" title="Bitwise Pattern Generator" /></a></p>
+<p><a href="https://i.imgur.com/74lsC87.png" title="Bitwise Pattern Generator"><img src="https://i.imgur.com/74lsC87.png" alt="24" title="Bitwise Pattern Generator"></a></p>
 
 	</div>
 

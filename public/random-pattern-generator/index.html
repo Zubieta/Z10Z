@@ -143,160 +143,132 @@
 	</header>
 	
 	<div class="entry-content">
-		<p><a href="https://i.imgur.com/wnL9lks.png" title="Imgur"><img src="https://i.imgur.com/wnL9lks.png" alt="" title="Imgur" /></a></p>
-
+		<p><a href="https://i.imgur.com/wnL9lks.png" title="Imgur"><img src="https://i.imgur.com/wnL9lks.png" alt="" title="Imgur"></a></p>
 <p>During the boredom of staying <em>a lot</em> at home in <em><strong><a href="https://en.wikipedia.org/wiki/2020">2020</a></strong></em>, I got inspiration from <a href="https://twitter.com/infrahumano">@infrahumano</a> to start playing around with a certain mechanism of pattern generation, outlined in his blog post <em>(in Spanish)</em> <a href="https://infrahumano.github.io/exterior/2020/04/04/noche.html">https://infrahumano.github.io/exterior/2020/04/04/noche.html</a>. After that, we started a long thread in which we went along making improvements, suggestions to each other, and a lot of experimenting seeking to make these patterns look nicer. He then made a new post with such results <em>(in Spanish)</em> <a href="https://infrahumano.github.io/exterior/2020/04/05/noche.html">https://infrahumano.github.io/exterior/2020/04/05/noche.html</a>.</p>
-
 <p>The premise is simple, with a grid-paper, start flipping coins, to put alternating lines, as shown here, this is the original tweet that inspired <a href="https://twitter.com/infrahumano">@infrahumano</a> to start working on this:</p>
-
-<p><center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">As promised, here is <a href="https://twitter.com/maths_kath?ref_src=twsrc%5Etfw">@maths_kath</a>’s <a href="https://twitter.com/hashtag/mathartchallenge?src=hash&amp;ref_src=twsrc%5Etfw">#mathartchallenge</a>! <br><br>Based on traditional Japanese stitching, this is a riff on hitomezashi patterns. Using grid paper, give each line (vertical &amp; horizontal) a 0 or 1. (See pictures below, too,) “Stitch” each line accordingly. <a href="https://twitter.com/hashtag/mtbos?src=hash&amp;ref_src=twsrc%5Etfw">#mtbos</a> <a href="https://twitter.com/hashtag/mathart?src=hash&amp;ref_src=twsrc%5Etfw">#mathart</a> <a href="https://t.co/6i0zYx2rI4">pic.twitter.com/6i0zYx2rI4</a></p>&mdash; Annie Perkins (@anniek_p) <a href="https://twitter.com/anniek_p/status/1244220881347502080?ref_src=twsrc%5Etfw">March 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center></p>
-
+<!-- raw HTML omitted -->
 <p>I followed these steps and also created a vertical and horizontal mirroring of the grid. The next step once the grid was complete, was to fill the cells with different colors using the good old <strong>Breadth-First Search</strong> algorithm! My first results were something like this:</p>
-
-<p><a href="https://i.imgur.com/Y9lfFtE.png" title="Imgur"><img src="https://i.imgur.com/Y9lfFtE.png" alt="" title="Imgur" /></a></p>
-
+<p><a href="https://i.imgur.com/Y9lfFtE.png" title="Imgur"><img src="https://i.imgur.com/Y9lfFtE.png" alt="" title="Imgur"></a></p>
 <table>
 <thead>
 <tr>
-<th><a href="https://i.imgur.com/jEHQWKy.png" title="Imgur"><img src="https://i.imgur.com/jEHQWKy.png" alt="" title="Imgur" /></a></th>
-<th><a href="https://i.imgur.com/ssTsgQK.png" title="Imgur"><img src="https://i.imgur.com/ssTsgQK.png" alt="" title="Imgur" /></a></th>
-<th><a href="https://i.imgur.com/jRwsuFs.png" title="Imgur"><img src="https://i.imgur.com/jRwsuFs.png" alt="" title="Imgur" /></a></th>
+<th><a href="https://i.imgur.com/jEHQWKy.png" title="Imgur"><img src="https://i.imgur.com/jEHQWKy.png" alt="" title="Imgur"></a></th>
+<th><a href="https://i.imgur.com/ssTsgQK.png" title="Imgur"><img src="https://i.imgur.com/ssTsgQK.png" alt="" title="Imgur"></a></th>
+<th><a href="https://i.imgur.com/jRwsuFs.png" title="Imgur"><img src="https://i.imgur.com/jRwsuFs.png" alt="" title="Imgur"></a></th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
-<td><a href="https://i.imgur.com/9Mv4vQn.png" title="Imgur"><img src="https://i.imgur.com/9Mv4vQn.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/p3uotnQ.png" title="Imgur"><img src="https://i.imgur.com/p3uotnQ.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/ySTZAUf.png" title="Imgur"><img src="https://i.imgur.com/ySTZAUf.png" alt="" title="Imgur" /></a></td>
+<td><a href="https://i.imgur.com/9Mv4vQn.png" title="Imgur"><img src="https://i.imgur.com/9Mv4vQn.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/p3uotnQ.png" title="Imgur"><img src="https://i.imgur.com/p3uotnQ.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/ySTZAUf.png" title="Imgur"><img src="https://i.imgur.com/ySTZAUf.png" alt="" title="Imgur"></a></td>
 </tr>
 </tbody>
 </table>
-
 <p>After such nice first results, I kept playing with more strategies to select colors, increase resolution, etc, and these are some of the best results:</p>
-
 <table>
 <thead>
 <tr>
-<th><a href="https://i.imgur.com/9vZhOOY.png" title="Imgur"><img src="https://i.imgur.com/9vZhOOY.png" alt="" title="Imgur" /></a></th>
-<th><a href="https://i.imgur.com/AnZia7b.png" title="Imgur"><img src="https://i.imgur.com/AnZia7b.png" alt="" title="Imgur" /></a></th>
-<th><a href="https://i.imgur.com/OX1iiaN.png" title="Imgur"><img src="https://i.imgur.com/OX1iiaN.png" alt="" title="Imgur" /></a></th>
+<th><a href="https://i.imgur.com/9vZhOOY.png" title="Imgur"><img src="https://i.imgur.com/9vZhOOY.png" alt="" title="Imgur"></a></th>
+<th><a href="https://i.imgur.com/AnZia7b.png" title="Imgur"><img src="https://i.imgur.com/AnZia7b.png" alt="" title="Imgur"></a></th>
+<th><a href="https://i.imgur.com/OX1iiaN.png" title="Imgur"><img src="https://i.imgur.com/OX1iiaN.png" alt="" title="Imgur"></a></th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
-<td><a href="https://i.imgur.com/R7t7lAp.png" title="Imgur"><img src="https://i.imgur.com/R7t7lAp.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/dmrAxWw.png" title="Imgur"><img src="https://i.imgur.com/dmrAxWw.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/OG5ULJm.png" title="Imgur"><img src="https://i.imgur.com/OG5ULJm.png" alt="" title="Imgur" /></a></td>
+<td><a href="https://i.imgur.com/R7t7lAp.png" title="Imgur"><img src="https://i.imgur.com/R7t7lAp.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/dmrAxWw.png" title="Imgur"><img src="https://i.imgur.com/dmrAxWw.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/OG5ULJm.png" title="Imgur"><img src="https://i.imgur.com/OG5ULJm.png" alt="" title="Imgur"></a></td>
 </tr>
-
 <tr>
-<td><a href="https://i.imgur.com/vKmFad3.png" title="Imgur"><img src="https://i.imgur.com/vKmFad3.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/EKqllFt.png" title="Imgur"><img src="https://i.imgur.com/EKqllFt.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/Z65vSi9.png" title="Imgur"><img src="https://i.imgur.com/Z65vSi9.png" alt="" title="Imgur" /></a></td>
+<td><a href="https://i.imgur.com/vKmFad3.png" title="Imgur"><img src="https://i.imgur.com/vKmFad3.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/EKqllFt.png" title="Imgur"><img src="https://i.imgur.com/EKqllFt.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/Z65vSi9.png" title="Imgur"><img src="https://i.imgur.com/Z65vSi9.png" alt="" title="Imgur"></a></td>
 </tr>
-
 <tr>
-<td><a href="https://i.imgur.com/OLo8VAg.png" title="Imgur"><img src="https://i.imgur.com/OLo8VAg.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/Z17JfwO.png" title="Imgur"><img src="https://i.imgur.com/Z17JfwO.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/BDljd1q.png" title="Imgur"><img src="https://i.imgur.com/BDljd1q.png" alt="" title="Imgur" /></a></td>
+<td><a href="https://i.imgur.com/OLo8VAg.png" title="Imgur"><img src="https://i.imgur.com/OLo8VAg.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/Z17JfwO.png" title="Imgur"><img src="https://i.imgur.com/Z17JfwO.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/BDljd1q.png" title="Imgur"><img src="https://i.imgur.com/BDljd1q.png" alt="" title="Imgur"></a></td>
 </tr>
-
 <tr>
-<td><a href="https://i.imgur.com/u2OyUHV.png" title="Imgur"><img src="https://i.imgur.com/u2OyUHV.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/zHCQwov.png" title="Imgur"><img src="https://i.imgur.com/zHCQwov.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/YIEJ0qf.png" title="Imgur"><img src="https://i.imgur.com/YIEJ0qf.png" alt="" title="Imgur" /></a></td>
+<td><a href="https://i.imgur.com/u2OyUHV.png" title="Imgur"><img src="https://i.imgur.com/u2OyUHV.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/zHCQwov.png" title="Imgur"><img src="https://i.imgur.com/zHCQwov.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/YIEJ0qf.png" title="Imgur"><img src="https://i.imgur.com/YIEJ0qf.png" alt="" title="Imgur"></a></td>
 </tr>
-
 <tr>
-<td><a href="https://i.imgur.com/TZmaCMw.png" title="Imgur"><img src="https://i.imgur.com/TZmaCMw.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/MSwkHan.png" title="Imgur"><img src="https://i.imgur.com/MSwkHan.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/tVHvPBS.png" title="Imgur"><img src="https://i.imgur.com/tVHvPBS.png" alt="" title="Imgur" /></a></td>
+<td><a href="https://i.imgur.com/TZmaCMw.png" title="Imgur"><img src="https://i.imgur.com/TZmaCMw.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/MSwkHan.png" title="Imgur"><img src="https://i.imgur.com/MSwkHan.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/tVHvPBS.png" title="Imgur"><img src="https://i.imgur.com/tVHvPBS.png" alt="" title="Imgur"></a></td>
 </tr>
-
 <tr>
-<td><a href="https://i.imgur.com/ft9DQkV.png" title="Imgur"><img src="https://i.imgur.com/ft9DQkV.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/qnc1JSR.png" title="Imgur"><img src="https://i.imgur.com/qnc1JSR.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/7swBkvu.png" title="Imgur"><img src="https://i.imgur.com/7swBkvu.png" alt="" title="Imgur" /></a></td>
+<td><a href="https://i.imgur.com/ft9DQkV.png" title="Imgur"><img src="https://i.imgur.com/ft9DQkV.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/qnc1JSR.png" title="Imgur"><img src="https://i.imgur.com/qnc1JSR.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/7swBkvu.png" title="Imgur"><img src="https://i.imgur.com/7swBkvu.png" alt="" title="Imgur"></a></td>
 </tr>
-
 <tr>
-<td><a href="https://i.imgur.com/1x5ymDX.png" title="Imgur"><img src="https://i.imgur.com/1x5ymDX.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/krjH2kL.png" title="Imgur"><img src="https://i.imgur.com/krjH2kL.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/HLGSc1E.png" title="Imgur"><img src="https://i.imgur.com/HLGSc1E.png" alt="" title="Imgur" /></a></td>
+<td><a href="https://i.imgur.com/1x5ymDX.png" title="Imgur"><img src="https://i.imgur.com/1x5ymDX.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/krjH2kL.png" title="Imgur"><img src="https://i.imgur.com/krjH2kL.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/HLGSc1E.png" title="Imgur"><img src="https://i.imgur.com/HLGSc1E.png" alt="" title="Imgur"></a></td>
 </tr>
-
 <tr>
-<td><a href="https://i.imgur.com/BFyPFUF.png" title="Imgur"><img src="https://i.imgur.com/BFyPFUF.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/aJEkzYO.png" title="Imgur"><img src="https://i.imgur.com/aJEkzYO.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/SqNHjPa.png" title="Imgur"><img src="https://i.imgur.com/SqNHjPa.png" alt="" title="Imgur" /></a></td>
+<td><a href="https://i.imgur.com/BFyPFUF.png" title="Imgur"><img src="https://i.imgur.com/BFyPFUF.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/aJEkzYO.png" title="Imgur"><img src="https://i.imgur.com/aJEkzYO.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/SqNHjPa.png" title="Imgur"><img src="https://i.imgur.com/SqNHjPa.png" alt="" title="Imgur"></a></td>
 </tr>
-
 <tr>
-<td><a href="https://i.imgur.com/XvQv6JS.png" title="Imgur"><img src="https://i.imgur.com/XvQv6JS.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/iIpZASK.png" title="Imgur"><img src="https://i.imgur.com/iIpZASK.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/fRfZjYy.png" title="Imgur"><img src="https://i.imgur.com/fRfZjYy.png" alt="" title="Imgur" /></a></td>
+<td><a href="https://i.imgur.com/XvQv6JS.png" title="Imgur"><img src="https://i.imgur.com/XvQv6JS.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/iIpZASK.png" title="Imgur"><img src="https://i.imgur.com/iIpZASK.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/fRfZjYy.png" title="Imgur"><img src="https://i.imgur.com/fRfZjYy.png" alt="" title="Imgur"></a></td>
 </tr>
-
 <tr>
-<td><a href="https://i.imgur.com/ZA5FJA6.png" title="Imgur"><img src="https://i.imgur.com/ZA5FJA6.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/l7jlupF.png" title="Imgur"><img src="https://i.imgur.com/l7jlupF.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/Wq5hTZW.png" title="Imgur"><img src="https://i.imgur.com/Wq5hTZW.png" alt="" title="Imgur" /></a></td>
+<td><a href="https://i.imgur.com/ZA5FJA6.png" title="Imgur"><img src="https://i.imgur.com/ZA5FJA6.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/l7jlupF.png" title="Imgur"><img src="https://i.imgur.com/l7jlupF.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/Wq5hTZW.png" title="Imgur"><img src="https://i.imgur.com/Wq5hTZW.png" alt="" title="Imgur"></a></td>
 </tr>
-
 <tr>
-<td><a href="https://i.imgur.com/9DaKieE.png" title="Imgur"><img src="https://i.imgur.com/9DaKieE.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/HAEDMNO.png" title="Imgur"><img src="https://i.imgur.com/HAEDMNO.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/LAdoscW.png" title="Imgur"><img src="https://i.imgur.com/LAdoscW.png" alt="" title="Imgur" /></a></td>
+<td><a href="https://i.imgur.com/9DaKieE.png" title="Imgur"><img src="https://i.imgur.com/9DaKieE.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/HAEDMNO.png" title="Imgur"><img src="https://i.imgur.com/HAEDMNO.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/LAdoscW.png" title="Imgur"><img src="https://i.imgur.com/LAdoscW.png" alt="" title="Imgur"></a></td>
 </tr>
-
 <tr>
-<td><a href="https://i.imgur.com/7hrlbf8.png" title="Imgur"><img src="https://i.imgur.com/7hrlbf8.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/QVbdniF.png" title="Imgur"><img src="https://i.imgur.com/QVbdniF.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/z7gpXv5.png" title="Imgur"><img src="https://i.imgur.com/z7gpXv5.png" alt="" title="Imgur" /></a></td>
+<td><a href="https://i.imgur.com/7hrlbf8.png" title="Imgur"><img src="https://i.imgur.com/7hrlbf8.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/QVbdniF.png" title="Imgur"><img src="https://i.imgur.com/QVbdniF.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/z7gpXv5.png" title="Imgur"><img src="https://i.imgur.com/z7gpXv5.png" alt="" title="Imgur"></a></td>
 </tr>
-
 <tr>
-<td><a href="https://i.imgur.com/u3X4u5J.png" title="Imgur"><img src="https://i.imgur.com/u3X4u5J.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/IW6Zumx.png" title="Imgur"><img src="https://i.imgur.com/IW6Zumx.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/ea7FA6Y.png" title="Imgur"><img src="https://i.imgur.com/ea7FA6Y.png" alt="" title="Imgur" /></a></td>
+<td><a href="https://i.imgur.com/u3X4u5J.png" title="Imgur"><img src="https://i.imgur.com/u3X4u5J.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/IW6Zumx.png" title="Imgur"><img src="https://i.imgur.com/IW6Zumx.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/ea7FA6Y.png" title="Imgur"><img src="https://i.imgur.com/ea7FA6Y.png" alt="" title="Imgur"></a></td>
 </tr>
-
 <tr>
-<td><a href="https://i.imgur.com/MlsEvHU.png" title="Imgur"><img src="https://i.imgur.com/MlsEvHU.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/9PBbx3W.png" title="Imgur"><img src="https://i.imgur.com/9PBbx3W.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/ExuWnLA.png" title="Imgur"><img src="https://i.imgur.com/ExuWnLA.png" alt="" title="Imgur" /></a></td>
+<td><a href="https://i.imgur.com/MlsEvHU.png" title="Imgur"><img src="https://i.imgur.com/MlsEvHU.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/9PBbx3W.png" title="Imgur"><img src="https://i.imgur.com/9PBbx3W.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/ExuWnLA.png" title="Imgur"><img src="https://i.imgur.com/ExuWnLA.png" alt="" title="Imgur"></a></td>
 </tr>
-
 <tr>
-<td><a href="https://i.imgur.com/j9cERcY.png" title="Imgur"><img src="https://i.imgur.com/j9cERcY.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/czT8QqC.png" title="Imgur"><img src="https://i.imgur.com/czT8QqC.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/cQIy9JN.png" title="Imgur"><img src="https://i.imgur.com/cQIy9JN.png" alt="" title="Imgur" /></a></td>
+<td><a href="https://i.imgur.com/j9cERcY.png" title="Imgur"><img src="https://i.imgur.com/j9cERcY.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/czT8QqC.png" title="Imgur"><img src="https://i.imgur.com/czT8QqC.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/cQIy9JN.png" title="Imgur"><img src="https://i.imgur.com/cQIy9JN.png" alt="" title="Imgur"></a></td>
 </tr>
-
 <tr>
-<td><a href="https://i.imgur.com/6NhLkgR.png" title="Imgur"><img src="https://i.imgur.com/6NhLkgR.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/DuHtJrr.png" title="Imgur"><img src="https://i.imgur.com/DuHtJrr.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/dtbqQcz.png" title="Imgur"><img src="https://i.imgur.com/dtbqQcz.png" alt="" title="Imgur" /></a></td>
+<td><a href="https://i.imgur.com/6NhLkgR.png" title="Imgur"><img src="https://i.imgur.com/6NhLkgR.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/DuHtJrr.png" title="Imgur"><img src="https://i.imgur.com/DuHtJrr.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/dtbqQcz.png" title="Imgur"><img src="https://i.imgur.com/dtbqQcz.png" alt="" title="Imgur"></a></td>
 </tr>
-
 <tr>
-<td><a href="https://i.imgur.com/TLtaTD3.png" title="Imgur"><img src="https://i.imgur.com/TLtaTD3.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/gZQwXQY.png" title="Imgur"><img src="https://i.imgur.com/gZQwXQY.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/RIzUsGE.png" title="Imgur"><img src="https://i.imgur.com/RIzUsGE.png" alt="" title="Imgur" /></a></td>
+<td><a href="https://i.imgur.com/TLtaTD3.png" title="Imgur"><img src="https://i.imgur.com/TLtaTD3.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/gZQwXQY.png" title="Imgur"><img src="https://i.imgur.com/gZQwXQY.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/RIzUsGE.png" title="Imgur"><img src="https://i.imgur.com/RIzUsGE.png" alt="" title="Imgur"></a></td>
 </tr>
-
 <tr>
-<td><a href="https://i.imgur.com/33rJrMA.png" title="Imgur"><img src="https://i.imgur.com/33rJrMA.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/NVtqlyh.png" title="Imgur"><img src="https://i.imgur.com/NVtqlyh.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/11d3ye1.png" title="Imgur"><img src="https://i.imgur.com/11d3ye1.png" alt="" title="Imgur" /></a></td>
+<td><a href="https://i.imgur.com/33rJrMA.png" title="Imgur"><img src="https://i.imgur.com/33rJrMA.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/NVtqlyh.png" title="Imgur"><img src="https://i.imgur.com/NVtqlyh.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/11d3ye1.png" title="Imgur"><img src="https://i.imgur.com/11d3ye1.png" alt="" title="Imgur"></a></td>
 </tr>
-
 <tr>
-<td><a href="https://i.imgur.com/XnsykE8.png" title="Imgur"><img src="https://i.imgur.com/XnsykE8.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/K7Gcj4b.png" title="Imgur"><img src="https://i.imgur.com/K7Gcj4b.png" alt="" title="Imgur" /></a></td>
-<td><a href="https://i.imgur.com/8tniLjj.png" title="Imgur"><img src="https://i.imgur.com/8tniLjj.png" alt="" title="Imgur" /></a></td>
+<td><a href="https://i.imgur.com/XnsykE8.png" title="Imgur"><img src="https://i.imgur.com/XnsykE8.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/K7Gcj4b.png" title="Imgur"><img src="https://i.imgur.com/K7Gcj4b.png" alt="" title="Imgur"></a></td>
+<td><a href="https://i.imgur.com/8tniLjj.png" title="Imgur"><img src="https://i.imgur.com/8tniLjj.png" alt="" title="Imgur"></a></td>
 </tr>
 </tbody>
 </table>

@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life on Z10Z</title>
     <link>https://zubie7a.github.io/z10z/categories/life/</link>
     <description>Recent content in Life on Z10Z</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 22 Aug 2020 13:42:13 +0200</lastBuildDate>
-    
-	<atom:link href="https://zubie7a.github.io/z10z/categories/life/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 22 Aug 2020 13:42:13 +0200</lastBuildDate><atom:link href="https://zubie7a.github.io/z10z/categories/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seven Years Pt. III</title>
       <link>https://zubie7a.github.io/z10z/seven-years-pt-iii/</link>
@@ -26,8 +22,7 @@ I have been &amp;ldquo;working from home&amp;rdquo; since March. Some people wou
       <pubDate>Sun, 18 Aug 2019 13:42:13 +0200</pubDate>
       
       <guid>https://zubie7a.github.io/z10z/seven-years-pt-ii/</guid>
-      <description>&amp;ldquo;Starting is easy, persistence is an art&amp;rdquo;
-For a long time in my life, I just went with the flow, pursuing whatever interesting opportunities came available, but without much of an overarching goal and a plan to reach it. This direction started changing last year with this deep discussion about things seven years in the future, which planted in my head the idea of seeking an ultimate goal, or at least find such a goal for myself.</description>
+      <description>For a long time in my life, I just went with the flow, pursuing whatever interesting opportunities came available, but without much of an overarching goal and a plan to reach it. This direction started changing last year with this deep discussion about things seven years in the future, which planted in my head the idea of seeking an ultimate goal, or at least find such a goal for myself.</description>
     </item>
     
     <item>
@@ -37,7 +32,6 @@ For a long time in my life, I just went with the flow, pursuing whatever interes
       
       <guid>https://zubie7a.github.io/z10z/seven-years-pt-i/</guid>
       <description>It was during a sort of deep talk at lunch with my teammates, that I had a deep discussion with Hadi about the future. I talked about the goals I wanted to reach, all the things I wanted to learn, but how far away or out of reach they seemed. He then told me something like
-&amp;ldquo;Let&amp;rsquo;s see in seven years where are you at&amp;rdquo;
 It was something like a challenge and at the same time a promise, an expectation, a motivation.</description>
     </item>
     
@@ -67,8 +61,7 @@ The process was surprisingly fast, from the moment I had my on-site interviews u
       <pubDate>Tue, 26 Jan 2016 02:42:21 -0500</pubDate>
       
       <guid>https://zubie7a.github.io/z10z/system-failure/</guid>
-      <description>&amp;ldquo;All we need to survive is one person who truly loves us&amp;rdquo;
-Sometimes I forget, and then I remember. Sometimes I&amp;rsquo;m aimless but then I recover my direction. The words that help me remember my purpose get lost in thoughts but then come back and I remember what I have to do.</description>
+      <description>Sometimes I forget, and then I remember. Sometimes I&amp;rsquo;m aimless but then I recover my direction. The words that help me remember my purpose get lost in thoughts but then come back and I remember what I have to do.</description>
     </item>
     
     <item>
