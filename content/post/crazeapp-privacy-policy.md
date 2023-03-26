@@ -8,10 +8,10 @@ title = "CraZeApp Privacy Policy"
 +++
 
 ### Overview
-This Privacy Policy describes how your personal information is handled in **CraZeApp** for iOS.
+This Privacy Policy describes how your personal information is handled in **CraZeApp** for iOS and Android.
 
 ### We Collect No Personal Information Using Our Applications
-We do not collect, use, save, or have access to any of your personal data recorded in **CraZeApp** for iOS.
+We do not collect, use, save, or have access to any of your personal data recorded in **CraZeApp** for iOS and Android.
 
 Individual settings relating to **CraZeApp** are not personal and are stored only on your device. You might also be asked to provide access to your photo library, but this is only so you can save your drawings from **CraZeApp**. We don’t process that information at all and have no access to it.
 
