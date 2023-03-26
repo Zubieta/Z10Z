@@ -144,18 +144,12 @@
 	
 	<div class="entry-content">
 		<p>For years I&rsquo;ve tracked the music I listen to, either my <strong>iTunes</strong> playbacks with the <a href="https://www.last.fm/about/trackmymusic"><strong>Last.fm</strong> scrobbler</a>, or by listening to music on <strong>Spotify</strong> and synchronizing that with <strong>Last.fm</strong> as well.</p>
-
 <p><strong>Last.fm</strong> keeps track of all that data about <em>songs</em>, <em>albums</em>, and <em>artists</em> you&rsquo;ve played, and there&rsquo;s some nice information that they aggregate and present to you as an user. However, I wanted to do <em>my own</em> kind of aggregations and visualizations, but retrieving <em><strong>my own</strong> music listening history</em> data seemed just too difficult as an user.</p>
-
 <p><strong>Last.fm</strong> used to have many years ago a <strong>Data Export</strong> feature, which was abandoned after their redesign. Many modern websites have functionality for users to retrieve <strong>their own</strong> data archive.</p>
-
 <p>Anyway, I forgot about this for some time, until I found <a href="https://lastfm.ghan.nl/export/">this wonderful website</a> which after only providing it with my username, it gave me a <strong>CSV</strong> file with my <em>whole listening history</em> in a nice structure.</p>
-
 <p>Then I thought, how will I operate on this data? I didn&rsquo;t have to think for long, because my favorite tool when doing aggregations and nice stuff with data at work is <strong>Apache Spark</strong>. Usually we work with <strong>Hive</strong> tables, but I remembered you can also open other kinds of files.</p>
-
 <p>So I did the reasonable thing, and opened this <strong>CSV</strong> file with <strong>PySpark</strong> <em>(these very convenient guides (<a href="https://kevinvecmanis.io/python/pyspark/install/2019/05/31/Installing-Apache-Spark.html" title="Install Apache Spark">1</a>, <a href="https://sharing.luminis.eu/blog/how-to-install-pyspark-and-apache-spark-on-macos/" title="Install Apache Spark">2</a>) were how I installed the required dependencies for PySpark ready to use with Jupyter/Anaconda).</em></p>
-
-<pre><code>root
+<pre tabindex="0"><code>root
  |-- uts: integer (nullable = true)
  |-- utc_time: string (nullable = true)
  |-- artist: string (nullable = true)
@@ -164,14 +158,9 @@
  |-- album_mbid: string (nullable = true)
  |-- track: string (nullable = true)
  |-- track_mbid: string (nullable = true)
-</code></pre>
-
-<p>That&rsquo;s the simple schema of the data, and this is just enough information for me to do my queries!</p>
-
+</code></pre><p>That&rsquo;s the simple schema of the data, and this is just enough information for me to do my queries!</p>
 <p>A few interesting <em>(at least for myself)</em> tidbits of data is that according to this, I&rsquo;ve listened to <strong>14130</strong> unique songs from <strong>2194</strong> artists about <strong>121403</strong> times in the last <strong>8 years</strong>!</p>
-
 <p>Some things I want to find out from this data:</p>
-
 <ul>
 <li><em>Listening history for <strong>specific</strong> songs/albums/artists.</em></li>
 <li><em>Finding songs which I&rsquo;ve played <strong>a lot</strong> on a single <a href="https://pastebin.com/raw/mX6c1b4J">day</a> or <a href="https://pastebin.com/raw/AqJ2devC">week</a>.</em></li>
@@ -181,9 +170,7 @@
 <li><em>Finding <strong>seasonal</strong> variations and <strong>patterns</strong> on the music I listen too.</em></li>
 <li><em>Finding which artists I&rsquo;m likely to <strong>listen together</strong> in a brief period of time.</em></li>
 </ul>
-
 <p>For now I&rsquo;m still doing some exploratory queries, aggregations, and visualizations on this data, but will update with any interesting things I perform on this data.</p>
-
 <p><strong>I do this, because I want to understand my musical behaviors from the perspective of my own data!</strong></p>
 
 	</div>

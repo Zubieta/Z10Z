@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arts on Z10Z</title>
     <link>https://zubie7a.github.io/z10z/categories/arts/</link>
     <description>Recent content in Arts on Z10Z</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Dec 2020 16:24:42 +0200</lastBuildDate>
-    
-	<atom:link href="https://zubie7a.github.io/z10z/categories/arts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 06 Dec 2020 16:24:42 +0200</lastBuildDate><atom:link href="https://zubie7a.github.io/z10z/categories/arts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CraZe on the App Store</title>
       <link>https://zubie7a.github.io/z10z/craze-on-the-app-store/</link>
       <pubDate>Sun, 06 Dec 2020 16:24:42 +0200</pubDate>
       
       <guid>https://zubie7a.github.io/z10z/craze-on-the-app-store/</guid>
-      <description>CraZe is finally available on the App Store!
-After lots of crazy and intense moments this year, I got enough momentum to start learning Swift from scratch, and playing around a lot with it (it is quite a nice language!).
+      <description>After lots of crazy and intense moments this year, I got enough momentum to start learning Swift from scratch, and playing around a lot with it (it is quite a nice language!).
 Development started in August, and by October 80% was done, however I had to stop development for a couple months, but now I poured all my energy this last weekend into finishing the final stretch and finally publishing the first version!</description>
     </item>
     
@@ -37,7 +32,6 @@ Development started in August, and by October 80% was done, however I had to sto
       
       <guid>https://zubie7a.github.io/z10z/processing-community-day-amsterdam-2019/</guid>
       <description>I presented my work made on CraZe in the Processing Community Day, Amsterdam edition. It was a very interesting experience because I got to meet a booming creative coding community which I didn&amp;rsquo;t know about before, and because the things I presented were things I had been working on for years but had never properly presented to an audience.
- 
 This is the presentation I made. I got great feedback, questions, and most importantly the people I met were very inspiring because the great and curious things they do.</description>
     </item>
     
@@ -87,9 +81,8 @@ Its the language most of Computational Artists use nowadays to make some neat st
       
       <guid>https://zubie7a.github.io/z10z/ad-infinitum/</guid>
       <description>A grid full of individual cells. Each with a color value chosen at random. Overall, there are 12 different colors that wrap around.
-Suddenly, each cell becomes a prey, its hunter, is the &amp;lsquo;next&amp;rsquo; color in the rules:
-1 -&amp;gt; 2 / 2 -&amp;gt; 3 / n -&amp;gt; n+1 / 12 -&amp;gt; 1
-If everything goes according to the plan, a curious linear and cyclical pattern is formed. But then, once in a while, rules change, and chaos appears.</description>
+Suddenly, each cell becomes a prey, its hunter, is the &amp;rsquo;next&amp;rsquo; color in the rules:
+If everything goes according to the plan, a curious linear and cyclical pattern is formed. But then, once in a while, rules change, and chaos appears. This chaos, is the prey fighting back.</description>
     </item>
     
     <item>
@@ -98,10 +91,8 @@ If everything goes according to the plan, a curious linear and cyclical pattern 
       <pubDate>Thu, 10 May 2012 02:19:23 -0500</pubDate>
       
       <guid>https://zubie7a.github.io/z10z/shine-on-you-crazy-fractal/</guid>
-      <description>&amp;ldquo;For all those Fractal Hearts, Convoluted, and complex.
-No matter how deep, full of detail. The intrinsic shape of The Universe&amp;rdquo;
-
-This is a simulation made in C++ with SFML 2.0. Every frame is a Julia Set fractal rendered with a slightly varying initial parameter, and fractals with neighboring initial parameters are very similar, so it gives the illusion that its evolving. You can find the code at GitHub.</description>
+      <description>This is a simulation made in C++ with SFML 2.0. Every frame is a Julia Set fractal rendered with a slightly varying initial parameter, and fractals with neighboring initial parameters are very similar, so it gives the illusion that its evolving. You can find the code at GitHub.
+The first strategy for varying the initial parameter is like a row by row scan of points of the complex plane from the uppermost left corner down the the lowermost right corner.</description>
     </item>
     
   </channel>

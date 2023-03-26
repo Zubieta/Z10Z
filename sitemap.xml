@@ -1,213 +1,129 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://zubie7a.github.io/z10z/categories/arts/</loc>
     <lastmod>2020-12-06T16:24:42+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/categories/</loc>
     <lastmod>2020-12-06T16:24:42+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/craze-on-the-app-store/</loc>
     <lastmod>2020-12-06T16:24:42+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/categories/programming/</loc>
     <lastmod>2020-12-06T16:24:42+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/</loc>
     <lastmod>2020-12-06T16:24:42+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/categories/music/</loc>
     <lastmod>2020-09-04T21:05:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/music_listening_analisis/</loc>
     <lastmod>2020-09-04T21:05:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/categories/life/</loc>
     <lastmod>2020-08-22T13:42:13+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/seven-years-pt-iii/</loc>
     <lastmod>2020-08-22T13:42:13+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/random-pattern-generator/</loc>
     <lastmod>2020-04-20T15:10:51+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/fundamentals-of-reinforcement-learning/</loc>
     <lastmod>2019-08-20T19:19:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/categories/learning/</loc>
     <lastmod>2019-08-20T19:19:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/categories/science/</loc>
     <lastmod>2019-08-20T19:19:23+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/seven-years-pt-ii/</loc>
     <lastmod>2019-08-18T13:42:13+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/processing-community-day-amsterdam-2019/</loc>
     <lastmod>2019-02-09T14:21:42+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/bitwise-pattern-generator/</loc>
     <lastmod>2019-01-20T02:19:23-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/data-driven-astronomy/</loc>
     <lastmod>2018-09-08T21:21:21+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/seven-years-pt-i/</loc>
     <lastmod>2018-08-17T13:42:13+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/amsterdam-bookingcom-and-me/</loc>
     <lastmod>2017-05-01T14:21:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/graduation/</loc>
     <lastmod>2016-12-16T15:15:15-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/system-failure/</loc>
     <lastmod>2016-01-26T02:42:21-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/craze_on_the_web/</loc>
     <lastmod>2015-05-14T03:29:55-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/dies-irae/</loc>
     <lastmod>2015-04-17T01:32:32-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/internships-at-google/</loc>
     <lastmod>2015-02-12T15:49:11-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/holidays-of-craze-times/</loc>
     <lastmod>2014-12-29T21:46:47-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/motivation-vs-discipline/</loc>
     <lastmod>2014-11-16T01:32:32-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/2014-fifa-world-cup-memories/</loc>
     <lastmod>2014-07-15T15:58:35-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/exploring-device-functionality/</loc>
     <lastmod>2014-06-18T01:32:32-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/categories/technology/</loc>
     <lastmod>2014-06-18T01:32:32-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/klavikol/</loc>
     <lastmod>2014-03-15T16:06:26-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/playing-with-processing/</loc>
     <lastmod>2014-02-14T02:19:23-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/those-starry-nights/</loc>
     <lastmod>2013-07-07T19:19:23-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/the-blackberry-10-experience/</loc>
     <lastmod>2013-03-26T21:46:47-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/7-2-1/</loc>
     <lastmod>2013-03-25T17:27:22-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/ad-infinitum/</loc>
     <lastmod>2012-05-16T14:15:16-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/shine-on-you-crazy-fractal/</loc>
     <lastmod>2012-05-10T02:19:23-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/concerts/</loc>
     <lastmod>0042-06-10T14:21:01-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/music/</loc>
     <lastmod>0042-06-10T14:21:01-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/about-me/</loc>
     <lastmod>0042-06-10T14:21:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/crazeapp-privacy-policy/</loc>
     <lastmod>0042-06-10T07:21:01+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/series/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zubie7a.github.io/z10z/tags/</loc>
   </url>
-  
 </urlset>

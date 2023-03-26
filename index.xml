@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Z10Z</title>
     <link>https://zubie7a.github.io/z10z/</link>
     <description>Recent content on Z10Z</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Dec 2020 16:24:42 +0200</lastBuildDate>
-    
-	<atom:link href="https://zubie7a.github.io/z10z/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 06 Dec 2020 16:24:42 +0200</lastBuildDate><atom:link href="https://zubie7a.github.io/z10z/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CraZe on the App Store</title>
       <link>https://zubie7a.github.io/z10z/craze-on-the-app-store/</link>
       <pubDate>Sun, 06 Dec 2020 16:24:42 +0200</pubDate>
       
       <guid>https://zubie7a.github.io/z10z/craze-on-the-app-store/</guid>
-      <description>CraZe is finally available on the App Store!
-After lots of crazy and intense moments this year, I got enough momentum to start learning Swift from scratch, and playing around a lot with it (it is quite a nice language!).
+      <description>After lots of crazy and intense moments this year, I got enough momentum to start learning Swift from scratch, and playing around a lot with it (it is quite a nice language!).
 Development started in August, and by October 80% was done, however I had to stop development for a couple months, but now I poured all my energy this last weekend into finishing the final stretch and finally publishing the first version!</description>
     </item>
     
@@ -65,8 +60,7 @@ I have been &amp;ldquo;working from home&amp;rdquo; since March. Some people wou
       <pubDate>Sun, 18 Aug 2019 13:42:13 +0200</pubDate>
       
       <guid>https://zubie7a.github.io/z10z/seven-years-pt-ii/</guid>
-      <description>&amp;ldquo;Starting is easy, persistence is an art&amp;rdquo;
-For a long time in my life, I just went with the flow, pursuing whatever interesting opportunities came available, but without much of an overarching goal and a plan to reach it. This direction started changing last year with this deep discussion about things seven years in the future, which planted in my head the idea of seeking an ultimate goal, or at least find such a goal for myself.</description>
+      <description>For a long time in my life, I just went with the flow, pursuing whatever interesting opportunities came available, but without much of an overarching goal and a plan to reach it. This direction started changing last year with this deep discussion about things seven years in the future, which planted in my head the idea of seeking an ultimate goal, or at least find such a goal for myself.</description>
     </item>
     
     <item>
@@ -76,7 +70,6 @@ For a long time in my life, I just went with the flow, pursuing whatever interes
       
       <guid>https://zubie7a.github.io/z10z/processing-community-day-amsterdam-2019/</guid>
       <description>I presented my work made on CraZe in the Processing Community Day, Amsterdam edition. It was a very interesting experience because I got to meet a booming creative coding community which I didn&amp;rsquo;t know about before, and because the things I presented were things I had been working on for years but had never properly presented to an audience.
- 
 This is the presentation I made. I got great feedback, questions, and most importantly the people I met were very inspiring because the great and curious things they do.</description>
     </item>
     
@@ -107,7 +100,6 @@ In Astronomy, there&amp;rsquo;s tons of data captured by multiple instruments an
       
       <guid>https://zubie7a.github.io/z10z/seven-years-pt-i/</guid>
       <description>It was during a sort of deep talk at lunch with my teammates, that I had a deep discussion with Hadi about the future. I talked about the goals I wanted to reach, all the things I wanted to learn, but how far away or out of reach they seemed. He then told me something like
-&amp;ldquo;Let&amp;rsquo;s see in seven years where are you at&amp;rdquo;
 It was something like a challenge and at the same time a promise, an expectation, a motivation.</description>
     </item>
     
@@ -137,8 +129,7 @@ The process was surprisingly fast, from the moment I had my on-site interviews u
       <pubDate>Tue, 26 Jan 2016 02:42:21 -0500</pubDate>
       
       <guid>https://zubie7a.github.io/z10z/system-failure/</guid>
-      <description>&amp;ldquo;All we need to survive is one person who truly loves us&amp;rdquo;
-Sometimes I forget, and then I remember. Sometimes I&amp;rsquo;m aimless but then I recover my direction. The words that help me remember my purpose get lost in thoughts but then come back and I remember what I have to do.</description>
+      <description>Sometimes I forget, and then I remember. Sometimes I&amp;rsquo;m aimless but then I recover my direction. The words that help me remember my purpose get lost in thoughts but then come back and I remember what I have to do.</description>
     </item>
     
     <item>
@@ -207,7 +198,7 @@ Like a long forgotten promise, from the depths of Christmas 2012 (oh, that weeke
       
       <guid>https://zubie7a.github.io/z10z/exploring-device-functionality/</guid>
       <description>I&amp;rsquo;ve been playing around with some pieces of technology (an Android Tablet, an Android Phone, Apple’s Magic Keyboard/Trackpad, a MHL-Compliant TV) which I own, and found out some simple but neat functionality which I didn’t know they could perform together:
- If you have an Android Tablet/Phone, and if you pair a BT Keyboard like Apple&amp;rsquo;s own Magic Keyboard, you can perform a lot of functionality from the keyboard. Many sites mention some basic shortcuts for external keyboards, and some seem reasonable (like the media buttons, or shortcuts to replace the regular buttons), but some are surprising because are Apple-specific buttons that perform similar functionality on an Android device, these are:</description>
+If you have an Android Tablet/Phone, and if you pair a BT Keyboard like Apple&amp;rsquo;s own Magic Keyboard, you can perform a lot of functionality from the keyboard. Many sites mention some basic shortcuts for external keyboards, and some seem reasonable (like the media buttons, or shortcuts to replace the regular buttons), but some are surprising because are Apple-specific buttons that perform similar functionality on an Android device, these are:</description>
     </item>
     
     <item>
@@ -216,10 +207,8 @@ Like a long forgotten promise, from the depths of Christmas 2012 (oh, that weeke
       <pubDate>Sat, 15 Mar 2014 16:06:26 -0500</pubDate>
       
       <guid>https://zubie7a.github.io/z10z/klavikol/</guid>
-      <description>This is the most sloppy version of the intro of Muse&amp;rsquo;s song &amp;lsquo;Explorers&amp;rsquo;, played of course, by me.
-
-This is part of my Computer Graphics class&amp;rsquo; project. It&amp;rsquo;s using the Processing programming language, the TheMidiBus library, and a KORG nanoKEY as input.
-The triangle changes its size according to the pitch of the key, and the color its brighter if the key is pressed hard, if not, it will be pale in color.</description>
+      <description>\ This is part of my Computer Graphics class&amp;rsquo; project. It&amp;rsquo;s using the Processing programming language, the TheMidiBus library, and a KORG nanoKEY as input.
+The triangle changes its size according to the pitch of the key, and the color its brighter if the key is pressed hard, if not, it will be pale in color. Also, each note has its own color across the hue spectrum, going from Red to Red (mapped to musical notes, from C to C).</description>
     </item>
     
     <item>
@@ -257,7 +246,7 @@ Its the language most of Computational Artists use nowadays to make some neat st
       
       <guid>https://zubie7a.github.io/z10z/7-2-1/</guid>
       <description>So, I&amp;rsquo;m fascinated by the numbers 7, 2 and 1 quite a lot. Really. Also any of the multiples of seven, but not so much as seven itself and twenty-one, and the digits of that number, two and one, and then any number with a digits combination of seven, two, and one, for example 721.
-One day in school I was doing some math in my calculator, and needed the result of the 84&amp;frasl;66 fraction.</description>
+One day in school I was doing some math in my calculator, and needed the result of the 84/66 fraction.</description>
     </item>
     
     <item>
@@ -267,9 +256,8 @@ One day in school I was doing some math in my calculator, and needed the result 
       
       <guid>https://zubie7a.github.io/z10z/ad-infinitum/</guid>
       <description>A grid full of individual cells. Each with a color value chosen at random. Overall, there are 12 different colors that wrap around.
-Suddenly, each cell becomes a prey, its hunter, is the &amp;lsquo;next&amp;rsquo; color in the rules:
-1 -&amp;gt; 2 / 2 -&amp;gt; 3 / n -&amp;gt; n+1 / 12 -&amp;gt; 1
-If everything goes according to the plan, a curious linear and cyclical pattern is formed. But then, once in a while, rules change, and chaos appears.</description>
+Suddenly, each cell becomes a prey, its hunter, is the &amp;rsquo;next&amp;rsquo; color in the rules:
+If everything goes according to the plan, a curious linear and cyclical pattern is formed. But then, once in a while, rules change, and chaos appears. This chaos, is the prey fighting back.</description>
     </item>
     
     <item>
@@ -278,10 +266,8 @@ If everything goes according to the plan, a curious linear and cyclical pattern 
       <pubDate>Thu, 10 May 2012 02:19:23 -0500</pubDate>
       
       <guid>https://zubie7a.github.io/z10z/shine-on-you-crazy-fractal/</guid>
-      <description>&amp;ldquo;For all those Fractal Hearts, Convoluted, and complex.
-No matter how deep, full of detail. The intrinsic shape of The Universe&amp;rdquo;
-
-This is a simulation made in C++ with SFML 2.0. Every frame is a Julia Set fractal rendered with a slightly varying initial parameter, and fractals with neighboring initial parameters are very similar, so it gives the illusion that its evolving. You can find the code at GitHub.</description>
+      <description>This is a simulation made in C++ with SFML 2.0. Every frame is a Julia Set fractal rendered with a slightly varying initial parameter, and fractals with neighboring initial parameters are very similar, so it gives the illusion that its evolving. You can find the code at GitHub.
+The first strategy for varying the initial parameter is like a row by row scan of points of the complex plane from the uppermost left corner down the the lowermost right corner.</description>
     </item>
     
     <item>
@@ -299,12 +285,29 @@ This is a simulation made in C++ with SFML 2.0. Every frame is a Julia Set fract
       <pubDate>Tue, 10 Jun 0042 14:21:01 -0500</pubDate>
       
       <guid>https://zubie7a.github.io/z10z/music/</guid>
-      <description>2011
-July 10th, 2011.  &amp;ldquo;Change everything you are, and everything you were&amp;rdquo;
-September 15th, 2011.  &amp;ldquo;The circle only has one side&amp;rdquo;
-October 1st, 2011.  I truly believe Echoes was made to go along 2001: A Space Odyssey.
-&amp;ldquo;And no one called us to the land, and no one knows the where&amp;rsquo;s or why&amp;rsquo;s&amp;rdquo;
-November 16th, 2011.  &amp;ldquo;What we&amp;rsquo;ve become, is contrary to what we want&amp;rdquo;</description>
+      <description>July 10th, 2011.
+September 15th, 2011.
+October 1st, 2011.
+November 16th, 2011.
+December 1st, 2011.
+December 10th, 2011.
+December 18th, 2011.
+December 30th, 2011.
+January 2th, 2012.
+February 25th, 2012.
+May 27th, 2012.
+June 16th, 2012.
+July 9th, 2012.
+July 15th, 2012.
+August 30th, 2012.
+September 23rd, 2012.
+September 28th, 2012.
+October 14th, 2012.
+February 2th, 2013.
+February 4th, 2013.
+March 13th, 2013.
+April 27th, 2013.
+May 15th, 2013.</description>
     </item>
     
     <item>
@@ -323,8 +326,8 @@ My daily work involves interacting with other Developers, Data Scientists, and P
       <pubDate>Tue, 10 Jun 0042 07:21:01 +0200</pubDate>
       
       <guid>https://zubie7a.github.io/z10z/crazeapp-privacy-policy/</guid>
-      <description>Overview This Privacy Policy describes how your personal information is handled in CraZeApp for iOS.
-We Collect No Personal Information Using Our Applications We do not collect, use, save, or have access to any of your personal data recorded in CraZeApp for iOS.
+      <description>Overview This Privacy Policy describes how your personal information is handled in CraZeApp for iOS and Android.
+We Collect No Personal Information Using Our Applications We do not collect, use, save, or have access to any of your personal data recorded in CraZeApp for iOS and Android.
 Individual settings relating to CraZeApp are not personal and are stored only on your device. You might also be asked to provide access to your photo library, but this is only so you can save your drawings from CraZeApp.</description>
     </item>
     
